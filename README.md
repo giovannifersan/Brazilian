@@ -2,12 +2,12 @@ Brazilian
 ======
 
 
-Biblioteca de ferramentas utilitárias voltadas para programadores brasileiros.
+Biblioteca de ferramentas utilitárias para programadores brasileiros.
 
 ### Instalação
 
 **node.js**  
-`npm install brasil --save`
+`npm install brazilian --save`
 
 ### Contribuidores
 
