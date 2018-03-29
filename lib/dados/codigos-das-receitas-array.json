@@ -1,0 +1,2762 @@
+[
+    {
+        "codigo": "0075",
+        "descricao": "RESSARCIMENTO CASA DA MOEDA - LEI 11.488/2007"
+    },
+    {
+        "codigo": "0086",
+        "descricao": "II - IMPOSTO IMPORTAÇÃO - OUTROS"
+    },
+    {
+        "codigo": "0107",
+        "descricao": "IE - IMPOSTO EXPORTAÇÃO - OUTROS"
+    },
+    {
+        "codigo": "0135",
+        "descricao": "CONTRIBUIÇÃO LOTERIA ESPECIAL - TIMEMANIA"
+    },
+    {
+        "codigo": "0148",
+        "descricao": "CIDE - COMBUSTÍVEIS - IMPORTAÇÃO - LANÇAMENTO DE OFÍCIO"
+    },
+    {
+        "codigo": "0176",
+        "descricao": "R D ATIVA - PARCELAMENTO TIMEMANIA - CLUBES DE FUTEBOL"
+    },
+    {
+        "codigo": "0191",
+        "descricao": "CSLL - TRIBUTAÇÃO DIFERIDA/OPÇÃO PELO SIMPLES - LANÇ OFÍCIO"
+    },
+    {
+        "codigo": "0220",
+        "descricao": "IRPJ-PJ OBRIGADAS AO LUCRO REAL – ENTIDADES NÃO FINANCEIRAS – BALANÇO TRIMESTRAL"
+    },
+    {
+        "codigo": "0231",
+        "descricao": "IRPJ - GANHO LIQ OPER BOLSA - LUCRO PRES/ARBITRADO-PAG EM SEPARADO"
+    },
+    {
+        "codigo": "0244",
+        "descricao": "IOF - OURO ATIVO FINANCEIRO - LANÇAMENTO DE OFÍCIO"
+    },
+    {
+        "codigo": "0285",
+        "descricao": "PARCELAMENTO PARA INGRESSO NO SIMPLES NACIONAL"
+    },
+    {
+        "codigo": "0289",
+        "descricao": "MULTA DA CLT"
+    },
+    {
+        "codigo": "0298",
+        "descricao": "IMPOSTO DE EXPORTAÇÃO-LANÇAMENTO DE OFÍCIO"
+    },
+    {
+        "codigo": "0300",
+        "descricao": "RECEITA DIREITOS ANTIDUMPING-LANÇAMENTO DE OFÍCIO"
+    },
+    {
+        "codigo": "0338",
+        "descricao": "MULTA ISOLADA REC DIREITOS ANTIDUMP E COMPENS ART. 7º LEI 9019/95"
+    },
+    {
+        "codigo": "0340",
+        "descricao": "JUROS ISOLADOS REC DIREITOS ANTIDUMP E COMPENS ART. 7º LEI 9019/95"
+    },
+    {
+        "codigo": "0353",
+        "descricao": "PARCELAMENTO TIMEMANIA"
+    },
+    {
+        "codigo": "0381",
+        "descricao": "MULTA POR OMISSÃO/ERRO NA DIRF ANUAL"
+    },
+    {
+        "codigo": "0390",
+        "descricao": "MULTA POR FALTA OU ATRASO NA ENTREGA DA DIMOF"
+    },
+    {
+        "codigo": "0394",
+        "descricao": "CONTRIBUIÇÃO PRÊMIOS PRESCRITOS - LEI 5.768/1971"
+    },
+    {
+        "codigo": "0400",
+        "descricao": "R D ATIVA - PARCELAMENTO PARA INGRESSO NO SIMPLES NACIONAL"
+    },
+    {
+        "codigo": "0416",
+        "descricao": "IRPJ-REGIME ESPECIAL TRIB-PATRIMÔNIO AFETAÇÃO-LANÇAMENTO DE OFÍCIO"
+    },
+    {
+        "codigo": "0422",
+        "descricao": "IRRF - ROYALTIES E ASSISTÊNCIA TÉCNICA - RESIDENTES EXTERIOR"
+    },
+    {
+        "codigo": "0434",
+        "descricao": "COFINS - IMPORTAÇÃO DE SERVIÇOS- LANÇAMENTO DE OFÍCIO"
+    },
+    {
+        "codigo": "0439",
+        "descricao": "MULTA POR FALTA OU ATRASO NA ENTREGA DA DTTA"
+    },
+    {
+        "codigo": "0445",
+        "descricao": "R D ATIVA - FUNCAFÉ - LEILÃO"
+    },
+    {
+        "codigo": "0449",
+        "descricao": "PIS-IMPORTAÇÃO DE SERVIÇOS-LANÇAMENTO DE OFÍCIO"
+    },
+    {
+        "codigo": "0450",
+        "descricao": "IRPJ - GANHO DE CAPITAL - ALIEN ATIVO ME/EPP SIMPLES- LANC OFÍCIO"
+    },
+    {
+        "codigo": "0457",
+        "descricao": "RECEITA DIVIDA ATIVA - CONTRIBUIÇÃO AÇÚCAR E ÁLCOOL"
+    },
+    {
+        "codigo": "0468",
+        "descricao": "COFINS-REGIME ESPECIAL TRIBUTAÇÃO-PATRIMÔNIO AFETAÇÃO-LANÇ OFÍCIO"
+    },
+    {
+        "codigo": "0473",
+        "descricao": "IRRF - RENDIMENTOS DO TRABALHO E DE QUALQUER NATUREZA, COMO OS PRO"
+    },
+    {
+        "codigo": "0481",
+        "descricao": "IRRF - JUROS E COMISSÕES EM GERAL - RESIDENTES NO EXTERIOR"
+    },
+    {
+        "codigo": "0490",
+        "descricao": "IRRF - APLICAÇÕES EM FUNDOS DE INVESTIMENTO DE CONVERSÃO DE DÉBITOS EXTERNOS"
+    },
+    {
+        "codigo": "0507",
+        "descricao": "IRPJ-GANHO CAP-ALIENAÇÃO ATIVOS ME/EPP OPTANTES SIMPLES NACIONAL"
+    },
+    {
+        "codigo": "0513",
+        "descricao": "PIS-REGIME ESPECIAL TRIBUTAÇÃO-PATRIMÔNIO AFETAÇÃO-LANÇ DE OFÍCIO"
+    },
+    {
+        "codigo": "0520",
+        "descricao": "PARCELAMENTO INSTITUIÇÕES DE ENSINO SUPERIOR - LEI Nº 10.260/01"
+    },
+    {
+        "codigo": "0536",
+        "descricao": "R D ATIVA-PARCELAMENTO-INSTITUIÇÕES ENSINO SUPERIOR-LEI 10.260/01"
+    },
+    {
+        "codigo": "0542",
+        "descricao": "CSLL-REGIME ESPECIAL TRIBUTAÇÃO-PATRIMÔNIO AFETAÇÃO-LANÇ OFÍCIO"
+    },
+    {
+        "codigo": "0559",
+        "descricao": "MULTA POR FALTA OU ATRASO NA ENTREGA DA DERC"
+    },
+    {
+        "codigo": "0561",
+        "descricao": "IRRF - RENDIMENTO DO TRABALHO ASSALARIADO"
+    },
+    {
+        "codigo": "0565",
+        "descricao": "MULTA POR FALTA OU ATRASO NA ENTREGA DA DBF"
+    },
+    {
+        "codigo": "0588",
+        "descricao": "IRRF - RENDIMENTO DO TRABALHO SEM VÍNCULO EMPREGATÍCIO"
+    },
+    {
+        "codigo": "0594",
+        "descricao": "MULTA POR FALTA OU ATRASO NA ENTREGA DA DASN"
+    },
+    {
+        "codigo": "0610",
+        "descricao": "IRRF - TRANSPORTE RODOVIARIO INTERN CARGA-PG PJ A PF-PARAGUAI"
+    },
+    {
+        "codigo": "0627",
+        "descricao": "MULTA POR FALTA OU ATRASO NA ENTREGA DA DEREX"
+    },
+    {
+        "codigo": "0656",
+        "descricao": "MULTA POR FALTA OU ATRASO NA ENTREGA DA DECRED"
+    },
+    {
+        "codigo": "0662",
+        "descricao": "MULTA POR FALTA OU ATRASO NA ENTREGA DA DPREV"
+    },
+    {
+        "codigo": "0668",
+        "descricao": "IPI - BEBIDAS"
+    },
+    {
+        "codigo": "0676",
+        "descricao": "IPI - AUTOMÓVEIS"
+    },
+    {
+        "codigo": "0679",
+        "descricao": "PIS - TRIBUTAÇÃO DE BEBIDAS FRIAS - CERVEJAS"
+    },
+    {
+        "codigo": "0685",
+        "descricao": "R D ATIVA - MULTA REGIME DISCIPLINAR DA RARF"
+    },
+    {
+        "codigo": "0691",
+        "descricao": "PIS - TRIBUTAÇÃO DE BEBIDAS FRIAS - DEMAIS BEBIDAS"
+    },
+    {
+        "codigo": "0692",
+        "descricao": "DIVERSAS RECEITAS"
+    },
+    {
+        "codigo": "0724",
+        "descricao": "PIS IMPORTAÇÃO - TRIBUTAÇÃO DE BEBIDAS FRIAS - CERVEJAS"
+    },
+    {
+        "codigo": "0733",
+        "descricao": "IRPJ – DEVOLUÇÃO DE RECURSO APLICADOS - REDUÇÃO POR REINVESTIMENTO"
+    },
+    {
+        "codigo": "0753",
+        "descricao": "PIS IMPORTAÇÃO -TRIBUTAÇÃO DE BEBIDAS FRIAS - DEMAIS BEBIDAS"
+    },
+    {
+        "codigo": "0760",
+        "descricao": "COFINS - TRIBUTAÇÃO DE BEBIDAS FRIAS - CERVEJAS"
+    },
+    {
+        "codigo": "0761",
+        "descricao": "R D ATIVA - REGIME ESPECIAL DE TRIBUTAÇÃO DO PATRIMÔNIO AFETAÇÃO"
+    },
+    {
+        "codigo": "0776",
+        "descricao": "COFINS - TRIBUTAÇÃO DE BEBIDAS FRIAS - DEMAIS BEBIDAS"
+    },
+    {
+        "codigo": "0782",
+        "descricao": "COFINS IMPORTAÇÃO - TRIBUTAÇÃO DE BEBIDAS FRIAS - CERVEJAS"
+    },
+    {
+        "codigo": "0790",
+        "descricao": "CONTRIB SOBRE RECEITA SORTEIO POR ENTIDADE FILANTRÓPICA - L OFÍCIO"
+    },
+    {
+        "codigo": "0809",
+        "descricao": "COFINS IMPORTAÇÃO -TRIBUTAÇÃO DE BEBIDAS FRIAS - DEMAIS BEBIDAS"
+    },
+    {
+        "codigo": "0810",
+        "descricao": "RECEITA DÍVIDA ATIVA - PIS"
+    },
+    {
+        "codigo": "0821",
+        "descricao": "IPI - TRIBUTAÇÃO DE BEBIDAS FRIAS - CERVEJAS"
+    },
+    {
+        "codigo": "0830",
+        "descricao": "PARCELAMENTO ART. 1º MP 303/2006 - PJ OPTANTE PELO SIMPLES"
+    },
+    {
+        "codigo": "0836",
+        "descricao": "RECEITA DÍVIDA ATIVA - PASEP"
+    },
+    {
+        "codigo": "0838",
+        "descricao": "IPI - TRIBUTAÇÃO DE BEBIDAS FRIAS - DEMAIS BEBIDAS"
+    },
+    {
+        "codigo": "0842",
+        "descricao": "PARCELAMENTO ART. 1º MP 303/2006 - DEMAIS PESSOAS JURÍDICAS"
+    },
+    {
+        "codigo": "0850",
+        "descricao": "IPI VINCULADO A IMPORTAÇÃO-TRIBUTAÇÃO DE BEBIDAS FRIAS - CERVEJAS"
+    },
+    {
+        "codigo": "0867",
+        "descricao": "IPI VINCULADO A IMPORTAÇÃO-TRIBUTAÇÃO BEBIDAS FRIAS-DEMAIS BEBIDAS"
+    },
+    {
+        "codigo": "0873",
+        "descricao": "PARCELAMENTO PARA INGRESSO NO SIMPLES NACIONAL - 2009"
+    },
+    {
+        "codigo": "0879",
+        "descricao": "R D ATIVA – MULTA ISOLADA - CSIRF(ART. 43 DA LEI Nº 9.430 DE 1996)"
+    },
+    {
+        "codigo": "0880",
+        "descricao": "DEVOLUÇÃO DE RETITUIÇÃO INDEVIDA - COFINS/FINSOCIAL - NÃO TRIBUTÁR"
+    },
+    {
+        "codigo": "0883",
+        "descricao": "R D ATIVA – JUROS ISOLADOS - CSIRF(ART. 43 - LEI Nº 9.430 DE 1996)"
+    },
+    {
+        "codigo": "0896",
+        "descricao": "R D ATIVA - COFINS - RETENÇÃO NA FONTE"
+    },
+    {
+        "codigo": "0906",
+        "descricao": "PIS - REGIME ESPECIAL DE APURAÇÃO E PAGAMENTO - ÁLCOOL"
+    },
+    {
+        "codigo": "0912",
+        "descricao": "PIS-IMPORTAÇÃO-REGIME ESPECIAL DE APURAÇÃO E PAGAMENTO - ÁLCOOL"
+    },
+    {
+        "codigo": "0916",
+        "descricao": "IRRF - PRÊMIOS OBTIDOS EM CONCURSOS SORTEIOS"
+    },
+    {
+        "codigo": "0924",
+        "descricao": "IRRF - DEMAIS RENDIMENTOS CAPITAL"
+    },
+    {
+        "codigo": "0929",
+        "descricao": "COFINS - REGIME ESPECIAL DE APURAÇÃO E PAGAMENTO - ÁLCOOL"
+    },
+    {
+        "codigo": "0935",
+        "descricao": "COFINS-IMPORTAÇÃO-REGIME ESPECIAL DE APURAÇÃO E PAGAMENTO - ÁLCOOL"
+    },
+    {
+        "codigo": "0941",
+        "descricao": "PAGAMENTO/PARCELAMENTO - ART. 1º DA MP 449/2008"
+    },
+    {
+        "codigo": "0949",
+        "descricao": "R D ATIVA - PIS - RETENÇÃO NA FONTE"
+    },
+    {
+        "codigo": "0958",
+        "descricao": "PAGAMENTO/PARCELAMENTO - ART. 3º MP 449/08"
+    },
+    {
+        "codigo": "0970",
+        "descricao": "R D ATIVA - PARCELAMENTO PARA INGRESSO NO SIMPLES NACIONAL - 2009"
+    },
+    {
+        "codigo": "0987",
+        "descricao": "PAGAMENTO/PARCELAMENTO - ART. 2º MP 449/08"
+    },
+    {
+        "codigo": "0992",
+        "descricao": "R D ATIVA – CSLL - RETENÇÃO NA FONTE"
+    },
+    {
+        "codigo": "1020",
+        "descricao": "IPI - CIGARROS CONTENDO TABACO"
+    },
+    {
+        "codigo": "1038",
+        "descricao": "IPI - VINCULADO IMPORTAÇÃO"
+    },
+    {
+        "codigo": "1039",
+        "descricao": "R D ATIVA - RECUPERAÇÃO DE RECURSOS - FINOR"
+    },
+    {
+        "codigo": "1045",
+        "descricao": "R D ATIVA - RECUPERAÇÃO DE RECURSOS - FINAM"
+    },
+    {
+        "codigo": "1065",
+        "descricao": "R D ATIVA – PRODUTOS-RETIDO POR ÓRGÃO PÚBLICO"
+    },
+    {
+        "codigo": "1068",
+        "descricao": "PAGAMENTO UNIFICADO - PMCMV/CONSTR OU REFORMA DE CRECHE/PRÉ-ESCOLA"
+    },
+    {
+        "codigo": "1070",
+        "descricao": "ITR - EXERCÍCIO 1997 E POSTERIORES"
+    },
+    {
+        "codigo": "1089",
+        "descricao": "IE - IMPOSTO EXPORTAÇÃO - CACAU"
+    },
+    {
+        "codigo": "1097",
+        "descricao": "IPI - MÁQUINAS, APARELHOS E MATERIAL DE TRANSPORTE"
+    },
+    {
+        "codigo": "1107",
+        "descricao": "MULTA POR FALTA OU ATRASO NA ENTREGA DA GFIP"
+    },
+    {
+        "codigo": "1113",
+        "descricao": "IRPJ - SIMPLES NACIONAL - LANÇAMENTO DE OFÍCIO"
+    },
+    {
+        "codigo": "1118",
+        "descricao": "R D ATIVA - MEDICAMENTOS ADQUIR DISTRIB/VAREJ - RET ORGÃO PUBLICO"
+    },
+    {
+        "codigo": "1134",
+        "descricao": "RECEITA DÍVIDA ATIVA - FINSOCIAL"
+    },
+    {
+        "codigo": "1136",
+        "descricao": "LEI 11.941/09-PGFN-DEB PREV-PARCELAMENTO ART. 1º"
+    },
+    {
+        "codigo": "1142",
+        "descricao": "RECEITA DÍVIDA ATIVA - IOF"
+    },
+    {
+        "codigo": "1150",
+        "descricao": "IOF - OPERAÇÕES DE CRÉDITO - PESSOA JURÍDICA"
+    },
+    {
+        "codigo": "1165",
+        "descricao": "LEI 11.941/09-PGFN-DEB PREV-PARCELAMENTO ART. 3º"
+    },
+    {
+        "codigo": "1171",
+        "descricao": "LEI 11.941/09-PGFN-DEB PREV-PG C/ PREJ FISCAL E BC NEG CSLL"
+    },
+    {
+        "codigo": "1174",
+        "descricao": "R D ATIVA – PNEU/CAM-DE-AR BORR ADQUIR FABR/IMP - RETIDO ORG PUBL"
+    },
+    {
+        "codigo": "1188",
+        "descricao": "LEI 11.941/09-PGFN-DEMAIS DEB-PG C/ PREJ FISCAL BC NEG CSLL"
+    },
+    {
+        "codigo": "1194",
+        "descricao": "LEI 11.941/09-PGFN-DEMAIS DEB-PARCELAMENTO ART. 1º"
+    },
+    {
+        "codigo": "1204",
+        "descricao": "LEI 11.941/09-PGFN-DEMAIS DEB-PARCELAMENTO ART. 3º"
+    },
+    {
+        "codigo": "1210",
+        "descricao": "LEI 11.941/09-PGFN-PARCELAMENTO APROV INDEVIDO CRED IPI-ART. 2º"
+    },
+    {
+        "codigo": "1214",
+        "descricao": "R D ATIVA – MAQ/TRAT/VEIC TRANSP PASSAG/MERC–RETIDO ÓRGÃO PUBLICO"
+    },
+    {
+        "codigo": "1230",
+        "descricao": "R D ATIVA - QUEROSENE AVIACAO ADQUIR PRODUTOR/IMP - RET ÓRGÃO PUBL"
+    },
+    {
+        "codigo": "1233",
+        "descricao": "LEI 11.941/09-RFB-DEB PREV-PARCELAMENTO ART. 1º"
+    },
+    {
+        "codigo": "1240",
+        "descricao": "LEI 11.941/09-RFB-DEB PREV-PARCELAMENTO ART. 3º"
+    },
+    {
+        "codigo": "1256",
+        "descricao": "LEI 11.941/09-RFB-DEB PREV-PG C/ PREJ FISCAL E BC NEG CSLL"
+    },
+    {
+        "codigo": "1262",
+        "descricao": "LEI 11.941/09-RFB-DEMAIS DEB-PG C/ PREJ FISCAL E BC NEG CSLL"
+    },
+    {
+        "codigo": "1279",
+        "descricao": "LEI 11.941/09-RFB-DEMAIS DEB-PARCELAMENTO ART. 1º"
+    },
+    {
+        "codigo": "1285",
+        "descricao": "LEI 11.941/09-RFB-DEMAIS DEBITOS-PARCELAMENTO ART. 3º"
+    },
+    {
+        "codigo": "1291",
+        "descricao": "LEI 11.941/09-RFB-PARCELAMENTO APROV INDEVIDO CRED IPI - ART. 2º"
+    },
+    {
+        "codigo": "1318",
+        "descricao": "IPI - SIMPLES NACIONAL - LANÇAMENTO DE OFÍCIO"
+    },
+    {
+        "codigo": "1324",
+        "descricao": "CSLL - SIMPLES NACIONAL - LANÇAMENTO DE OFÍCIO"
+    },
+    {
+        "codigo": "1330",
+        "descricao": "COFINS - SIMPLES NACIONAL - LANÇAMENTO DE OFÍCIO"
+    },
+    {
+        "codigo": "1345",
+        "descricao": "MULTA ATRASO ENTREGA DCTF"
+    },
+    {
+        "codigo": "1347",
+        "descricao": "PIS - SIMPLES NACIONAL - LANÇAMENTO DE OFÍCIO"
+    },
+    {
+        "codigo": "1360",
+        "descricao": "CONTRIBUIÇÃO PATRONAL PREVIDENCIÁRIA-SIMPLES NACIONAL-LANÇ OFÍCIO"
+    },
+    {
+        "codigo": "1376",
+        "descricao": "MULTA POR FALTA OU ATRASO NA ENTREGA DA DIF - PAPEL IMUNE"
+    },
+    {
+        "codigo": "1438",
+        "descricao": "MULTA POR FALTA OU ATRASO NA ENTREGA DA ECD"
+    },
+    {
+        "codigo": "1444",
+        "descricao": "PAGAGMENTO/PARCELAMENTO - MP 470/2009 - RFB"
+    },
+    {
+        "codigo": "1460",
+        "descricao": "R D ATIVA - ÁLCOOL CARB ADQUIR DISTRIBUIDOR – RETIDO ÓRGÃO PUBLICO"
+    },
+    {
+        "codigo": "1480",
+        "descricao": "R D ATIVA - PAGAMENTO/PARCELAMENTO - MP 470/2009 - PGFN"
+    },
+    {
+        "codigo": "1496",
+        "descricao": "DEVOLUÇÃO DE RESTITUIÇÃO INDEVIDA - IRPJ - NÃO TRIBUTÁRIO"
+    },
+    {
+        "codigo": "1506",
+        "descricao": "MULTA POR ATRASO NA ENTREGA DA DASN - SIMEI"
+    },
+    {
+        "codigo": "1512",
+        "descricao": "MULTA POR ATRASO NA ENTREGA DO FCONT"
+    },
+    {
+        "codigo": "1513",
+        "descricao": "RECEITA DÍVIDA ATIVA - CUSTAS JUDICIAIS"
+    },
+    {
+        "codigo": "1529",
+        "descricao": "R D ATIVA - FUNDO DE TERRAS E DA REFORMA AGRÁRIA"
+    },
+    {
+        "codigo": "1535",
+        "descricao": "R D ATIVA - FUNCAFÉ - DAÇÃO EM PAGAMENTO"
+    },
+    {
+        "codigo": "1539",
+        "descricao": "R D ATIVA - GASOL/DIESEL/GLP E ALCOOL VAREJO – RET ÓRGÃO PÚBLICO"
+    },
+    {
+        "codigo": "1558",
+        "descricao": "MULTA ADUANEIRA - REMESSA EXPRESSA"
+    },
+    {
+        "codigo": "1570",
+        "descricao": "R D ATIVA - MEDICAMENTO ADQUIR INDUST/IMPORT - RETIDO ÓRGÃO PUBL"
+    },
+    {
+        "codigo": "1582",
+        "descricao": "R D ATIVA – TRANSPORTE DE PASSAGEIRO – RETENÇÃO POR ÓRGÃO PÚBLICO"
+    },
+    {
+        "codigo": "1587",
+        "descricao": "II - IMPOSTO IMPORTAÇÃO - REMESSA EXPRESSA"
+    },
+    {
+        "codigo": "1593",
+        "descricao": "II - IMPOSTO IMPORTAÇÃO - REMESSA EXPRESSA - LANÇAMENTO DE OFÍCIO"
+    },
+    {
+        "codigo": "1595",
+        "descricao": "R D ATIVA – TRANSPORTE INTERNACIONAL PASSAGEIRO - RET ÓRGÃO PUBL"
+    },
+    {
+        "codigo": "1599",
+        "descricao": "IRPJ - PJ OBRIGADAS AO LUCRO REAL – ENTIDADES FINANCEIRAS – BALANÇO TRIMESTRAL"
+    },
+    {
+        "codigo": "1626",
+        "descricao": "MULTA POR ATRASO NA ENTREGA DA DECLARAÇÃO SERVIÇOS MÉDICOS - DMED"
+    },
+    {
+        "codigo": "1632",
+        "descricao": "MULTA POR NÃO RECOLHIMENTO DA ESTIMATIVA - IRPJ"
+    },
+    {
+        "codigo": "1649",
+        "descricao": "MULTA POR NÃO RECOLHIMENTO DA ESTIMATIVA - CSLL"
+    },
+    {
+        "codigo": "1655",
+        "descricao": "MULTA DO REGIME DISCIPLINAR APLICADA À RARP"
+    },
+    {
+        "codigo": "1661",
+        "descricao": "CPSS - SERVIDOR CIVIL ATIVO"
+    },
+    {
+        "codigo": "1684",
+        "descricao": "CPSS - SERVIDOR CIVIL LICENCIADO/AFASTADO"
+    },
+    {
+        "codigo": "1689",
+        "descricao": "R D ATIVA – BENS/SERV ADQUIR COOPER/ASSOC PROFISS - RET ÓRGÃO PUBL"
+    },
+    {
+        "codigo": "1690",
+        "descricao": "CPSS - DECISÃO JUDICIAL MANDADO DE SEGURANÇA"
+    },
+    {
+        "codigo": "1691",
+        "descricao": "R D ATIVA – FINANCEIRAS – RETENÇÃO EM PAGAMENTO POR ÓRGÃO PÚBLICO"
+    },
+    {
+        "codigo": "1700",
+        "descricao": "CPSS - SERVIDOR CIVIL INATIVO"
+    },
+    {
+        "codigo": "1703",
+        "descricao": "R D ATIVA – SERVIÇOS - RETENÇÃO EM PAGAMENTO POR ÓRGÃO PÚBLICO"
+    },
+    {
+        "codigo": "1708",
+        "descricao": "IRRF - REMUNERAÇÃO SERVIÇOS PRESTADOS POR PESSOA JURÍDICA"
+    },
+    {
+        "codigo": "1717",
+        "descricao": "CPSS - PENSIONISTA CIVIL"
+    },
+    {
+        "codigo": "1723",
+        "descricao": "CPSS - SERVIDOR CIVIL ATIVO - PRECATÓRIO/REQUISIÇÃO PEQUENO VALOR"
+    },
+    {
+        "codigo": "1729",
+        "descricao": "R D ATIVA – RETENÇÃO EM PAGAMENTO POR ÓRGÃO PÚBLICO"
+    },
+    {
+        "codigo": "1730",
+        "descricao": "CPSS - SERVIDOR CIVIL INATIVO - PRECATÓRIO/REQUISIÇ PEQUENO VALOR"
+    },
+    {
+        "codigo": "1731",
+        "descricao": "R D ATIVA - RETENÇÃO FONTE CONTRIB PAGT EST/DF/MUNIC – BENS E SERV"
+    },
+    {
+        "codigo": "1752",
+        "descricao": "CPSS - PENSIONISTA - PRECATÓRIO JUDICIAL/REQUISIÇÃO PEQUENO VALOR"
+    },
+    {
+        "codigo": "1769",
+        "descricao": "CPSS - PATRONAL - SERVIDOR CIVIL ATIVO - OPER INTRA-ORÇAMENTÁRIA"
+    },
+    {
+        "codigo": "1772",
+        "descricao": "R D ATIVA - RETENÇÃO FONTE CONTRIBUIÇÕES PAGT PJ A PJ DIR PRIVADO"
+    },
+    {
+        "codigo": "1781",
+        "descricao": "CPSS - PATRONAL - SERV CIVIL LICENCIADO/AFAST - OP INTRA-ORÇAMENT"
+    },
+    {
+        "codigo": "1804",
+        "descricao": "RECEITA DÍVIDA ATIVA - CSLL"
+    },
+    {
+        "codigo": "1808",
+        "descricao": "CPSS - PATRONAL - DECISÃO JUD MAND SEGURANÇA -OPER INTRA-ORÇAMENT"
+    },
+    {
+        "codigo": "1814",
+        "descricao": "CPSS - PATRONAL - SERVIDOR NO EXTERIOR -OPER INTRA-ORÇAMENT"
+    },
+    {
+        "codigo": "1837",
+        "descricao": "CPSS - PATRONAL - PRECATÓRIO/ REQ PEQ VALOR - INTRA-ORÇAMENTÁRIA"
+    },
+    {
+        "codigo": "1840",
+        "descricao": "COFINS – VENDAS À ZFM – SUBSTITUIÇÃO TRIBUTÁRIA"
+    },
+    {
+        "codigo": "1843",
+        "descricao": "R D ATIVA - CONTRIB PLANO SEGURID SOC SERV PÚB - CPSS - PATRONAL"
+    },
+    {
+        "codigo": "1850",
+        "descricao": "CONTRIB PLANO SEG SOC SERV PÚBLICO- CPSS - PATRONAL - LANÇ OFÍCIO"
+    },
+    {
+        "codigo": "1889",
+        "descricao": "IRRF - RENDIMENTOS ACUMULADOS - ART. 12-A LEI Nº 7.713/1988"
+    },
+    {
+        "codigo": "1894",
+        "descricao": "RECEITA DÍVIDA ATIVA - ADICIONAL AO FRETE PARA RENOVAÇÃO DA MARINHA MERCANTE"
+    },
+    {
+        "codigo": "1895",
+        "descricao": "IRRF - REND DECOR DECISÃO JUSTIÇA EST/DF, EXCETO ART 12A L 7713/88"
+    },
+    {
+        "codigo": "1911",
+        "descricao": "R D ATIVA - CONTRIB PLANO SEG SOC SERV PÚB - CPSS - NÃO PATRONAL"
+    },
+    {
+        "codigo": "1921",
+        "descricao": "PIS – VENDAS À ZFM – SUBSTITUIÇÃO TRIBUTÁRIA"
+    },
+    {
+        "codigo": "1928",
+        "descricao": "CONT PLANO SEG SOC SERV PÚB - CPSS - NÃO PATRONAL - LANÇ OFÍCIO"
+    },
+    {
+        "codigo": "1957",
+        "descricao": "DIREITOS DE NATUREZA COMERCIAL"
+    },
+    {
+        "codigo": "1962",
+        "descricao": "II - IMPOSTO IMPORTAÇÃO - PETRÓLEO E DERIVADOS"
+    },
+    {
+        "codigo": "1963",
+        "descricao": "DIREITOS DE NATUREZA COMERCIAL - LANÇAMENTO DE OFICIO"
+    },
+    {
+        "codigo": "1970",
+        "descricao": "MULTA ISOLADA - § 6º DO ART 7º DA LEI Nº 12.270/2010"
+    },
+    {
+        "codigo": "1992",
+        "descricao": "MULTA ISOLADA - § 7º DO ART 7º DA LEI Nº 12.270/2010"
+    },
+    {
+        "codigo": "2009",
+        "descricao": "R D ATIVA - MULTA PROCESSUAL PENAL - TJDF"
+    },
+    {
+        "codigo": "2015",
+        "descricao": "R D ATIVA - CRÉDITO RURAL - SECURITIZAÇÃO"
+    },
+    {
+        "codigo": "2021",
+        "descricao": "R D ATIVA - CRÉDITO RURAL - PROGRAMA ESPECIAL SANEAMENTO ATIVOS"
+    },
+    {
+        "codigo": "2030",
+        "descricao": "CSLL - ENTIDADES FINANCEIRAS - BALANÇO TRIMESTRAL"
+    },
+    {
+        "codigo": "2038",
+        "descricao": "R D ATIVA - CRÉDITO RURAL - PROG DESENVOLV CERRADO - PRODECER II"
+    },
+    {
+        "codigo": "2044",
+        "descricao": "R D ATIVA - CRÉDITO RURAL -PROGRAMA NAC FORTALEC AGRICULT FAMILIAR"
+    },
+    {
+        "codigo": "2050",
+        "descricao": "ITR - TAXA DE CADASTRO CONTRIBUIÇÕES ÁREA RURAL"
+    },
+    {
+        "codigo": "2063",
+        "descricao": "IRRF - TRIBUTAÇÃO EXCLUSIVA SOBRE REMUNERAÇÃO INDIRETA"
+    },
+    {
+        "codigo": "2067",
+        "descricao": "R D ATIVA - CRÉDITO RURAL - PROG RECUPERAÇÃO LAVOURA CACAU BAIANA"
+    },
+    {
+        "codigo": "2089",
+        "descricao": "IRPJ - LUCRO PRESUMIDO"
+    },
+    {
+        "codigo": "2096",
+        "descricao": "CONTRIBUIÇÃO SEGURADOS - LANÇAMENTO DE OFÍCIO"
+    },
+    {
+        "codigo": "2129",
+        "descricao": "RECEITA DÍVIDA ATIVA - TAXA FISCALIZAÇÃO TELECOMUNICAÇÕES"
+    },
+    {
+        "codigo": "2141",
+        "descricao": "CONTRIBUIÇÃO EMPRESA/EMPREGADOR- LANÇAMENTO OFÍCIO"
+    },
+    {
+        "codigo": "2157",
+        "descricao": "RECEITA DE DÍVIDA ATIVA - ITR E RECEITAS VINCULADAS - EXERCÍCIO DE"
+    },
+    {
+        "codigo": "2158",
+        "descricao": "CONTRIBUIÇÃO RISCOS AMBIENTAIS/APOSENTADORIA ESPECIAL - LANÇ OF"
+    },
+    {
+        "codigo": "2160",
+        "descricao": "FUNDAF - SELOS ESPECIAIS - CIGARROS"
+    },
+    {
+        "codigo": "2164",
+        "descricao": "CONTRIB OUTRAS ENTIDADES/FUNDOS - SALÁRIO EDUCAÇÃO - LANÇ OFÍCIO"
+    },
+    {
+        "codigo": "2170",
+        "descricao": "MULTA POR ATRASO NA ENTREGA DA DIRF ANUAL"
+    },
+    {
+        "codigo": "2172",
+        "descricao": "COFINS - CONTRIBUIÇÃO PARA FINANCIAMENTO SEGURIDADE SOCIAL"
+    },
+    {
+        "codigo": "2185",
+        "descricao": "MULTA APLICADA PELO SETOR ADUANEIRO - SEM REDUÇÃO"
+    },
+    {
+        "codigo": "2187",
+        "descricao": "CONTRIB OUTRAS ENTIDADES/FUNDOS - SENAR - LANÇAMENTO DE OFÍCIO"
+    },
+    {
+        "codigo": "2193",
+        "descricao": "CONTRIBUIÇÃO SUJEITA A RETENÇÃO PREVIDENCIÁRIA - LANÇ DE OFÍCIO"
+    },
+    {
+        "codigo": "2203",
+        "descricao": "MULTA POR ATRASO NA ENTREGA DA EFD-CONTRIBUIÇÕES"
+    },
+    {
+        "codigo": "2249",
+        "descricao": "CONTRIB OUTRAS ENTIDADES/FUNDOS - INCRA - LANÇAMENTO DE OFÍCIO"
+    },
+    {
+        "codigo": "2255",
+        "descricao": "CONTRIB OUTRAS ENTIDADES/FUNDOS - FUNDO AEROVIÁRIO- LANÇ DE OFÍCIO"
+    },
+    {
+        "codigo": "2261",
+        "descricao": "CONTRIBUIÇÃO OUTRAS ENTIDADES/FUNDOS - FDEPM -LANÇAMENTO DE OFÍCIO"
+    },
+    {
+        "codigo": "2278",
+        "descricao": "CONTRIBUIÇÃO OUTRAS ENTIDADES/FUNDOS - SENAT- LANÇAMENTO DE OFÍCIO"
+    },
+    {
+        "codigo": "2290",
+        "descricao": "CONTRIBUIÇÃO OUTRAS ENTIDADES/FUNDOS - SEST - LANÇAMENTO DE OFÍCIO"
+    },
+    {
+        "codigo": "2294",
+        "descricao": "RECEITA DÍVIDA ATIVA - SPU"
+    },
+    {
+        "codigo": "2317",
+        "descricao": "CONTRIBUIÇÃO OUTRAS ENTIDADES/FUNDOS - SENAI- LANÇAMENTO DE OFÍCIO"
+    },
+    {
+        "codigo": "2319",
+        "descricao": "IRPJ - PJ OBRIGADAS AO LUCRO REAL - ENTIDADES FINANCEIRAS - ESTIMATIVA MENSAL"
+    },
+    {
+        "codigo": "2323",
+        "descricao": "CONTRIBUIÇÃO OUTRAS ENTIDADES/FUNDOS - SESI - LANÇAMENTO DE OFÍCIO"
+    },
+    {
+        "codigo": "2346",
+        "descricao": "CONTRIBUIÇÃO OUTRAS ENTIDADES/FUNDOS - SENAC- LANÇAMENTO DE OFÍCIO"
+    },
+    {
+        "codigo": "2352",
+        "descricao": "CONTRIBUIÇÃO OUTRAS ENTIDADES/FUNDOS - SESC - LANÇAMENTO DE OFÍCIO"
+    },
+    {
+        "codigo": "2362",
+        "descricao": "IRPJ- PJ OBRIGADAS AO LUCRO REAL - ENTIDADES NÃO FINANCEIRAS - ESTIMATIVA MENSAL"
+    },
+    {
+        "codigo": "2369",
+        "descricao": "CONTRIBUIÇÃO OUTRAS ENTIDADES/FUNDOS- SEBRAE- LANÇAMENTO DE OFÍCIO"
+    },
+    {
+        "codigo": "2372",
+        "descricao": "CSLL - PJ QUE APURAM O IRPJ COM BASE EM LUCRO PRESUMIDO OU ARBITRADO"
+    },
+    {
+        "codigo": "2381",
+        "descricao": "CONTRIBUIÇÃO OUTRAS ENTIDADES/FUNDOS - SESCOOP - LANÇAMENTO OFÍCIO"
+    },
+    {
+        "codigo": "2390",
+        "descricao": "IRPJ - PJ OBRIGADAS AO LUCRO REAL - ENTIDADES FINANCEIRAS - DECLARAÇÃO DE AJUSTE"
+    },
+    {
+        "codigo": "2398",
+        "descricao": "MULTA ISOLADA COMPENSAÇÃO PREVIDENCIÁRIA INDEVIDA"
+    },
+    {
+        "codigo": "2408",
+        "descricao": "MULTA REGULAMENTAR DESCUMPRIMENTO OBRIG ACESSÓRIA PREVID - LANÇ OF"
+    },
+    {
+        "codigo": "2414",
+        "descricao": "GLOSA DE COMPENSAÇÃO PREVIDENCIÁRIA - LANÇAMENTO DE OFÍCIO"
+    },
+    {
+        "codigo": "2430",
+        "descricao": "IRPJ - PJ OBRIGADAS AO LUCRO REAL-ENTIDADES NÃO FINANCEIRAS-DECLARAÇÃO DE AJUSTE"
+    },
+    {
+        "codigo": "2456",
+        "descricao": "IRPJ - PJ NÃO OBRIGADAS AO LUCRO REAL - DECLARAÇÃO DE AJUSTE"
+    },
+    {
+        "codigo": "2469",
+        "descricao": "CSLL - ENTIDADES FINANCEIRAS - ESTIMATIVA MENSAL"
+    },
+    {
+        "codigo": "2484",
+        "descricao": "CSLL - DEMAIS PJ QUE APURAM O IRPJ COM BASE EM LUCRO REAL - ESTIMATIVA MENSAL"
+    },
+    {
+        "codigo": "2593",
+        "descricao": "REMUNERAÇÃO DE BANCOS"
+    },
+    {
+        "codigo": "2687",
+        "descricao": "R D ATIVA - MULTA PREVISTA LEG DEF DIR DIFUSO"
+    },
+    {
+        "codigo": "2865",
+        "descricao": "R D ATIVA - CRÉDITO RURAL - PROG REVIT COOP PRODUÇÃO AGROP- RECOOP"
+    },
+    {
+        "codigo": "2877",
+        "descricao": "MULTAS PREVISTAS NA LEGISLAÇÃO DO SEGURO DESEMPREGO E ABONO SALARIAL"
+    },
+    {
+        "codigo": "2892",
+        "descricao": "II - IMPOSTO IMPORTAÇÃO - LANÇAMENTO DE OFÍCIO"
+    },
+    {
+        "codigo": "2917",
+        "descricao": "IRPJ - LANÇAMENTO DE OFÍCIO"
+    },
+    {
+        "codigo": "2927",
+        "descricao": "IOF - CONTRATO DE DERIVATIVOS"
+    },
+    {
+        "codigo": "2932",
+        "descricao": "IRRF - LANÇAMENTO DE OFÍCIO"
+    },
+    {
+        "codigo": "2933",
+        "descricao": "REGIME DE TRIBUTAÇÃO UNIFICADA - RTU - IMPORTAÇÃO"
+    },
+    {
+        "codigo": "2945",
+        "descricao": "IPI - LANÇAMENTO DE OFÍCIO"
+    },
+    {
+        "codigo": "2956",
+        "descricao": "REGIME TRIBUTAÇÃO UNIFICADA - RTU - IMPORTAÇÃO - LANÇAMENTO OFÍCIO"
+    },
+    {
+        "codigo": "2958",
+        "descricao": "IOF - LANÇAMENTO DE OFÍCIO"
+    },
+    {
+        "codigo": "2960",
+        "descricao": "COFINS - LANÇAMENTO DE OFÍCIO"
+    },
+    {
+        "codigo": "2973",
+        "descricao": "CSLL - LANÇAMENTO DE OFÍCIO"
+    },
+    {
+        "codigo": "2985",
+        "descricao": "CONTRIB PREVID SOBRE RECEITA BRUTA - ART. 7º LEI 12.546/2011"
+    },
+    {
+        "codigo": "2986",
+        "descricao": "PIS - LANÇAMENTO DE OFÍCIO"
+    },
+    {
+        "codigo": "2991",
+        "descricao": "CONTRIB PREVID SOBRE RECEITA BRUTA - ART. 8º LEI 12.546/2011"
+    },
+    {
+        "codigo": "2999",
+        "descricao": "PASEP - LANÇAMENTO DE OFÍCIO"
+    },
+    {
+        "codigo": "3008",
+        "descricao": "ROYALTIES ATÉ 5% - LAVRA NA ÁREA PRÉ-SAL - EM PLATAFORMA"
+    },
+    {
+        "codigo": "3014",
+        "descricao": "ROYALTIES EXCEDENTE 5% - LAVRA NA ÁREA PRÉ-SAL - EM PLATAFORMA"
+    },
+    {
+        "codigo": "3037",
+        "descricao": "PARTICIPAÇÃO ESPECIAL - LAVRA NA ÁREA PRÉ-SAL"
+    },
+    {
+        "codigo": "3134",
+        "descricao": "R D ATIVA - IRPJ - LANÇADO DE OFÍCIO - SIMPLES NACIONAL"
+    },
+    {
+        "codigo": "3140",
+        "descricao": "R D ATIVA - CSLL - LANÇADO DE OFÍCIO - SIMPLES NACIONAL"
+    },
+    {
+        "codigo": "3148",
+        "descricao": "MULTA ISOLADA - CRÉDITO PEDIDO RESSARCIM/DECLARAÇÃO COMPENSAÇÃO"
+    },
+    {
+        "codigo": "3157",
+        "descricao": "R D ATIVA - COFINS - LANÇADO DE OFÍCIO - SIMPLES NACIONAL"
+    },
+    {
+        "codigo": "3163",
+        "descricao": "R D ATIVA - PIS - LANÇADO DE OFÍCIO - SIMPLES NACIONAL"
+    },
+    {
+        "codigo": "3186",
+        "descricao": "R D ATIVA - IPI - LANÇADO DE OFÍCIO - SIMPLES NACIONAL"
+    },
+    {
+        "codigo": "3192",
+        "descricao": "R D ATIVA - CONTRIB PREVID PATRONAL -LANÇADO OFÍCIO - SIMPLES NAC"
+    },
+    {
+        "codigo": "3202",
+        "descricao": "R D ATIVA - CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE RECEITA BRUTA"
+    },
+    {
+        "codigo": "3208",
+        "descricao": "IRRF - ALUGUÉIS E ROYALTIES PAGOS A PESSOA FÍSICA"
+    },
+    {
+        "codigo": "3219",
+        "descricao": "IRPJ - GANHO CAPITAL -ALIENAÇÃO ATIVO - SIMPLES NACIONAL - LANÇ OF"
+    },
+    {
+        "codigo": "3223",
+        "descricao": "IRRF-RESGATE PREV COMPL/MOD CONTRIB DEF/VAR - NÃO OPT TRIB EXCLUS"
+    },
+    {
+        "codigo": "3225",
+        "descricao": "IRPJ - GANHOS LÍQUIDOS OPERAÇÕES NA BOLSA - SIMPLES NACIONAL"
+    },
+    {
+        "codigo": "3231",
+        "descricao": "II - IMPOSTO IMPORTAÇÃO - REMESSA POSTAL"
+    },
+    {
+        "codigo": "3248",
+        "descricao": "MULTA ADUANEIRA - REMESSA POSTAL"
+    },
+    {
+        "codigo": "3254",
+        "descricao": "II - IMPOSTO IMPORTAÇÃO - REMESSA POSTAL - LANÇAMENTO DE OFÍCIO"
+    },
+    {
+        "codigo": "3260",
+        "descricao": "CSLL - RETENÇÃO FONTE PAGT PJ A PJ DIR PRIV - LANÇAMENTO OFÍCIO"
+    },
+    {
+        "codigo": "3277",
+        "descricao": "IRRF - RENDIMENTOS DE PARTES BENEFICIÁRIAS OU DE FUNDADOR"
+    },
+    {
+        "codigo": "3280",
+        "descricao": "IRRF-REMUNERAÇÃO SOBRE SERVIÇOS PRESTADOS POR ASSOC. DE COOPERATIVA DE TRABALHO"
+    },
+    {
+        "codigo": "3290",
+        "descricao": "R D ATIVA - MULTA DESTINADA AO FUNDO DE AMPARO AO TRABALHADOR- FAT"
+    },
+    {
+        "codigo": "3292",
+        "descricao": "FUNDAF - RESSARCIMENTO POR COPIAS XEROX"
+    },
+    {
+        "codigo": "3304",
+        "descricao": "FUNDAF - DEMAIS RECEITAS"
+    },
+    {
+        "codigo": "3308",
+        "descricao": "CSLL - RET FONTE PAGT E PÚB, SOC EC MISTA A PJ D PRIV - L OFÍCIO"
+    },
+    {
+        "codigo": "3316",
+        "descricao": "COFINS - RETENÇÃO FONTE PAGT PJ A PJ DIR PRIV - LANÇAMENTO OFÍCIO"
+    },
+    {
+        "codigo": "3317",
+        "descricao": "IRPJ - RENDA VARIÁVEL"
+    },
+    {
+        "codigo": "3320",
+        "descricao": "IRPJ - LUCRO INFLACIONÁRIO"
+    },
+    {
+        "codigo": "3332",
+        "descricao": "COFINS - RET FONTE PAGT E PÚB, SOC EC MISTA A PJ D PRIV - L OFÍCIO"
+    },
+    {
+        "codigo": "3339",
+        "descricao": "R D ATIVA - PAGAMENTO UNIFICADO - INCORPORAÇÕES - PMCMV"
+    },
+    {
+        "codigo": "3345",
+        "descricao": "IPI - VINCULADO IMPORTAÇÃO - LANÇAMENTO DE OFÍCIO"
+    },
+    {
+        "codigo": "3359",
+        "descricao": "PIS - RETENÇÃO FONTE PAGT PJ A PJ DIR PRIVADO - LANÇAMENTO OFÍCIO"
+    },
+    {
+        "codigo": "3360",
+        "descricao": "PIS - RET FONTE PAGT E PÚBL, SOC EC MISTA A PJ DIR PRIV - L OFÍCIO"
+    },
+    {
+        "codigo": "3368",
+        "descricao": "R D ATIVA - PAGAMENTO UNIFICADO - CONSTRUÇÕES - PMCMV"
+    },
+    {
+        "codigo": "3373",
+        "descricao": "IRPJ - PJ NÃO OBRIGADAS AO LUCRO REAL - BALANÇO TRIMESTRAL"
+    },
+    {
+        "codigo": "3374",
+        "descricao": "MULTA DO REGIME DISCIPLINAR APLICADA À RAS"
+    },
+    {
+        "codigo": "3375",
+        "descricao": "IRPJ - RET FONTE PAG E PÚBL, SOC EC MISTA A PJ DIR PRIV - L OFÍCIO"
+    },
+    {
+        "codigo": "3391",
+        "descricao": "MULTA DE OUTRAS ORIGENS"
+    },
+    {
+        "codigo": "3397",
+        "descricao": "MULTA ADMINISTRATIVA POR FALTA DE PAGAMENTO EM LEILÃO"
+    },
+    {
+        "codigo": "3399",
+        "descricao": "DEVOLUÇÃO DE RESTITUIÇÃO INDEVIDA - II - NÃO TRIBUTÁRIO"
+    },
+    {
+        "codigo": "3407",
+        "descricao": "DEVOLUÇÃO DE RESTITUIÇÃO INDEVIDA - IE - NÃO TRIBUTÁRIO"
+    },
+    {
+        "codigo": "3412",
+        "descricao": "DEVOLUÇÃO DE RESTITUIÇÃO INDEVIDA - ITR - NÃO TRIBUTÁRIO"
+    },
+    {
+        "codigo": "3413",
+        "descricao": "DEVOLUÇÃO DE RESTITUIÇÃO INDEVIDA - IPI - NÃO TRIBUTÁRIO"
+    },
+    {
+        "codigo": "3426",
+        "descricao": "IRRF - APLICAÇÕES FINANCEIRAS DE RENDA FIXA - PESSOA JURÍDICA"
+    },
+    {
+        "codigo": "3436",
+        "descricao": "DEVOLUÇÃO DE RESTITUIÇÃO INDEVIDA - IOF - NÃO TRIBUTÁRIO"
+    },
+    {
+        "codigo": "3442",
+        "descricao": "DEVOLUÇÃO DE RESTITUIÇÃO INDEVIDA - CSLL - NÃO TRIBUTÁRIO"
+    },
+    {
+        "codigo": "3459",
+        "descricao": "DEVOLUÇÃO DE RESTITUIÇÃO INDEVIDA - CIDE - NÃO TRIBUTÁRIO"
+    },
+    {
+        "codigo": "3465",
+        "descricao": "DEVOLUÇÃO DE RESTITUIÇÃO INDEVIDA - PIS/PASEP - NÃO TRIBUTÁRIO"
+    },
+    {
+        "codigo": "3467",
+        "descricao": "IOF - SEGUROS"
+    },
+    {
+        "codigo": "3482",
+        "descricao": "MULTA ISOLADA - CONTR SOC E IR RET FONTE - CSIRF (ART. 43 L.9430)"
+    },
+    {
+        "codigo": "3488",
+        "descricao": "MULTA POR FALTA DE RETENÇÃO NA FONTE DE IMPOSTO OU CONTRIBUIÇÃO"
+    },
+    {
+        "codigo": "3494",
+        "descricao": "DOAÇÃO AO FUNDO NAC DESENVOLVIMENTO CIENTÍFICO TECNOLÓGICO - FNDCT"
+    },
+    {
+        "codigo": "3495",
+        "descricao": "JUROS ISOLADOS - CONT SOC E IR RET FONTE - CSIRF (ART. 43 L.9430)"
+    },
+    {
+        "codigo": "3504",
+        "descricao": "DEVOLUÇÃO DE RESTITUIÇÃO INDEVIDA - CONTRIB PREVID -NÃO TRIBUTÁRIO"
+    },
+    {
+        "codigo": "3527",
+        "descricao": "RECEITA DÍVIDA ATIVA - IMPOSTO IMPORTAÇÃO"
+    },
+    {
+        "codigo": "3533",
+        "descricao": "IRRF - APOSENTADORIA REGIME GERAL OU DO SERVIDOR PÚBLICO"
+    },
+    {
+        "codigo": "3540",
+        "descricao": "IRRF -BENEFÍCIO PREV COMPLEMENTAR/NÃO OPTANTE TRIBUTAÇÃO EXCLUSIVA"
+    },
+    {
+        "codigo": "3548",
+        "descricao": "IRPJ - COBRANÇA"
+    },
+    {
+        "codigo": "3550",
+        "descricao": "IRRF - RENDIMENTO DO TRABALHO - COBRANÇA"
+    },
+    {
+        "codigo": "3551",
+        "descricao": "RECEITA DÍVIDA ATIVA - IRPJ"
+    },
+    {
+        "codigo": "3556",
+        "descricao": "IRRF - RESGATE PREV COMPL/MOD BENEF DEF- NÃO OPTANTE TRIB EXCLUSIV"
+    },
+    {
+        "codigo": "3560",
+        "descricao": "RECEITA DÍVIDA ATIVA - IRRF"
+    },
+    {
+        "codigo": "3562",
+        "descricao": "IRRF - PARTICIPAÇÃO NOS LUCROS OU RESULTADOS - PLR"
+    },
+    {
+        "codigo": "3576",
+        "descricao": "IRRF - OUTROS RENDIMENTOS - COBRANÇA"
+    },
+    {
+        "codigo": "3578",
+        "descricao": "RECEITA DÍVIDA ATIVA - IPI"
+    },
+    {
+        "codigo": "3579",
+        "descricao": "IRRF - RESGATE PREVIDÊNCIA COMPLEMENTAR/OPTANTE TRIB EXCLUSIVA"
+    },
+    {
+        "codigo": "3585",
+        "descricao": "R D ATIVA - CONTRIBUIÇÃO PARA O FUNTTEL"
+    },
+    {
+        "codigo": "3589",
+        "descricao": "IPI - BEBIDAS - COBRANÇA"
+    },
+    {
+        "codigo": "3591",
+        "descricao": "IPI - OUTROS - COBRANÇA"
+    },
+    {
+        "codigo": "3601",
+        "descricao": "CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE RECEITA BRUTA - LANÇADA OFÍCIO"
+    },
+    {
+        "codigo": "3603",
+        "descricao": "IOF - COBRANÇA"
+    },
+    {
+        "codigo": "3615",
+        "descricao": "RECEITA DÍVIDA ATIVA - OUTROS TRIBUTOS - PRINCIPAL"
+    },
+    {
+        "codigo": "3616",
+        "descricao": "PIS - COBRANÇA"
+    },
+    {
+        "codigo": "3618",
+        "descricao": "COMPENSAÇÃO PREVIDENCIÁRIA INDEVIDA EM GFIP"
+    },
+    {
+        "codigo": "3623",
+        "descricao": "RECEITA DÍVIDA ATIVA - MULTA CLT"
+    },
+    {
+        "codigo": "3624",
+        "descricao": "MULTA POR ATRASO NA ENTREGA DA EFD-IRPJ"
+    },
+    {
+        "codigo": "3629",
+        "descricao": "PASEP - COBRANÇA"
+    },
+    {
+        "codigo": "3630",
+        "descricao": "MULTA POR FALTA OU ATRASO NA ENTREGA DA EFD-ICMS/IPI"
+    },
+    {
+        "codigo": "3640",
+        "descricao": "RECEITA DÍVIDA ATIVA - OUTRAS"
+    },
+    {
+        "codigo": "3644",
+        "descricao": "COFINS - COBRANÇA"
+    },
+    {
+        "codigo": "3647",
+        "descricao": "ENCARGOS POR RECOLHIMENTO FORA DO PRAZO - DAE"
+    },
+    {
+        "codigo": "3653",
+        "descricao": "ENCARGOS REPASSE FORA PRAZO - IFC - DAE"
+    },
+    {
+        "codigo": "3657",
+        "descricao": "CSLL - COBRANÇA"
+    },
+    {
+        "codigo": "3676",
+        "descricao": "MULTA ATRASO ENVIO ALVARÁ E/OU HABITE-SE"
+    },
+    {
+        "codigo": "3682",
+        "descricao": "MULTA ISOLADA - CONTRIB SOCIAIS RET FONTE - CSRF (ART. 43 L.9430)"
+    },
+    {
+        "codigo": "3690",
+        "descricao": "RECEITA DECORRENTE DE BENS E VALORES APREENDIDOS - OUTROS"
+    },
+    {
+        "codigo": "3699",
+        "descricao": "IRRF - TRIBUTAÇÃO EXCLUSIVA - ART. 2º DA LEI Nº 12.431/2011"
+    },
+    {
+        "codigo": "3703",
+        "descricao": "PASEP - PESSOA JURÍDICA DE DIREITO PUBLICO"
+    },
+    {
+        "codigo": "3709",
+        "descricao": "AFRMM - LEI Nº 10.893/2004 - ART. 17 (I A OU I B)"
+    },
+    {
+        "codigo": "3711",
+        "descricao": "JUROS ISOLADOS - CONTR SOCIAIS RET FONTE - CSRF (ART. 43 L.9430)"
+    },
+    {
+        "codigo": "3738",
+        "descricao": "MULTAS DIVERSAS APLICADAS PELA RECEITA FEDERAL, EXCETO ADUANEIRA"
+    },
+    {
+        "codigo": "3746",
+        "descricao": "COFINS - RET FONTE - AQUISIÇÃO DE AUTOPEÇAS"
+    },
+    {
+        "codigo": "3762",
+        "descricao": "OUTRAS RECEITAS EVENTUAIS"
+    },
+    {
+        "codigo": "3767",
+        "descricao": "AFRMM - LANÇAMENTO DE OFÍCIO"
+    },
+    {
+        "codigo": "3770",
+        "descricao": "PIS - RET FONTE - AQUISIÇÃO DE AUTOPEÇAS"
+    },
+    {
+        "codigo": "3773",
+        "descricao": "TUM - TAXA DE UTILIZAÇÃO DO MERCANTE"
+    },
+    {
+        "codigo": "3780",
+        "descricao": "REABERTURA L 11941/09-PGFN-DÉB PREV- PARCEL DÍV NÃO PARC ANT-ART 1"
+    },
+    {
+        "codigo": "3796",
+        "descricao": "REABERTURA LEI 11.941/09 - PGFN - DÉBITOS PREVIDENCIÁRIOS - ART. 3"
+    },
+    {
+        "codigo": "3812",
+        "descricao": "REABERTURA L11941/09- PGFN- DÉB PREV- PG À VISTA COM PF E BCN CSLL"
+    },
+    {
+        "codigo": "3829",
+        "descricao": "REABERTURA L11941/09- PGFN-DEMAIS DÉB-PG À VISTA COM PF E BCN CSLL"
+    },
+    {
+        "codigo": "3835",
+        "descricao": "REABERTURA L 11941/09-PGFN-DEMAIS DÉB- PARC DÍV NÃO PARC ANT-ART 1"
+    },
+    {
+        "codigo": "3841",
+        "descricao": "REABERTURA LEI Nº 11.941, DE 2009 - PGFN - DEMAIS DÉBITOS - ART 3"
+    },
+    {
+        "codigo": "3858",
+        "descricao": "REABERTURA L11941/2009 - PGFN - APROV INDEVIDO CRÉDITO IPI - ART 2"
+    },
+    {
+        "codigo": "3864",
+        "descricao": "MULTA POR ATRASO/ERRO/OMISSÃO - SISCOSERV"
+    },
+    {
+        "codigo": "3870",
+        "descricao": "REABERTURA L 11941/09-RFB- DÉB PREV- PARCEL DÍV NÃO PARC ANT-ART 1"
+    },
+    {
+        "codigo": "3887",
+        "descricao": "REABERTURA LEI 11.941/09 - RFB - DÉBITOS PREVIDENCIÁRIOS - ART. 3"
+    },
+    {
+        "codigo": "3903",
+        "descricao": "REABERTURA L11941/09 - RFB- DÉB PREV- PG À VISTA COM PF E BCN CSLL"
+    },
+    {
+        "codigo": "3910",
+        "descricao": "REABERTURA L11941/09- RFB-DEMAIS DÉB- PG À VISTA COM PF E BCN CSLL"
+    },
+    {
+        "codigo": "3926",
+        "descricao": "REABERTURA L 11941/09-RFB- DEMAIS DÉB- PARC DÍV NÃO PARC ANT-ART 1"
+    },
+    {
+        "codigo": "3932",
+        "descricao": "REABERTURA LEI Nº 11.941, DE 2009 - RFB - DEMAIS DÉBITOS - ART 3"
+    },
+    {
+        "codigo": "3955",
+        "descricao": "REABERTURA L 11941/2009 - RFB - APROV INDEVIDO CRÉDITO IPI - ART 2"
+    },
+    {
+        "codigo": "3981",
+        "descricao": "PRODUTO DEPÓSITOS ABANDONADOS"
+    },
+    {
+        "codigo": "4007",
+        "descricao": "LEI Nº 12.865/2013 - RFB - PARCELAMENTO PIS/COFINS - ART 39, CAPUT"
+    },
+    {
+        "codigo": "4013",
+        "descricao": "LEI Nº 12865/2013 - PGFN - PARCELAMENTO PIS/COFINS - ART 39, CAPUT"
+    },
+    {
+        "codigo": "4020",
+        "descricao": "LEI Nº 12.865/2013 - RFB - PARCELAMENTO PIS/COFINS - ART. 39, § 1º"
+    },
+    {
+        "codigo": "4028",
+        "descricao": "IOF - OURO ATIVO FINANCEIRO"
+    },
+    {
+        "codigo": "4042",
+        "descricao": "LEI Nº 12.865/2013 - PGFN - PARCELAMENTO PIS/COFINS - ART 39, § 1º"
+    },
+    {
+        "codigo": "4059",
+        "descricao": "LEI Nº 12.865, DE 2013 - RFB - PARCELAMENTO IRPJ/CSLL - ART. 40"
+    },
+    {
+        "codigo": "4065",
+        "descricao": "LEI Nº 12.865, DE 2013 - PGFN - PARCELAMENTO IRPJ/CSLL - ART. 40"
+    },
+    {
+        "codigo": "4071",
+        "descricao": "LEI 12865/13 - RFB -PAGAMENTO À VISTA - PIS/COFINS - ART 39, CAPUT"
+    },
+    {
+        "codigo": "4072",
+        "descricao": "FUNDAF-ATIVIDADE EXTRAORDINÁRIA DE FISCALIZ E CONTROLE ADUANEIRO"
+    },
+    {
+        "codigo": "4085",
+        "descricao": "RET CONTRIB PAGT EST/DF/MUNIC - BENS/SERVIÇOS - CSLL/COFINS/PIS"
+    },
+    {
+        "codigo": "4088",
+        "descricao": "LEI 12865/13 - PGFN -PAGAMENTO À VISTA - PIS/COFINS -ART 39, CAPUT"
+    },
+    {
+        "codigo": "4094",
+        "descricao": "LEI 12865/2013 - RFB - PAGAMENTO À VISTA PIS/COFINS - ART 39, § 1º"
+    },
+    {
+        "codigo": "4095",
+        "descricao": "REGIME ESPECIAL DE TRIBUTAÇÃO DO PATRIMÔNIO DE AFETAÇÃO"
+    },
+    {
+        "codigo": "4104",
+        "descricao": "LEI 12865/2013 - PGFN -PAGAMENTO À VISTA -PIS/COFINS -ART 39, § 1º"
+    },
+    {
+        "codigo": "4110",
+        "descricao": "LEI 12.865, DE 2013 - RFB - PAGAMENTO À VISTA - IRPJ/CSLL - ART 40"
+    },
+    {
+        "codigo": "4112",
+        "descricao": "IRPJ - REGIME ESPECIAL DE TRIBUTAÇÃO DO PATRIMÔNIO DE AFETAÇÃO"
+    },
+    {
+        "codigo": "4127",
+        "descricao": "LEI 12865, DE 2013 - PGFN - PAGAMENTO À VISTA - IRPJ/CSLL - ART 40"
+    },
+    {
+        "codigo": "4133",
+        "descricao": "R D ATIVA - CONTRIBUIÇÃO PREVIDENCIÁRIA SEGURADOS"
+    },
+    {
+        "codigo": "4138",
+        "descricao": "PIS - REGIME ESPECIAL TRIBUTAÇÃO DO PATRIMÔNIO DE AFETAÇÃO"
+    },
+    {
+        "codigo": "4153",
+        "descricao": "CSLL - REGIME ESPECIAL DE TRIBUTAÇÃO DO PATRIMÔNIO DE AFETAÇÃO"
+    },
+    {
+        "codigo": "4156",
+        "descricao": "R D ATIVA - CONTRIBUIÇÃO EMPRESA/EMPREGADOR"
+    },
+    {
+        "codigo": "4162",
+        "descricao": "R D ATIVA - CONTRIBUIÇÃO RISCO AMBIENTAL/APOSENTADORIA ESPECIAL"
+    },
+    {
+        "codigo": "4166",
+        "descricao": "COFINS - REGIME ESPECIAL DE TRIBUTAÇÃO DO PATRIMÔNIO DE AFETAÇÃO"
+    },
+    {
+        "codigo": "4185",
+        "descricao": "R D ATIVA - CONTRIBUIÇÃO SUJEITA A RETENÇÃO PREVIDENCIÁRIA"
+    },
+    {
+        "codigo": "4201",
+        "descricao": "R D ATIVA - CONTRIB OUTRAS ENTIDADES/FUNDOS - SALÁRIO EDUCAÇÃO"
+    },
+    {
+        "codigo": "4218",
+        "descricao": "R D ATIVA - CONTRIB OUTRAS ENTIDADES/FUNDOS - SENAR"
+    },
+    {
+        "codigo": "4224",
+        "descricao": "R D ATIVA - CONTRIB OUTRAS ENTIDADES/FUNDOS - INCRA"
+    },
+    {
+        "codigo": "4230",
+        "descricao": "R D ATIVA- CONTRIB OUTRAS ENTIDADES/FUNDOS - FUNDO AEROVIÁRIO"
+    },
+    {
+        "codigo": "4253",
+        "descricao": "R D ATIVA - CONTRIBUIÇÃO OUTRAS ENTIDADES/FUNDOS - FDEPM"
+    },
+    {
+        "codigo": "4260",
+        "descricao": "R D ATIVA - CONTRIBUIÇÃO OUTRAS ENTIDADES/FUNDOS - SENAT"
+    },
+    {
+        "codigo": "4262",
+        "descricao": "MULTA APLICADA À REDE - NE 015/93"
+    },
+    {
+        "codigo": "4263",
+        "descricao": "RECEITA DÍVIDA ATIVA - RESSARCIMENTOS AO FUNDO NACIONAL DE SAÚDE"
+    },
+    {
+        "codigo": "4276",
+        "descricao": "R D ATIVA - CONTRIBUIÇÃO OUTRAS ENTIDADES/FUNDOS - SEST"
+    },
+    {
+        "codigo": "4282",
+        "descricao": "R D ATIVA - CONTRIBUIÇÃO OUTRAS ENTIDADES/FUNDOS - SENAI"
+    },
+    {
+        "codigo": "4288",
+        "descricao": "MULTA POR NOTA FISCAL"
+    },
+    {
+        "codigo": "4290",
+        "descricao": "IOF - OPERAÇÕES DE CAMBIO - ENTRADA DE MOEDA"
+    },
+    {
+        "codigo": "4299",
+        "descricao": "R D ATIVA - CONTRIBUIÇÃO OUTRAS ENTIDADES/FUNDOS - SESI"
+    },
+    {
+        "codigo": "4309",
+        "descricao": "R D ATIVA - CONTRIBUIÇÃO OUTRAS ENTIDADES/FUNDOS - SENAC"
+    },
+    {
+        "codigo": "4321",
+        "descricao": "R D ATIVA - CONTRIBUIÇÃO OUTRAS ENTIDADES/FUNDOS - SESC"
+    },
+    {
+        "codigo": "4338",
+        "descricao": "R D ATIVA - CONTRIBUIÇÃO OUTRAS ENTIDADES/FUNDOS- SEBRAE"
+    },
+    {
+        "codigo": "4344",
+        "descricao": "R D ATIVA - CONTRIBUIÇÃO OUTRAS ENTIDADES/FUNDOS - SESCOOP"
+    },
+    {
+        "codigo": "4350",
+        "descricao": "R D ATIVA -MULTA ISOLADA COMPENSAÇÃO PREVIDENCIÁRIA INDEVIDA"
+    },
+    {
+        "codigo": "4373",
+        "descricao": "R D ATIVA -MULTA REGULAMENTAR DESCUMPRIMENTO OBRIG ACESSÓRIA PREV"
+    },
+    {
+        "codigo": "4380",
+        "descricao": "R D ATIVA - GLOSA DE COMPENSAÇÃO PREVIDENCIÁRIA"
+    },
+    {
+        "codigo": "4397",
+        "descricao": "CSLL - RET FONTE PAGT ESTADOS/DF/MUNICÍPIOS - BENS/SERVIÇOS"
+    },
+    {
+        "codigo": "4406",
+        "descricao": "MULTA POR ATRASO NA ENTREGA DO PGDAS-D"
+    },
+    {
+        "codigo": "4407",
+        "descricao": "COFINS - RET FONTE PAGT ESTADOS/DF/MUNICÍPIOS - BENS/SERVIÇOS"
+    },
+    {
+        "codigo": "4409",
+        "descricao": "PIS - RET FONTE PAGT ESTADOS/DF/MUNICÍPIOS - BENS/SERVIÇOS"
+    },
+    {
+        "codigo": "4480",
+        "descricao": "RECEITA DÍVIDA ATIVA -MULTA INFRAÇÃO CÓDIGO BRASILEIRO AERONÁUTICA"
+    },
+    {
+        "codigo": "4493",
+        "descricao": "RECEITA DÍVIDA ATIVA - COFINS"
+    },
+    {
+        "codigo": "4526",
+        "descricao": "REABERTURA L 11941/09- RFB-DEM DÉB-PARC NÃO PARC ANT-ART 1-DEP JUD"
+    },
+    {
+        "codigo": "4533",
+        "descricao": "RECEITA DÍVIDA ATIVA - PROEX"
+    },
+    {
+        "codigo": "4562",
+        "descricao": "PIS - IMPORTAÇÃO DE PRODUTOS - LANÇAMENTO DE OFÍCIO"
+    },
+    {
+        "codigo": "4570",
+        "descricao": "ENCARGOS POR RECOLHIMENTO FORA DO PRAZO"
+    },
+    {
+        "codigo": "4574",
+        "descricao": "PIS - ENTIDADES FINANCEIRAS E EQUIPARADAS"
+    },
+    {
+        "codigo": "4578",
+        "descricao": "ENCARGOS POR RECOLHIMENTO FORA DO PRAZO - SIMPLES NACIONAL"
+    },
+    {
+        "codigo": "4584",
+        "descricao": "ENCARGOS POR REPASSE FORA DO PRAZO - IFC - SIMPLES NACIONAL"
+    },
+    {
+        "codigo": "4634",
+        "descricao": "DEVOLUCAO REST NAO PAGAS IRPF"
+    },
+    {
+        "codigo": "4677",
+        "descricao": "RESTITUIÇÕES - IPI"
+    },
+    {
+        "codigo": "4685",
+        "descricao": "COFINS - IMPORTAÇÃO DE BENS - LANÇAMENTO DE OFÍCIO"
+    },
+    {
+        "codigo": "4698",
+        "descricao": "R D ATIVA - REG ESPECIAL - PAGTO UNIFICADO -OBRA CRECHE/PRÉ-ESCOLA"
+    },
+    {
+        "codigo": "4720",
+        "descricao": "LEI 12.996, DE 2014 - PGFN - DÉBITOS PREVIDENCIÁRIOS -PARCELAMENTO"
+    },
+    {
+        "codigo": "4737",
+        "descricao": "LEI Nº 12.996, DE 2014 - PGFN - DEMAIS DÉBITOS - PARCELAMENTO"
+    },
+    {
+        "codigo": "4743",
+        "descricao": "LEI 12.996, DE 2014 - RFB - DÉBITOS PREVIDENCIÁRIOS - PARCELAMENTO"
+    },
+    {
+        "codigo": "4750",
+        "descricao": "LEI Nº 12.996, DE 2014 - RFB - DEMAIS DÉBITOS - PARCELAMENTO"
+    },
+    {
+        "codigo": "4766",
+        "descricao": "LEI 12996/14 -PGFN -DÉBITOS PREV -PGTO PF/BASE DE CÁLC NEG DA CSLL"
+    },
+    {
+        "codigo": "4772",
+        "descricao": "LEI 12.996/14 -PGFN -DEMAIS DÉBITOS -PGTO PF/BASE CÁLC NEG DA CSLL"
+    },
+    {
+        "codigo": "4789",
+        "descricao": "LEI 12.996/14 - RFB - DÉBITOS PREV - PGTO PF/BASE CÁLC NEG DA CSLL"
+    },
+    {
+        "codigo": "4795",
+        "descricao": "LEI 12.996/14 -RFB -DEMAIS DÉBITOS - PGTO PF/BASE CÁLC NEG DA CSLL"
+    },
+    {
+        "codigo": "4805",
+        "descricao": "TAXA PELA UTILIZAÇÃO SELO CONTROLE - LEI 12995/14 - ART 13 - INC I"
+    },
+    {
+        "codigo": "4811",
+        "descricao": "TAXA UTILIZAÇÃO CONTADORES DE PRODUÇÃO -L12995/14 -ART 13 - INC II"
+    },
+    {
+        "codigo": "4834",
+        "descricao": "R D ATIVA - MULTA POR ATRASO NA ENTREGA DE DECLARAÇÃO - MAED"
+    },
+    {
+        "codigo": "4857",
+        "descricao": "CONT PREV S/ REC ASSOC DESP FUT PROF-SUBST À CONT PATR-LANÇ OFÍCIO"
+    },
+    {
+        "codigo": "4863",
+        "descricao": "CONTR PREV S/ A REC COM RUR DA PJ/PF/SE - SUBST À CP - LANÇ OFÍCIO"
+    },
+    {
+        "codigo": "4983",
+        "descricao": "PARCELAMENTO - IRPJ/CSLL - GANHO DE CAPITAL - RFB"
+    },
+    {
+        "codigo": "4990",
+        "descricao": "PARCELAMENTO - IRPJ/CSLL - GANHO DE CAPITAL - PGFN"
+    },
+    {
+        "codigo": "5006",
+        "descricao": "TUM - TAXA DE UTILIZAÇÃO DO MERCANTE - LANÇAMENTO DE OFÍCIO"
+    },
+    {
+        "codigo": "5029",
+        "descricao": "IRRF - GANHO CAPITAL - INTEGRAL COTA C/ ATIVO -L 13043/2014(ART 1)"
+    },
+    {
+        "codigo": "5035",
+        "descricao": "IRRF - EMPRÉSTIMO DE ATIVO -FUNDO INVESTIMENTO -L 13043/14 (ART 8)"
+    },
+    {
+        "codigo": "5042",
+        "descricao": "IPI - DEVOLUÇÃO DE CRÉDITO NEGATIVO"
+    },
+    {
+        "codigo": "5058",
+        "descricao": "REG TRIB SIMPL - MERC IMP Ñ IDENT - ART 67 L 10833/03- LANÇ OFÍCIO"
+    },
+    {
+        "codigo": "5064",
+        "descricao": "PARCELAMENTO PROFUT - DEMAIS DÉBITOS - RFB"
+    },
+    {
+        "codigo": "5087",
+        "descricao": "PARCELAMENTO PROFUT - DEMAIS DÉBITOS - PGFN"
+    },
+    {
+        "codigo": "5110",
+        "descricao": "IPI - CHARUTO, CIGARRILHAS E CIGARROS, NÃO CONTENDO TABACO"
+    },
+    {
+        "codigo": "5123",
+        "descricao": "IPI - DEMAIS PRODUTOS"
+    },
+    {
+        "codigo": "5135",
+        "descricao": "TRIBUTOS EXTINTOS"
+    },
+    {
+        "codigo": "5149",
+        "descricao": "MULTA APLICADA PELO SETOR ADUANEIRO - COM REDUÇÃO"
+    },
+    {
+        "codigo": "5160",
+        "descricao": "SALDOS DE RECEITAS EXCLUÍDAS"
+    },
+    {
+        "codigo": "5192",
+        "descricao": "IRRF - OBRAS AUDIOV CINEM/VIDEOF (LEI 8.685/93) - RES EXT"
+    },
+    {
+        "codigo": "5204",
+        "descricao": "IRRF - JUROS INDENIZAÇÕES LUCROS CESSANTES"
+    },
+    {
+        "codigo": "5217",
+        "descricao": "IRRF - PAGAMENTO A BENEFICIÁRIO NÃO IDENTIFICADO"
+    },
+    {
+        "codigo": "5220",
+        "descricao": "IOF - OPERAÇÕES DE CÂMBIO"
+    },
+    {
+        "codigo": "5232",
+        "descricao": "IRRF - APLICAÇÕES FINANCEIRAS EM FUNDOS DE INVESTIMENTO IMOBILIÁRIO"
+    },
+    {
+        "codigo": "5273",
+        "descricao": "IRRF - OPERAÇÕES DE SWAP (ART. 74 L 8981/95)"
+    },
+    {
+        "codigo": "5286",
+        "descricao": "IRRF - APLICAÇÕES FINANCEIRAS DE RESIDENTES NO EXTERIOR (ART. 81 L. 8981/95)"
+    },
+    {
+        "codigo": "5299",
+        "descricao": "IRRF - JUROS SOBRE EMPRÉSTIMOS EXTERNOS (DL 2303/86)"
+    },
+    {
+        "codigo": "5300",
+        "descricao": "MULTA ATRASO ENTREGA DECLARAÇÃO ITR"
+    },
+    {
+        "codigo": "5303",
+        "descricao": "RECEITA DÍVIDA ATIVA - IMPOSTOS EXTINTOS"
+    },
+    {
+        "codigo": "5338",
+        "descricao": "MULTA ATRASO ENTREGA DIRPJ"
+    },
+    {
+        "codigo": "5370",
+        "descricao": "RECEITA DÍVIDA ATIVA - CRÉDITO RURAL - STN"
+    },
+    {
+        "codigo": "5382",
+        "descricao": "RECEITA DÍVIDA ATIVA - OUTRAS MULTAS"
+    },
+    {
+        "codigo": "5395",
+        "descricao": "RECEITA DÍVIDA ATIVA - IMPOSTO EXPORTAÇÃO"
+    },
+    {
+        "codigo": "5422",
+        "descricao": "RECEITA DÍVIDA ATIVA - IPMF"
+    },
+    {
+        "codigo": "5434",
+        "descricao": "PIS - IMPORTAÇÃO DE SERVIÇOS"
+    },
+    {
+        "codigo": "5442",
+        "descricao": "COFINS - IMPORTAÇÃO DE SERVIÇOS"
+    },
+    {
+        "codigo": "5450",
+        "descricao": "FUNDAF - CÓPIAS XEROX - PGFN"
+    },
+    {
+        "codigo": "5469",
+        "descricao": "FUNDAF-DESLOCAMENTO DE SERVIDOR PRESTAR SERV FORA SEDE REPARTIÇÃO"
+    },
+    {
+        "codigo": "5477",
+        "descricao": "COFINS - NÃO CUMULATIVA - LANÇAMENTO DE OFÍCIO"
+    },
+    {
+        "codigo": "5503",
+        "descricao": "IPI - VINCULADO IMPORTAÇÃO VEÍCULOS"
+    },
+    {
+        "codigo": "5516",
+        "descricao": "II - IMPOSTO IMPORTAÇÃO - VEÍCULOS"
+    },
+    {
+        "codigo": "5529",
+        "descricao": "RECEITA DIREITOS ANTIDUMPING"
+    },
+    {
+        "codigo": "5557",
+        "descricao": "IRRF - GANHOS LÍQUIDOS EM OPERAÇÕES EM BOLSAS E ASSEMELHADOS"
+    },
+    {
+        "codigo": "5565",
+        "descricao": "IRRF - BENEFÍCIO PREVIDÊNCIA COMPLEMENTAR/OPTANTE TRIB EXCLUSIVA"
+    },
+    {
+        "codigo": "5572",
+        "descricao": "MULTA DISTRIBUIÇÃO DE PRÊMIO (S/REDUÇÃO)"
+    },
+    {
+        "codigo": "5590",
+        "descricao": "FUNDAF-VISTOR TEC E AUD SIST INF-ALFAND-HAB DESP ADUAN"
+    },
+    {
+        "codigo": "5602",
+        "descricao": "PIS - IMPORTAÇÃO"
+    },
+    {
+        "codigo": "5612",
+        "descricao": "OUTROS SERVIÇOS - MICT"
+    },
+    {
+        "codigo": "5625",
+        "descricao": "IRPJ - LUCRO ARBITRADO"
+    },
+    {
+        "codigo": "5629",
+        "descricao": "COFINS - IMPORTAÇÃO"
+    },
+    {
+        "codigo": "5706",
+        "descricao": "IRRF - JUROS SOBRE O CAPITAL PRÓPRIO"
+    },
+    {
+        "codigo": "5788",
+        "descricao": "IRPJ - SUPLEMENTAR"
+    },
+    {
+        "codigo": "5802",
+        "descricao": "CSLL - SUPLEMENTAR"
+    },
+    {
+        "codigo": "5856",
+        "descricao": "COFINS NÃO-CUMULATIVA"
+    },
+    {
+        "codigo": "5897",
+        "descricao": "PARCELAMENTO PESSOA FÍSICA - SIMPLES"
+    },
+    {
+        "codigo": "5909",
+        "descricao": "PARCELAMENTO PESSOA JURÍDICA - SIMPLES"
+    },
+    {
+        "codigo": "5911",
+        "descricao": "RECEITA DÍVIDA ATIVA - AVALES E FIANÇAS - INSTITUTO DO AÇÚCAR E DO ÁLCOOL"
+    },
+    {
+        "codigo": "5928",
+        "descricao": "IRRF -REND DECOR DECISÃO JUSTIÇA FEDERAL, EXCETO ART 12A L 7713/88"
+    },
+    {
+        "codigo": "5936",
+        "descricao": "IRRF - REND DECOR DEC JUSTIÇA TRABALHO, EXCETO ART 12A L. 7.713/88"
+    },
+    {
+        "codigo": "5937",
+        "descricao": "MULTA REGULAMENTAR CSLL SUPLEMENTAR"
+    },
+    {
+        "codigo": "5940",
+        "descricao": "MULTA REGULAMENTAR IRPJ SUPLEMENTAR"
+    },
+    {
+        "codigo": "5944",
+        "descricao": "IRRF - PAGAMENTO DE PJ A PJ POR SERVIÇOS DE FACTORING"
+    },
+    {
+        "codigo": "5952",
+        "descricao": "RETENÇÃO CONTRIBUIÇÕES PAGT DE PJ A PJ DIR PRIV - CSLL/COFINS/PIS"
+    },
+    {
+        "codigo": "5960",
+        "descricao": "COFINS - RETENÇÃO PAGAMENTOS DE PJ A PJ DIREITO PRIVADO"
+    },
+    {
+        "codigo": "5978",
+        "descricao": "RECEITA DÍVIDA ATIVA - CPMF"
+    },
+    {
+        "codigo": "5979",
+        "descricao": "PIS - RETENÇÃO PAGAMENTOS DE PJ A PJ DIREITO PRIVADO"
+    },
+    {
+        "codigo": "5987",
+        "descricao": "CSLL - RETENÇÃO PAGAMENTOS DE PJ A PJ DIREITO PRIVADO"
+    },
+    {
+        "codigo": "5993",
+        "descricao": "IRPJ-OPTANTES APURAÇÃO C/ BASE NO LUCRO REAL-ESTIMATIVA MENSAL"
+    },
+    {
+        "codigo": "6012",
+        "descricao": "CSLL - DEMAIS PJ QUE APURAM O IRPJ COM BASE EM LUCRO REAL - BALANÇO TRIMESTRAL"
+    },
+    {
+        "codigo": "6023",
+        "descricao": "R D ATIVA - CIDE COMBUSTÍVEIS"
+    },
+    {
+        "codigo": "6082",
+        "descricao": "R D ATIVA - CIDE REMESSAS AO EXTERIOR"
+    },
+    {
+        "codigo": "6090",
+        "descricao": "SERVIÇOS PROCESSAMENTO DE DADOS - FUNDAF"
+    },
+    {
+        "codigo": "6094",
+        "descricao": "MULTA ISOLADA - CSLL (ART. 43 L.9430)"
+    },
+    {
+        "codigo": "6147",
+        "descricao": "PRODUTOS - RETENÇÃO EM PAGAMENTOS POR ÓRGÃO PÚBLICO"
+    },
+    {
+        "codigo": "6175",
+        "descricao": "TRANSPORTE DE PASSAGEIROS - RETENÇÃO EM PAGAMENTO POR ÓRGÃO PÚBLICO"
+    },
+    {
+        "codigo": "6188",
+        "descricao": "FINANCEIRAS - RETENÇÃO EM PAGAMENTO POR ÓRGÃO PÚBLICO"
+    },
+    {
+        "codigo": "6190",
+        "descricao": "SERVIÇOS - RETENÇÃO EM PAGAMENTO POR ÓRGÃO PÚBLICO"
+    },
+    {
+        "codigo": "6197",
+        "descricao": "FUNDAF-AUDITORIA SIST INFORMAT HABILITAÇÃO REGIME ADUAN ESPECIAL"
+    },
+    {
+        "codigo": "6215",
+        "descricao": "ENTIDADES ISENTAS - RETENÇÃO EM PAGAMENTO POR ÓRGÃO PÚBLICO"
+    },
+    {
+        "codigo": "6228",
+        "descricao": "CSLL - RETENÇÃO NA FONTE SOBRE PAGAMENTO DE ÓRGÃO PUBLICO A PESSOA JURÍDICA"
+    },
+    {
+        "codigo": "6230",
+        "descricao": "PIS-RETENÇÃO NA FONTE SOBRE PAGAMENTO EFETUADO POR ÓRG PUBLICO A PESSOA JURÍDICA"
+    },
+    {
+        "codigo": "6243",
+        "descricao": "COFINS - RETENÇÃO NA FONTE - PAGAMENTO DE ÓRGÃO PÚBLICO A PESSOA JURÍDICA"
+    },
+    {
+        "codigo": "6250",
+        "descricao": "RECEITA DE LEILÕES MERCADORIAS APREENDIDAS"
+    },
+    {
+        "codigo": "6256",
+        "descricao": "IRPJ - PAGAMENTO EFETUADO POR ÓRGÃO PÚBLICO"
+    },
+    {
+        "codigo": "6297",
+        "descricao": "IRPJ-GANHOS DE CAPITAL NA ALIEN. DE ATIVOS–MICROEMPRESA/EPP OPTANTE PELO SIMPLES"
+    },
+    {
+        "codigo": "6311",
+        "descricao": "RECEITA DÍVIDA ATIVA - AMORTIZAÇÃO JUROS EMPRÉSTIMO AO FUNDO DE MARINHA MERCANTE"
+    },
+    {
+        "codigo": "6324",
+        "descricao": "MULTA ISOLADA - PIS/PASEP (ART. 43 L.9430)"
+    },
+    {
+        "codigo": "6337",
+        "descricao": "MULTA ISOLADA - COFINS (ART. 43 L.9430)"
+    },
+    {
+        "codigo": "6340",
+        "descricao": "MULTA ISOLADA - IMP. IMPORTAÇÃO (ART. 43 L.9430)"
+    },
+    {
+        "codigo": "6378",
+        "descricao": "MULTA ISOLADA - IRPJ (ART. 43 L.9430)"
+    },
+    {
+        "codigo": "6380",
+        "descricao": "MULTA ISOLADA - IRRF (ART. 43 L.9430)"
+    },
+    {
+        "codigo": "6393",
+        "descricao": "MULTA ISOLADA - IPI VINCULADO (ART. 43 L.9430)"
+    },
+    {
+        "codigo": "6405",
+        "descricao": "MULTA ISOLADA - IPI (ART. 43 L.9430)"
+    },
+    {
+        "codigo": "6410",
+        "descricao": "FUNDAF - SELOS ESPECIAIS DE CONTROLE - OUTROS"
+    },
+    {
+        "codigo": "6418",
+        "descricao": "MULTA ISOLADA - IOF (ART. 43 L.9430)"
+    },
+    {
+        "codigo": "6488",
+        "descricao": "SERVIÇOS DE LABORATÓRIO DE ANALISES - SRF"
+    },
+    {
+        "codigo": "6525",
+        "descricao": "FUNDAF - RESSARCIMENTO RECEITAS DE RECINTOS ALFANDEGADOS"
+    },
+    {
+        "codigo": "6542",
+        "descricao": "JUROS IMPOSTO IMPORTAÇÃO - (ART. 43 L.9430)"
+    },
+    {
+        "codigo": "6570",
+        "descricao": "JUROS IRPJ - (ART. 43 L.9430)"
+    },
+    {
+        "codigo": "6583",
+        "descricao": "JUROS IRRF - (ART. 43 L.9430)"
+    },
+    {
+        "codigo": "6596",
+        "descricao": "JUROS IPI - (ART. 43 L.9430)"
+    },
+    {
+        "codigo": "6608",
+        "descricao": "JUROS IPI - VINCULADO (ART. 43 L.9430)"
+    },
+    {
+        "codigo": "6610",
+        "descricao": "JUROS IOF - (ART. 43 L.9430)"
+    },
+    {
+        "codigo": "6621",
+        "descricao": "SERVIÇOS DE REGISTRO DO COMÉRCIO"
+    },
+    {
+        "codigo": "6623",
+        "descricao": "JUROS COFINS (ART. 43 L.9430)"
+    },
+    {
+        "codigo": "6630",
+        "descricao": "MULTAS PREVISTAS NA LEGISLAÇÃO DO REGISTRO DE COMERCIO"
+    },
+    {
+        "codigo": "6636",
+        "descricao": "JUROS PIS/PASEP - (ART. 43 L.9430)"
+    },
+    {
+        "codigo": "6649",
+        "descricao": "JUROS CSLL - (ART. 43 L.9430)"
+    },
+    {
+        "codigo": "6656",
+        "descricao": "PIS - NÃO CUMULATIVO - LANÇAMENTO DE OFÍCIO"
+    },
+    {
+        "codigo": "6680",
+        "descricao": "MULTA POR OMISSÃO/ERRO/ATRASO - DIMOB"
+    },
+    {
+        "codigo": "6744",
+        "descricao": "MULTA ATRASO ENTREGA DECLARAÇÃO DE OPERAÇÕES IMOBILIÁRIAS - DOI"
+    },
+    {
+        "codigo": "6758",
+        "descricao": "CSLL - ENTIDADES FINANCEIRAS - DECLARAÇÃO DE AJUSTE"
+    },
+    {
+        "codigo": "6773",
+        "descricao": "CSLL - DEMAIS PESSOAS JURÍDICAS - DECLARAÇÃO DE AJUSTE"
+    },
+    {
+        "codigo": "6800",
+        "descricao": "IRRF - APLICAÇÕES FINANCEIRAS EM FUNDOS DE INVESTIMENTO DE RENDA FIXA"
+    },
+    {
+        "codigo": "6808",
+        "descricao": "MULTA POR OMISSÃO/ERRO/ATRASO DACON"
+    },
+    {
+        "codigo": "6813",
+        "descricao": "IRRF - FUNDOS DE INVESTIMENTO - AÇÕES"
+    },
+    {
+        "codigo": "6824",
+        "descricao": "PIS - COMBUSTÍVEIS"
+    },
+    {
+        "codigo": "6840",
+        "descricao": "COFINS - COMBUSTÍVEIS"
+    },
+    {
+        "codigo": "6841",
+        "descricao": "MULTA POR FALTA DE COMUNICAÇÃO DA EXCLUSÃO DO SIMPLES NACIONAL"
+    },
+    {
+        "codigo": "6854",
+        "descricao": "IOF - TÍTULOS OU VALORES MOBILIÁRIOS"
+    },
+    {
+        "codigo": "6882",
+        "descricao": "MULTA FALTA PLACA SIMPLES (C/RED)"
+    },
+    {
+        "codigo": "6891",
+        "descricao": "IRRF - VIDA GERADOR DE BENEFICIO LIVRE - VGBL"
+    },
+    {
+        "codigo": "6895",
+        "descricao": "IOF - FACTORING (ART. 58 LEI 9532/97)"
+    },
+    {
+        "codigo": "6904",
+        "descricao": "IRRF - RENDIMENTOS DE INDENIZAÇÃO POR DANOS MORAIS"
+    },
+    {
+        "codigo": "6907",
+        "descricao": "MULTA EMPRESAS INATIVAS (PARCELAMENTO)"
+    },
+    {
+        "codigo": "6912",
+        "descricao": "PIS - NÃO CUMULATIVO (LEI 10.637/02)"
+    },
+    {
+        "codigo": "6939",
+        "descricao": "MULTA DE OFÍCIO - IPI NÃO LANÇADO COM COBERTURA DE CRÉDITO"
+    },
+    {
+        "codigo": "6948",
+        "descricao": "RECEITA DÍVIDA ATIVA - CRÉDITOS CONTRATUAIS DA UNIÃO - STN"
+    },
+    {
+        "codigo": "6950",
+        "descricao": "RECEITA DIVIDA ATIVA- CONTRATO COMISSÃO COORD CRIAÇÃO CAVALO NACIONAL(L.7291/84)"
+    },
+    {
+        "codigo": "7023",
+        "descricao": "RECEITA DÍVIDA ATIVA - ÓRGÃO EXTINTOS, OUTRAS OBRIGAÇÕES SALVO IAA E FINEX/PROEX"
+    },
+    {
+        "codigo": "7034",
+        "descricao": "ENCARGO LEGAL DO DECRETO-LEI Nº 1.025/69 - PGFN"
+    },
+    {
+        "codigo": "7036",
+        "descricao": "JUROS ITR - (ART. 43 L.9430)"
+    },
+    {
+        "codigo": "7049",
+        "descricao": "MULTA ISOLADA - ITR (ART. 43 L.9430)"
+    },
+    {
+        "codigo": "7051",
+        "descricao": "ITR - LANÇAMENTO DE OFÍCIO"
+    },
+    {
+        "codigo": "7064",
+        "descricao": "RECEITA DÍVIDA ATIVA - FUNAPOL"
+    },
+    {
+        "codigo": "7093",
+        "descricao": "PARCELAMENTO LEI 10.684/03 - MICROEMPRESA"
+    },
+    {
+        "codigo": "7104",
+        "descricao": "IRPJ - SIMPLES"
+    },
+    {
+        "codigo": "7114",
+        "descricao": "PARCELAMENTO LEI 10.684/03- EMPRESA PEQ. PORTE"
+    },
+    {
+        "codigo": "7122",
+        "descricao": "PARCELAMENTO LEI 10.684/03 - DEMAIS PESSOAS JURÍDICAS"
+    },
+    {
+        "codigo": "7200",
+        "descricao": "PIS - SIMPLES"
+    },
+    {
+        "codigo": "7229",
+        "descricao": "RECEITA DÍVIDA ATIVA - TAXA FISCALIZAÇÃO MERCADOS SEGURO, CAPITALI"
+    },
+    {
+        "codigo": "7254",
+        "descricao": "ROYALTIES 5% (E-M) (L 7990 ART. 7 I A III)"
+    },
+    {
+        "codigo": "7267",
+        "descricao": "ROYALTIES 5% (E-M) (L 7990 ART. 7 P 4)"
+    },
+    {
+        "codigo": "7282",
+        "descricao": "ROYALTIES EXCEDENTES A 5% (E/M) LEI 9.478, ART. 49, I"
+    },
+    {
+        "codigo": "7288",
+        "descricao": "ITR - PARCELAMENTO LEI 10.684/03 EX 1997 E POSTERIORES"
+    },
+    {
+        "codigo": "7295",
+        "descricao": "ROYALTIES EXCEDENTES A 5% (MCT) LEI 9.478, ART. 49 , I"
+    },
+    {
+        "codigo": "7307",
+        "descricao": "CSLL - SIMPLES"
+    },
+    {
+        "codigo": "7310",
+        "descricao": "ROYALTIES EXCEDENTES A 5% (E-M) LEI 9.478, ART. 49,II"
+    },
+    {
+        "codigo": "7317",
+        "descricao": "RD ATIVA - ITR - PARCELAMENTO LEI 10.684/03"
+    },
+    {
+        "codigo": "7322",
+        "descricao": "ROYALTIES EXCEDENTES A 5% (MM/MCT) LEI 9.478, ART. 49, II"
+    },
+    {
+        "codigo": "7335",
+        "descricao": "PARTICIPAÇÃO ESPECIAL (E-M) (L 9478 ART. 50)"
+    },
+    {
+        "codigo": "7348",
+        "descricao": "PARTICIPAÇÃO ESPECIAL (MME/MMA) LEI 9.478, ART. 50"
+    },
+    {
+        "codigo": "7368",
+        "descricao": "R D ATIVA - MULTA POR VIOLAÇÃO AO CÓDIGO DE DEFESA DO CONSUMIDOR"
+    },
+    {
+        "codigo": "7376",
+        "descricao": "RD ATIVA - PASEP - REGIME ESPECIAL DE PARCELAMENTO - LEI 10.684/03"
+    },
+    {
+        "codigo": "7403",
+        "descricao": "COFINS - SIMPLES"
+    },
+    {
+        "codigo": "7500",
+        "descricao": "INSS- CONTRIBUIÇÃO DO EMPREGADOR - SIMPLES"
+    },
+    {
+        "codigo": "7606",
+        "descricao": "IPI - SIMPLES"
+    },
+    {
+        "codigo": "7616",
+        "descricao": "RECEITA DIVIDA ATIVA - EMPRÉSTIMO COMPULSÓRIO PRINCIPAL"
+    },
+    {
+        "codigo": "7659",
+        "descricao": "PARCELAMENTO - SIMPLES FEDERAL"
+    },
+    {
+        "codigo": "7702",
+        "descricao": "ICMS - SIMPLES"
+    },
+    {
+        "codigo": "7730",
+        "descricao": "II - IMPOSTO IMPORTAÇÃO - TRANS NAVIOS"
+    },
+    {
+        "codigo": "7739",
+        "descricao": "R D ATIVA - PARCELAMENTO DE ARREMATAÇÃO"
+    },
+    {
+        "codigo": "7743",
+        "descricao": "IPI - VINCULADO IMPORTAÇÃO TRANS NAVIOS"
+    },
+    {
+        "codigo": "7756",
+        "descricao": "IRPJ - TRANS NAVIOS"
+    },
+    {
+        "codigo": "7769",
+        "descricao": "IRRF - DEMAIS RENDIMENTOS TRANS NAVIOS"
+    },
+    {
+        "codigo": "7780",
+        "descricao": "MULTA ISOLADA CONDECINE (ART.43 DA LEI 9.430)"
+    },
+    {
+        "codigo": "7784",
+        "descricao": "COFINS - TRANS NAVIOS"
+    },
+    {
+        "codigo": "7797",
+        "descricao": "PIS - TRANS NAVIOS"
+    },
+    {
+        "codigo": "7809",
+        "descricao": "ISS - SIMPLES"
+    },
+    {
+        "codigo": "7811",
+        "descricao": "TAXA UTILIZAÇÃO SISCOMEX (ART. 3 MP 1725-98)"
+    },
+    {
+        "codigo": "7837",
+        "descricao": "CSLL - TRANS NAVIOS"
+    },
+    {
+        "codigo": "7878",
+        "descricao": "CONDECINE - LANÇAMENTO DE OFÍCIO"
+    },
+    {
+        "codigo": "7893",
+        "descricao": "IOF - OPERAÇÕES DE CRÉDITO - PESSOA FÍSICA"
+    },
+    {
+        "codigo": "7918",
+        "descricao": "RECEITA DA DÍVIDA ATIVA - MULTAS DA AGÊNCIA NACIONAL DO PETRÓLEO"
+    },
+    {
+        "codigo": "7940",
+        "descricao": "JUROS ISOLADOS CONDECINE (ART.43 DA LEI 9.430)"
+    },
+    {
+        "codigo": "7987",
+        "descricao": "COFINS - ENTIDADES FINANCEIRAS E EQUIPARADAS"
+    },
+    {
+        "codigo": "8002",
+        "descricao": "PIS - DEDUÇÃO"
+    },
+    {
+        "codigo": "8045",
+        "descricao": "IRRF - OUTROS RENDIMENTOS"
+    },
+    {
+        "codigo": "8053",
+        "descricao": "IRRF - APLICAÇÕES FINANCEIRAS DE RENDA FIXA - PESSOA FÍSICA"
+    },
+    {
+        "codigo": "8062",
+        "descricao": "RECEITA DÍVIDA ATIVA - MULTAS PREVISTAS NO CÓDIGO ELEITORAL E LEIS CONEXAS"
+    },
+    {
+        "codigo": "8109",
+        "descricao": "PIS - FATURAMENTO"
+    },
+    {
+        "codigo": "8128",
+        "descricao": "MULTA ISOLADA IRPJ - SIMPLES (ART.43 L.9430)"
+    },
+    {
+        "codigo": "8130",
+        "descricao": "MULTA ISOLADA IPI - SIMPLES (ART.43 L.9430)"
+    },
+    {
+        "codigo": "8143",
+        "descricao": "MULTA ISOLADA PIS - SIMPLES (ART.43 L.9430)"
+    },
+    {
+        "codigo": "8156",
+        "descricao": "MULTA ISOLADA COFINS - SIMPLES (ART.43 L.9430)"
+    },
+    {
+        "codigo": "8169",
+        "descricao": "MULTA ISOLADA CSLL - SIMPLES (ART.43 L.9430)"
+    },
+    {
+        "codigo": "8171",
+        "descricao": "MULTA ISOLADA INSS EMPREGADOR - SIMPLES (ART.43 L.9430)"
+    },
+    {
+        "codigo": "8197",
+        "descricao": "MULTA ISOLADA ICMS - SIMPLES (ART.43 L.9430)"
+    },
+    {
+        "codigo": "8205",
+        "descricao": "PIS - REPIQUE IMPOSTO DE RENDA"
+    },
+    {
+        "codigo": "8209",
+        "descricao": "MULTA ISOLADA ISS - SIMPLES (ART.43 L.9430)"
+    },
+    {
+        "codigo": "8211",
+        "descricao": "JUROS ISOLADO IRPJ - SIMPLES (ART.43 L.9430)"
+    },
+    {
+        "codigo": "8224",
+        "descricao": "JUROS ISOLADO IPI - SIMPLES (ART.43 L.9430)"
+    },
+    {
+        "codigo": "8237",
+        "descricao": "JUROS ISOLADO PIS - SIMPLES (ART.43 L.9430)"
+    },
+    {
+        "codigo": "8240",
+        "descricao": "JUROS ISOLADO COFINS- SIMPLES (ART.43 L.9430)"
+    },
+    {
+        "codigo": "8252",
+        "descricao": "JUROS ISOLADO CSLL - SIMPLES (ART.43 L.9430)"
+    },
+    {
+        "codigo": "8256",
+        "descricao": "COTA PARTE INDENIZAÇÃO PELA EXTRAÇÃO DE PETRÓLEO, XISTO E GÁS (MM)"
+    },
+    {
+        "codigo": "8265",
+        "descricao": "JUROS ISOLADO INSS EMPREGADOR - SIMPLES (ART.43 L.9430)"
+    },
+    {
+        "codigo": "8278",
+        "descricao": "JUROS ISOLADO ICMS - SIMPLES (ART.43 L.9430)"
+    },
+    {
+        "codigo": "8293",
+        "descricao": "JUROS ISOLADO ISS - SIMPLES (ART.43 L.9430)"
+    },
+    {
+        "codigo": "8301",
+        "descricao": "PIS - FOLHA DE PAGAMENTO"
+    },
+    {
+        "codigo": "8468",
+        "descricao": "IRRF - DAY-TRADE OPERAÇÕES EM BOLSA"
+    },
+    {
+        "codigo": "8470",
+        "descricao": "R D ATIVA - MULTA CRIMINAL/JUSTIÇA FEDERAL"
+    },
+    {
+        "codigo": "8496",
+        "descricao": "PIS - FABRIC/IMPORT VEIC. EM SUBST. TRIBUTÁRIA"
+    },
+    {
+        "codigo": "8504",
+        "descricao": "MULTA ISOLADA CIDE-COMBUSTÍVEIS - (ART.43 LEI 9430/96)"
+    },
+    {
+        "codigo": "8508",
+        "descricao": "REMUNERAÇÃO EXCESSO SOLICITADO CEF DEVOLUÇÃO DEPOSITO CONTRIBUINTE"
+    },
+    {
+        "codigo": "8619",
+        "descricao": "JUROS ISOLADOS CIDE COMBUSTÍVEIS (ART 43 L 9430/96)"
+    },
+    {
+        "codigo": "8645",
+        "descricao": "COFINS - FABRIC/IMPORT. VEICULOS - SUBS. TRIBUTARIA"
+    },
+    {
+        "codigo": "8651",
+        "descricao": "MULTA ISOLADA CIDE REMESSA AO EXTERIOR (ART 43 L 9430/96)"
+    },
+    {
+        "codigo": "8658",
+        "descricao": "REFIS/SIMPLES-PARCEL/TO ESPECIAL (MP 2061/00)"
+    },
+    {
+        "codigo": "8660",
+        "descricao": "JUROS ISOLADOS CIDE REMESSA AO EXTERIOR (ART 43 L 9430/96)"
+    },
+    {
+        "codigo": "8673",
+        "descricao": "IRRF - BINGOS (DECRETO 3659/2000, ART 14,I )"
+    },
+    {
+        "codigo": "8699",
+        "descricao": "CONTRIBUIÇÃO SOBRE RECEITA DE BINGOS - PARCELA DESTINADA À UNIÃO (DEC.3695/00)"
+    },
+    {
+        "codigo": "8707",
+        "descricao": "PASEP - REGIME ESPECIAL DE PARCELAMENTO MP 38/02 E LEI 10.684/03"
+    },
+    {
+        "codigo": "8739",
+        "descricao": "GASOL/DIESEL/GLP E ALCOOL NO VAREJO-R ORG PUB"
+    },
+    {
+        "codigo": "8741",
+        "descricao": "CIDE - REMESSAS AO EXTERIOR - L 10332/01"
+    },
+    {
+        "codigo": "8767",
+        "descricao": "MEDICAMENTO ADQUIR DISTRIB/VAREJ-RET ORG PUBL"
+    },
+    {
+        "codigo": "8822",
+        "descricao": "RECEITA DE DÍVIDA ATIVA - SIMPLES"
+    },
+    {
+        "codigo": "8850",
+        "descricao": "TRANSPORTE INTERNACIONAL PASSAGEIRO-R ORG PUB"
+    },
+    {
+        "codigo": "8863",
+        "descricao": "BENS OU SERVIÇOS ADQUIRIDOS DE SOCIEDADES COOPERATIVAS E ASSOCIAÇÕ"
+    },
+    {
+        "codigo": "8876",
+        "descricao": "RECEITA DE DÍVIDA ATIVA - INSS SIMPLES"
+    },
+    {
+        "codigo": "8891",
+        "descricao": "RECEITA DE DÍVIDA ATIVA - ICMS SIMPLES"
+    },
+    {
+        "codigo": "8900",
+        "descricao": "RECEITA DE DÍVIDA ATIVA - ITR - EXERCÍCIOS DE 1997 E POSTERIORES"
+    },
+    {
+        "codigo": "8903",
+        "descricao": "RECEITA DE DÍVIDA ATIVA - ISS SIMPLES"
+    },
+    {
+        "codigo": "8972",
+        "descricao": "IRPJ - RENDIMENTO DE PROVISÕES, RESERVAS TÉCNICAS E FUNDOS DE ENTI"
+    },
+    {
+        "codigo": "9004",
+        "descricao": "IRPJ - FINOR - BALANÇO TRIMESTRAL - PESSOA JURÍDICA QUE ATENDA ÀS"
+    },
+    {
+        "codigo": "9013",
+        "descricao": "CONDECINE - PAGAMENTO, CRÉDITO, EMPREGO, ENTREGA E REMESSA PARA O"
+    },
+    {
+        "codigo": "9017",
+        "descricao": "IRPJ - FINOR - ESTIMATIVA - PESSOA JURÍDICA QUE ATENDA ÀS CONDIÇÕ"
+    },
+    {
+        "codigo": "9020",
+        "descricao": "IRPJ - FINAM - BALANÇO TRIMESTRAL - PESSOA JURÍDICA QUE ATENDA ÀS"
+    },
+    {
+        "codigo": "9032",
+        "descricao": "IRPJ - FINAM - ESTIMATIVA - PESSOA JURÍDICA QUE ATENDA ÀS CONDIÇÕ"
+    },
+    {
+        "codigo": "9045",
+        "descricao": "IRPJ - FUNRES - BALANÇO TRIMESTRAL - PESSOA JURÍDICA QUE ATENDA À"
+    },
+    {
+        "codigo": "9058",
+        "descricao": "IRPJ - FUNRES - ESTIMATIVA - PESSOA JURÍDICA QUE ATENDA ÀS CONDIÇ"
+    },
+    {
+        "codigo": "9060",
+        "descricao": "QUEROSENE DE AVIAÇÃO ADQUIRIDO DE PRODUTOR OU IMPORTADOR - RETIDO"
+    },
+    {
+        "codigo": "9064",
+        "descricao": "II - IMPOSTO IMPORTAÇÃO - ADICIONAL"
+    },
+    {
+        "codigo": "9086",
+        "descricao": "IRPJ - GANHOS LÍQ OPER BOLSA INVEST PAÍS C/ TRIBUTAÇÃO FAVORECIDA"
+    },
+    {
+        "codigo": "9100",
+        "descricao": "REFIS - PARCELAMENTO VINCULADO RECEITA BRUTA"
+    },
+    {
+        "codigo": "9113",
+        "descricao": "ITR - PARCELAMENTO ALTERNATIVO EXERCÍCIO 1996 E ANTERIORES"
+    },
+    {
+        "codigo": "9126",
+        "descricao": "ITR - PARCELAMENTO ALTERNATIVO EXERCÍCIO 1997 E POSTERIORES"
+    },
+    {
+        "codigo": "9139",
+        "descricao": "CONTRIBUIÇÃO SOBRE PRÊMIOS PRESCRITOS DE LOTERIAS FEDERAIS"
+    },
+    {
+        "codigo": "9141",
+        "descricao": "CONTRIBUIÇÃO SOBRE A RECEITA DE LOTERIA INSTANTÂNEA"
+    },
+    {
+        "codigo": "9154",
+        "descricao": "CONTRIBUIÇÃO SOBRE A RECEITA DE LOTERIAS DE NÚMEROS"
+    },
+    {
+        "codigo": "9167",
+        "descricao": "CONTRIBUIÇÃO SOBRE A RECEITA DE CONCURSOS ESPECIAIS DE LOTERIAS ES"
+    },
+    {
+        "codigo": "9170",
+        "descricao": "CONTRIBUIÇÃO SOBRE A RECEITA DE LOTERIAS ESPORTIVAS"
+    },
+    {
+        "codigo": "9182",
+        "descricao": "CONTRIBUIÇÃO SOBRE A RECEITA DA LOTERIA FEDERAL"
+    },
+    {
+        "codigo": "9207",
+        "descricao": "MULTA POR FALTA/ATRASO NO RECOLHIMENTO DAS CONTRIBUIÇÕES INSTITUÍD"
+    },
+    {
+        "codigo": "9222",
+        "descricao": "REFIS - PARCELAMENTO ALTERNATIVO"
+    },
+    {
+        "codigo": "9276",
+        "descricao": "JUROS LANÇAMENTO DE OFÍCIO - CIDE - REMESSA AO EXTERIOR - LEI 1033"
+    },
+    {
+        "codigo": "9283",
+        "descricao": "MULTA DE OFÍCIO - CIDE - REMESSA AO EXTERIOR - LEI 10332/01"
+    },
+    {
+        "codigo": "9303",
+        "descricao": "CIDE - REMESSA EXTERIOR - LEI 10332/01 - LANÇAMENTO DE OFÍCIO"
+    },
+    {
+        "codigo": "9304",
+        "descricao": "CIDE - COMBUSTÍVEIS - LANÇAMENTO DE OFÍCIO"
+    },
+    {
+        "codigo": "9329",
+        "descricao": "JUROS LANÇAMENTO DE OFÍCIO - CIDE - COMBUSTÍVEIS"
+    },
+    {
+        "codigo": "9331",
+        "descricao": "CIDE-COMBUSTÍVEIS - MERCADO INTERNO - LEI 10336/2001"
+    },
+    {
+        "codigo": "9344",
+        "descricao": "IRPJ - FINOR - AJUSTE ANUAL - PESSOA JURÍDICA QUE ATENDA ÀS CONDIÇ"
+    },
+    {
+        "codigo": "9360",
+        "descricao": "IRPJ - FINAM - AJUSTE ANUAL - PESSOA JURÍDICA QUE ATENDA ÀS CONDIÇ"
+    },
+    {
+        "codigo": "9372",
+        "descricao": "IRPJ - FUNRES - AJUSTE ANUAL - PESSOA JURÍDICA QUE ATENDA ÀS CONDI"
+    },
+    {
+        "codigo": "9385",
+        "descricao": "IRRF - MULTAS E VANTAGENS"
+    },
+    {
+        "codigo": "9412",
+        "descricao": "IRRF - FRETES INTERNACIONAIS - RESIDENTES NO EXTERIOR"
+    },
+    {
+        "codigo": "9427",
+        "descricao": "IRRF - REMUNERAÇÃO DE DIREITOS - RESIDENTES NO EXTERIOR"
+    },
+    {
+        "codigo": "9438",
+        "descricao": "CIDE-COMBUSTÍVEIS - IMPORTAÇÃO - LEI 10336/2001"
+    },
+    {
+        "codigo": "9453",
+        "descricao": "IRRF - JUROS SOBRE O CAPITAL PRÓPRIO - RESIDENTES NO EXTERIOR"
+    },
+    {
+        "codigo": "9466",
+        "descricao": "IRRF - BENEFÍCIOS E RESGATE DE PREVIDÊNCIA PRIVADA E FAPI - RESIDE"
+    },
+    {
+        "codigo": "9478",
+        "descricao": "IRRF - ALUGUEL E ARRENDAMENTO - RESIDENTES NO EXTERIOR"
+    },
+    {
+        "codigo": "9479",
+        "descricao": "MULTA POR ATRASO NA ENTREGA DA DECLARAÇÃO DA CPMF - IN 45/2001, AR"
+    }
+]

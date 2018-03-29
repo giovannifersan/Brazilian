@@ -1,0 +1,64 @@
+{
+  "name": "brazilian",
+  "version": "0.0.1",
+  "description": "Ferramentas utilitárias para desenvolvedores brasileiros",
+  "main": "brazilian.js",
+  "browser": "brazilian.browser.js",
+  "scripts": {
+    "test": "nodeunit ./tests/*Test.js && nodeunit ./tests/boleto/bancos/*Test.js && nodeunit ./tests/boleto/*Test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thefersan/brazilian.git"
+  },
+  "keywords": [
+    "brasil",
+    "brazilian",
+    "tabela",
+    "ibge",
+    "estados",
+    "ferramentas",
+    "utilitarias",
+    "validacoes",
+    "nfe",
+    "nota",
+    "fiscal",
+    "eletronica",
+    "cpf",
+    "cnpj",
+    "bancos",
+    "itau",
+    "banco do brasil",
+    "bradesco",
+    "caixa",
+    "caixa economica",
+    "boleto bancario",
+    "nota fiscal eletronica",
+    "sefaz",
+    "receita federal",
+    "pessoa juridica",
+    "pessoa fisica",
+    "cfop",
+    "ncm",
+    "DDD"
+  ],
+  "author": "Giovanni Fersan <thefersan@gmail.com>",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "gammautils": "0.0.67",
+    "pdfkit": "^0.7.0"
+  },
+  "devDependencies": {
+    "nodeunit": "~0.8.1"
+  },
+  "contributors": [
+    {
+      "name": "Giovanni Fersan",
+      "email": "thefersan@gmail.com",
+      "url": "https://github.com/thefersan",
+      "contributions": 112,
+      "hireable": false
+    }
+  ]
+}

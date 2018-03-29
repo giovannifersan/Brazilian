@@ -1,0 +1,1247 @@
+[
+    {
+        "codigo": "0132",
+        "nome": "AFEGANISTAO",
+        "nomeParaBusca": "afeganistao"
+    },
+    {
+        "codigo": "0175",
+        "nome": "ALBANIA, REPUBLICA DA",
+        "nomeParaBusca": "albaniarepublicada"
+    },
+    {
+        "codigo": "0230",
+        "nome": "ALEMANHA",
+        "nomeParaBusca": "alemanha"
+    },
+    {
+        "codigo": "0310",
+        "nome": "BURKINA FASO",
+        "nomeParaBusca": "burkinafaso"
+    },
+    {
+        "codigo": "0370",
+        "nome": "ANDORRA",
+        "nomeParaBusca": "andorra"
+    },
+    {
+        "codigo": "0400",
+        "nome": "ANGOLA",
+        "nomeParaBusca": "angola"
+    },
+    {
+        "codigo": "0418",
+        "nome": "ANGUILLA",
+        "nomeParaBusca": "anguilla"
+    },
+    {
+        "codigo": "0434",
+        "nome": "ANTIGUA E BARBUDA",
+        "nomeParaBusca": "antiguaebarbuda"
+    },
+    {
+        "codigo": "0477",
+        "nome": "ANTILHAS HOLANDESAS",
+        "nomeParaBusca": "antilhasholandesas"
+    },
+    {
+        "codigo": "0531",
+        "nome": "ARABIA SAUDITA",
+        "nomeParaBusca": "arabiasaudita"
+    },
+    {
+        "codigo": "0590",
+        "nome": "ARGELIA",
+        "nomeParaBusca": "argelia"
+    },
+    {
+        "codigo": "0639",
+        "nome": "ARGENTINA",
+        "nomeParaBusca": "argentina"
+    },
+    {
+        "codigo": "0647",
+        "nome": "ARMENIA, REPUBLICA DA",
+        "nomeParaBusca": "armeniarepublicada"
+    },
+    {
+        "codigo": "0655",
+        "nome": "ARUBA",
+        "nomeParaBusca": "aruba"
+    },
+    {
+        "codigo": "0698",
+        "nome": "AUSTRALIA",
+        "nomeParaBusca": "australia"
+    },
+    {
+        "codigo": "0728",
+        "nome": "AUSTRIA",
+        "nomeParaBusca": "austria"
+    },
+    {
+        "codigo": "0736",
+        "nome": "AZERBAIJAO, REPUBLICA DO",
+        "nomeParaBusca": "azerbaijaorepublicado"
+    },
+    {
+        "codigo": "0779",
+        "nome": "BAHAMAS, ILHAS",
+        "nomeParaBusca": "bahamasilhas"
+    },
+    {
+        "codigo": "0809",
+        "nome": "BAHREIN, ILHAS",
+        "nomeParaBusca": "bahreinilhas"
+    },
+    {
+        "codigo": "0817",
+        "nome": "BANGLADESH",
+        "nomeParaBusca": "bangladesh"
+    },
+    {
+        "codigo": "0833",
+        "nome": "BARBADOS",
+        "nomeParaBusca": "barbados"
+    },
+    {
+        "codigo": "0850",
+        "nome": "BELARUS, REPUBLICA DA",
+        "nomeParaBusca": "belarusrepublicada"
+    },
+    {
+        "codigo": "0876",
+        "nome": "BELGICA",
+        "nomeParaBusca": "belgica"
+    },
+    {
+        "codigo": "0884",
+        "nome": "BELIZE",
+        "nomeParaBusca": "belize"
+    },
+    {
+        "codigo": "0906",
+        "nome": "BERMUDAS",
+        "nomeParaBusca": "bermudas"
+    },
+    {
+        "codigo": "0930",
+        "nome": "MIANMAR (BIRMANIA)",
+        "nomeParaBusca": "mianmarbirmania"
+    },
+    {
+        "codigo": "0973",
+        "nome": "BOLIVIA",
+        "nomeParaBusca": "bolivia"
+    },
+    {
+        "codigo": "0981",
+        "nome": "BOSNIA-HERZEGOVINA (REPUBLICA DA)",
+        "nomeParaBusca": "bosniaherzegovinarepublicada"
+    },
+    {
+        "codigo": "1015",
+        "nome": "BOTSUANA",
+        "nomeParaBusca": "botsuana"
+    },
+    {
+        "codigo": "1058",
+        "nome": "BRASIL",
+        "nomeParaBusca": "brasil"
+    },
+    {
+        "codigo": "1082",
+        "nome": "BRUNEI",
+        "nomeParaBusca": "brunei"
+    },
+    {
+        "codigo": "1112",
+        "nome": "BULGARIA, REPUBLICA DA",
+        "nomeParaBusca": "bulgariarepublicada"
+    },
+    {
+        "codigo": "1155",
+        "nome": "BURUNDI",
+        "nomeParaBusca": "burundi"
+    },
+    {
+        "codigo": "1198",
+        "nome": "BUTAO",
+        "nomeParaBusca": "butao"
+    },
+    {
+        "codigo": "1279",
+        "nome": "CABO VERDE, REPUBLICA DE",
+        "nomeParaBusca": "caboverderepublicade"
+    },
+    {
+        "codigo": "1376",
+        "nome": "CAYMAN, ILHAS",
+        "nomeParaBusca": "caymanilhas"
+    },
+    {
+        "codigo": "1414",
+        "nome": "CAMBOJA",
+        "nomeParaBusca": "camboja"
+    },
+    {
+        "codigo": "1457",
+        "nome": "CAMAROES",
+        "nomeParaBusca": "camaroes"
+    },
+    {
+        "codigo": "1490",
+        "nome": "CANADA",
+        "nomeParaBusca": "canada"
+    },
+    {
+        "codigo": "1504",
+        "nome": "GUERNSEY, ILHA DO CANAL (INCLUI ALDERNEY E SARK)",
+        "nomeParaBusca": "guernseyilhadocanalincluialderneyesark"
+    },
+    {
+        "codigo": "1508",
+        "nome": "JERSEY, ILHA DO CANAL",
+        "nomeParaBusca": "jerseyilhadocanal"
+    },
+    {
+        "codigo": "1511",
+        "nome": "CANARIAS, ILHAS",
+        "nomeParaBusca": "canariasilhas"
+    },
+    {
+        "codigo": "1538",
+        "nome": "CAZAQUISTAO, REPUBLICA DO",
+        "nomeParaBusca": "cazaquistaorepublicado"
+    },
+    {
+        "codigo": "1546",
+        "nome": "CATAR",
+        "nomeParaBusca": "catar"
+    },
+    {
+        "codigo": "1589",
+        "nome": "CHILE",
+        "nomeParaBusca": "chile"
+    },
+    {
+        "codigo": "1600",
+        "nome": "CHINA, REPUBLICA POPULAR",
+        "nomeParaBusca": "chinarepublicapopular"
+    },
+    {
+        "codigo": "1619",
+        "nome": "FORMOSA (TAIWAN)",
+        "nomeParaBusca": "formosataiwan"
+    },
+    {
+        "codigo": "1635",
+        "nome": "CHIPRE",
+        "nomeParaBusca": "chipre"
+    },
+    {
+        "codigo": "1651",
+        "nome": "COCOS(KEELING),ILHAS",
+        "nomeParaBusca": "cocoskeelingilhas"
+    },
+    {
+        "codigo": "1694",
+        "nome": "COLOMBIA",
+        "nomeParaBusca": "colombia"
+    },
+    {
+        "codigo": "1732",
+        "nome": "COMORES, ILHAS",
+        "nomeParaBusca": "comoresilhas"
+    },
+    {
+        "codigo": "1775",
+        "nome": "CONGO",
+        "nomeParaBusca": "congo"
+    },
+    {
+        "codigo": "1830",
+        "nome": "COOK, ILHAS",
+        "nomeParaBusca": "cookilhas"
+    },
+    {
+        "codigo": "1872",
+        "nome": "COREIA, REP.POP.DEMOCRATICA",
+        "nomeParaBusca": "coreiareppopdemocratica"
+    },
+    {
+        "codigo": "1902",
+        "nome": "COREIA, REPUBLICA DA",
+        "nomeParaBusca": "coreiarepublicada"
+    },
+    {
+        "codigo": "1937",
+        "nome": "COSTA DO MARFIM",
+        "nomeParaBusca": "costadomarfim"
+    },
+    {
+        "codigo": "1953",
+        "nome": "CROACIA (REPUBLICA DA)",
+        "nomeParaBusca": "croaciarepublicada"
+    },
+    {
+        "codigo": "1961",
+        "nome": "COSTA RICA",
+        "nomeParaBusca": "costarica"
+    },
+    {
+        "codigo": "1988",
+        "nome": "COVEITE",
+        "nomeParaBusca": "coveite"
+    },
+    {
+        "codigo": "1996",
+        "nome": "CUBA",
+        "nomeParaBusca": "cuba"
+    },
+    {
+        "codigo": "2291",
+        "nome": "BENIN",
+        "nomeParaBusca": "benin"
+    },
+    {
+        "codigo": "2321",
+        "nome": "DINAMARCA",
+        "nomeParaBusca": "dinamarca"
+    },
+    {
+        "codigo": "2356",
+        "nome": "DOMINICA,ILHA",
+        "nomeParaBusca": "dominicailha"
+    },
+    {
+        "codigo": "2399",
+        "nome": "EQUADOR",
+        "nomeParaBusca": "equador"
+    },
+    {
+        "codigo": "2402",
+        "nome": "EGITO",
+        "nomeParaBusca": "egito"
+    },
+    {
+        "codigo": "2437",
+        "nome": "ERITREIA",
+        "nomeParaBusca": "eritreia"
+    },
+    {
+        "codigo": "2445",
+        "nome": "EMIRADOS ARABES UNIDOS",
+        "nomeParaBusca": "emiradosarabesunidos"
+    },
+    {
+        "codigo": "2453",
+        "nome": "ESPANHA",
+        "nomeParaBusca": "espanha"
+    },
+    {
+        "codigo": "2461",
+        "nome": "ESLOVENIA, REPUBLICA DA",
+        "nomeParaBusca": "esloveniarepublicada"
+    },
+    {
+        "codigo": "2470",
+        "nome": "ESLOVACA, REPUBLICA",
+        "nomeParaBusca": "eslovacarepublica"
+    },
+    {
+        "codigo": "2496",
+        "nome": "ESTADOS UNIDOS",
+        "nomeParaBusca": "estadosunidos"
+    },
+    {
+        "codigo": "2518",
+        "nome": "ESTONIA, REPUBLICA DA",
+        "nomeParaBusca": "estoniarepublicada"
+    },
+    {
+        "codigo": "2534",
+        "nome": "ETIOPIA",
+        "nomeParaBusca": "etiopia"
+    },
+    {
+        "codigo": "2550",
+        "nome": "FALKLAND (ILHAS MALVINAS)",
+        "nomeParaBusca": "falklandilhasmalvinas"
+    },
+    {
+        "codigo": "2593",
+        "nome": "FEROE, ILHAS",
+        "nomeParaBusca": "feroeilhas"
+    },
+    {
+        "codigo": "2674",
+        "nome": "FILIPINAS",
+        "nomeParaBusca": "filipinas"
+    },
+    {
+        "codigo": "2712",
+        "nome": "FINLANDIA",
+        "nomeParaBusca": "finlandia"
+    },
+    {
+        "codigo": "2755",
+        "nome": "FRANCA",
+        "nomeParaBusca": "franca"
+    },
+    {
+        "codigo": "2810",
+        "nome": "GABAO",
+        "nomeParaBusca": "gabao"
+    },
+    {
+        "codigo": "2852",
+        "nome": "GAMBIA",
+        "nomeParaBusca": "gambia"
+    },
+    {
+        "codigo": "2895",
+        "nome": "GANA",
+        "nomeParaBusca": "gana"
+    },
+    {
+        "codigo": "2917",
+        "nome": "GEORGIA, REPUBLICA DA",
+        "nomeParaBusca": "georgiarepublicada"
+    },
+    {
+        "codigo": "2933",
+        "nome": "GIBRALTAR",
+        "nomeParaBusca": "gibraltar"
+    },
+    {
+        "codigo": "2976",
+        "nome": "GRANADA",
+        "nomeParaBusca": "granada"
+    },
+    {
+        "codigo": "3018",
+        "nome": "GRECIA",
+        "nomeParaBusca": "grecia"
+    },
+    {
+        "codigo": "3050",
+        "nome": "GROENLANDIA",
+        "nomeParaBusca": "groenlandia"
+    },
+    {
+        "codigo": "3093",
+        "nome": "GUADALUPE",
+        "nomeParaBusca": "guadalupe"
+    },
+    {
+        "codigo": "3131",
+        "nome": "GUAM",
+        "nomeParaBusca": "guam"
+    },
+    {
+        "codigo": "3174",
+        "nome": "GUATEMALA",
+        "nomeParaBusca": "guatemala"
+    },
+    {
+        "codigo": "3255",
+        "nome": "GUIANA FRANCESA",
+        "nomeParaBusca": "guianafrancesa"
+    },
+    {
+        "codigo": "3298",
+        "nome": "GUINE",
+        "nomeParaBusca": "guine"
+    },
+    {
+        "codigo": "3310",
+        "nome": "GUINE-EQUATORIAL",
+        "nomeParaBusca": "guineequatorial"
+    },
+    {
+        "codigo": "3344",
+        "nome": "GUINE-BISSAU",
+        "nomeParaBusca": "guinebissau"
+    },
+    {
+        "codigo": "3379",
+        "nome": "GUIANA",
+        "nomeParaBusca": "guiana"
+    },
+    {
+        "codigo": "3417",
+        "nome": "HAITI",
+        "nomeParaBusca": "haiti"
+    },
+    {
+        "codigo": "3450",
+        "nome": "HONDURAS",
+        "nomeParaBusca": "honduras"
+    },
+    {
+        "codigo": "3514",
+        "nome": "HONG KONG",
+        "nomeParaBusca": "hongkong"
+    },
+    {
+        "codigo": "3557",
+        "nome": "HUNGRIA, REPUBLICA DA",
+        "nomeParaBusca": "hungriarepublicada"
+    },
+    {
+        "codigo": "3573",
+        "nome": "IEMEN",
+        "nomeParaBusca": "iemen"
+    },
+    {
+        "codigo": "3595",
+        "nome": "MAN, ILHA DE",
+        "nomeParaBusca": "manilhade"
+    },
+    {
+        "codigo": "3611",
+        "nome": "INDIA",
+        "nomeParaBusca": "india"
+    },
+    {
+        "codigo": "3654",
+        "nome": "INDONESIA",
+        "nomeParaBusca": "indonesia"
+    },
+    {
+        "codigo": "3697",
+        "nome": "IRAQUE",
+        "nomeParaBusca": "iraque"
+    },
+    {
+        "codigo": "3727",
+        "nome": "IRA, REPUBLICA ISLAMICA DO",
+        "nomeParaBusca": "irarepublicaislamicado"
+    },
+    {
+        "codigo": "3751",
+        "nome": "IRLANDA",
+        "nomeParaBusca": "irlanda"
+    },
+    {
+        "codigo": "3794",
+        "nome": "ISLANDIA",
+        "nomeParaBusca": "islandia"
+    },
+    {
+        "codigo": "3832",
+        "nome": "ISRAEL",
+        "nomeParaBusca": "israel"
+    },
+    {
+        "codigo": "3867",
+        "nome": "ITALIA",
+        "nomeParaBusca": "italia"
+    },
+    {
+        "codigo": "3913",
+        "nome": "JAMAICA",
+        "nomeParaBusca": "jamaica"
+    },
+    {
+        "codigo": "3964",
+        "nome": "JOHNSTON, ILHAS",
+        "nomeParaBusca": "johnstonilhas"
+    },
+    {
+        "codigo": "3999",
+        "nome": "JAPAO",
+        "nomeParaBusca": "japao"
+    },
+    {
+        "codigo": "4030",
+        "nome": "JORDANIA",
+        "nomeParaBusca": "jordania"
+    },
+    {
+        "codigo": "4111",
+        "nome": "KIRIBATI",
+        "nomeParaBusca": "kiribati"
+    },
+    {
+        "codigo": "4200",
+        "nome": "LAOS, REP.POP.DEMOCR.DO",
+        "nomeParaBusca": "laosreppopdemocrdo"
+    },
+    {
+        "codigo": "4235",
+        "nome": "LEBUAN,ILHAS",
+        "nomeParaBusca": "lebuanilhas"
+    },
+    {
+        "codigo": "4260",
+        "nome": "LESOTO",
+        "nomeParaBusca": "lesoto"
+    },
+    {
+        "codigo": "4278",
+        "nome": "LETONIA, REPUBLICA DA",
+        "nomeParaBusca": "letoniarepublicada"
+    },
+    {
+        "codigo": "4316",
+        "nome": "LIBANO",
+        "nomeParaBusca": "libano"
+    },
+    {
+        "codigo": "4340",
+        "nome": "LIBERIA",
+        "nomeParaBusca": "liberia"
+    },
+    {
+        "codigo": "4383",
+        "nome": "LIBIA",
+        "nomeParaBusca": "libia"
+    },
+    {
+        "codigo": "4405",
+        "nome": "LIECHTENSTEIN",
+        "nomeParaBusca": "liechtenstein"
+    },
+    {
+        "codigo": "4421",
+        "nome": "LITUANIA, REPUBLICA DA",
+        "nomeParaBusca": "lituaniarepublicada"
+    },
+    {
+        "codigo": "4456",
+        "nome": "LUXEMBURGO",
+        "nomeParaBusca": "luxemburgo"
+    },
+    {
+        "codigo": "4472",
+        "nome": "MACAU",
+        "nomeParaBusca": "macau"
+    },
+    {
+        "codigo": "4499",
+        "nome": "MACEDONIA, ANT.REP.IUGOSLAVA",
+        "nomeParaBusca": "macedoniaantrepiugoslava"
+    },
+    {
+        "codigo": "4502",
+        "nome": "MADAGASCAR",
+        "nomeParaBusca": "madagascar"
+    },
+    {
+        "codigo": "4525",
+        "nome": "MADEIRA, ILHA DA",
+        "nomeParaBusca": "madeirailhada"
+    },
+    {
+        "codigo": "4553",
+        "nome": "MALASIA",
+        "nomeParaBusca": "malasia"
+    },
+    {
+        "codigo": "4588",
+        "nome": "MALAVI",
+        "nomeParaBusca": "malavi"
+    },
+    {
+        "codigo": "4618",
+        "nome": "MALDIVAS",
+        "nomeParaBusca": "maldivas"
+    },
+    {
+        "codigo": "4642",
+        "nome": "MALI",
+        "nomeParaBusca": "mali"
+    },
+    {
+        "codigo": "4677",
+        "nome": "MALTA",
+        "nomeParaBusca": "malta"
+    },
+    {
+        "codigo": "4723",
+        "nome": "MARIANAS DO NORTE",
+        "nomeParaBusca": "marianasdonorte"
+    },
+    {
+        "codigo": "4740",
+        "nome": "MARROCOS",
+        "nomeParaBusca": "marrocos"
+    },
+    {
+        "codigo": "4766",
+        "nome": "MARSHALL,ILHAS",
+        "nomeParaBusca": "marshallilhas"
+    },
+    {
+        "codigo": "4774",
+        "nome": "MARTINICA",
+        "nomeParaBusca": "martinica"
+    },
+    {
+        "codigo": "4855",
+        "nome": "MAURICIO",
+        "nomeParaBusca": "mauricio"
+    },
+    {
+        "codigo": "4880",
+        "nome": "MAURITANIA",
+        "nomeParaBusca": "mauritania"
+    },
+    {
+        "codigo": "4885",
+        "nome": "MAYOTTE (ILHAS FRANCESAS)  ",
+        "nomeParaBusca": "mayotteilhasfrancesas"
+    },
+    {
+        "codigo": "4901",
+        "nome": "MIDWAY, ILHAS",
+        "nomeParaBusca": "midwayilhas"
+    },
+    {
+        "codigo": "4936",
+        "nome": "MEXICO",
+        "nomeParaBusca": "mexico"
+    },
+    {
+        "codigo": "4944",
+        "nome": "MOLDAVIA, REPUBLICA DA",
+        "nomeParaBusca": "moldaviarepublicada"
+    },
+    {
+        "codigo": "4952",
+        "nome": "MONACO",
+        "nomeParaBusca": "monaco"
+    },
+    {
+        "codigo": "4979",
+        "nome": "MONGOLIA",
+        "nomeParaBusca": "mongolia"
+    },
+    {
+        "codigo": "4985",
+        "nome": "MONTENEGRO",
+        "nomeParaBusca": "montenegro"
+    },
+    {
+        "codigo": "4995",
+        "nome": "MICRONESIA",
+        "nomeParaBusca": "micronesia"
+    },
+    {
+        "codigo": "5010",
+        "nome": "MONTSERRAT,ILHAS",
+        "nomeParaBusca": "montserratilhas"
+    },
+    {
+        "codigo": "5053",
+        "nome": "MOCAMBIQUE",
+        "nomeParaBusca": "mocambique"
+    },
+    {
+        "codigo": "5070",
+        "nome": "NAMIBIA",
+        "nomeParaBusca": "namibia"
+    },
+    {
+        "codigo": "5088",
+        "nome": "NAURU",
+        "nomeParaBusca": "nauru"
+    },
+    {
+        "codigo": "5118",
+        "nome": "CHRISTMAS,ILHA (NAVIDAD)",
+        "nomeParaBusca": "christmasilhanavidad"
+    },
+    {
+        "codigo": "5177",
+        "nome": "NEPAL",
+        "nomeParaBusca": "nepal"
+    },
+    {
+        "codigo": "5215",
+        "nome": "NICARAGUA",
+        "nomeParaBusca": "nicaragua"
+    },
+    {
+        "codigo": "5258",
+        "nome": "NIGER",
+        "nomeParaBusca": "niger"
+    },
+    {
+        "codigo": "5282",
+        "nome": "NIGERIA",
+        "nomeParaBusca": "nigeria"
+    },
+    {
+        "codigo": "5312",
+        "nome": "NIUE,ILHA",
+        "nomeParaBusca": "niueilha"
+    },
+    {
+        "codigo": "5355",
+        "nome": "NORFOLK,ILHA",
+        "nomeParaBusca": "norfolkilha"
+    },
+    {
+        "codigo": "5380",
+        "nome": "NORUEGA",
+        "nomeParaBusca": "noruega"
+    },
+    {
+        "codigo": "5428",
+        "nome": "NOVA CALEDONIA",
+        "nomeParaBusca": "novacaledonia"
+    },
+    {
+        "codigo": "5452",
+        "nome": "PAPUA NOVA GUINE",
+        "nomeParaBusca": "papuanovaguine"
+    },
+    {
+        "codigo": "5487",
+        "nome": "NOVA ZELANDIA",
+        "nomeParaBusca": "novazelandia"
+    },
+    {
+        "codigo": "5517",
+        "nome": "VANUATU",
+        "nomeParaBusca": "vanuatu"
+    },
+    {
+        "codigo": "5568",
+        "nome": "OMA",
+        "nomeParaBusca": "oma"
+    },
+    {
+        "codigo": "5665",
+        "nome": "PACIFICO,ILHAS DO (POSSESSAO DOS EUA)",
+        "nomeParaBusca": "pacificoilhasdopossessaodoseua"
+    },
+    {
+        "codigo": "5738",
+        "nome": "PAISES BAIXOS (HOLANDA)",
+        "nomeParaBusca": "paisesbaixosholanda"
+    },
+    {
+        "codigo": "5754",
+        "nome": "PALAU",
+        "nomeParaBusca": "palau"
+    },
+    {
+        "codigo": "5762",
+        "nome": "PAQUISTAO",
+        "nomeParaBusca": "paquistao"
+    },
+    {
+        "codigo": "5780",
+        "nome": "PALESTINA",
+        "nomeParaBusca": "palestina"
+    },
+    {
+        "codigo": "5800",
+        "nome": "PANAMA",
+        "nomeParaBusca": "panama"
+    },
+    {
+        "codigo": "5860",
+        "nome": "PARAGUAI",
+        "nomeParaBusca": "paraguai"
+    },
+    {
+        "codigo": "5894",
+        "nome": "PERU",
+        "nomeParaBusca": "peru"
+    },
+    {
+        "codigo": "5932",
+        "nome": "PITCAIRN,ILHA",
+        "nomeParaBusca": "pitcairnilha"
+    },
+    {
+        "codigo": "5991",
+        "nome": "POLINESIA FRANCESA",
+        "nomeParaBusca": "polinesiafrancesa"
+    },
+    {
+        "codigo": "6033",
+        "nome": "POLONIA, REPUBLICA DA",
+        "nomeParaBusca": "poloniarepublicada"
+    },
+    {
+        "codigo": "6076",
+        "nome": "PORTUGAL",
+        "nomeParaBusca": "portugal"
+    },
+    {
+        "codigo": "6114",
+        "nome": "PORTO RICO",
+        "nomeParaBusca": "portorico"
+    },
+    {
+        "codigo": "6238",
+        "nome": "QUENIA",
+        "nomeParaBusca": "quenia"
+    },
+    {
+        "codigo": "6254",
+        "nome": "QUIRGUIZ, REPUBLICA",
+        "nomeParaBusca": "quirguizrepublica"
+    },
+    {
+        "codigo": "6289",
+        "nome": "REINO UNIDO",
+        "nomeParaBusca": "reinounido"
+    },
+    {
+        "codigo": "6408",
+        "nome": "REPUBLICA CENTRO-AFRICANA",
+        "nomeParaBusca": "republicacentroafricana"
+    },
+    {
+        "codigo": "6475",
+        "nome": "REPUBLICA DOMINICANA",
+        "nomeParaBusca": "republicadominicana"
+    },
+    {
+        "codigo": "6602",
+        "nome": "REUNIAO, ILHA",
+        "nomeParaBusca": "reuniaoilha"
+    },
+    {
+        "codigo": "6653",
+        "nome": "ZIMBABUE",
+        "nomeParaBusca": "zimbabue"
+    },
+    {
+        "codigo": "6700",
+        "nome": "ROMENIA",
+        "nomeParaBusca": "romenia"
+    },
+    {
+        "codigo": "6750",
+        "nome": "RUANDA",
+        "nomeParaBusca": "ruanda"
+    },
+    {
+        "codigo": "6769",
+        "nome": "RUSSIA, FEDERACAO DA",
+        "nomeParaBusca": "russiafederacaoda"
+    },
+    {
+        "codigo": "6777",
+        "nome": "SALOMAO, ILHAS",
+        "nomeParaBusca": "salomaoilhas"
+    },
+    {
+        "codigo": "6781",
+        "nome": "SAINT KITTS E NEVIS",
+        "nomeParaBusca": "saintkittsenevis"
+    },
+    {
+        "codigo": "6858",
+        "nome": "SAARA OCIDENTAL",
+        "nomeParaBusca": "saaraocidental"
+    },
+    {
+        "codigo": "6874",
+        "nome": "EL SALVADOR",
+        "nomeParaBusca": "elsalvador"
+    },
+    {
+        "codigo": "6904",
+        "nome": "SAMOA",
+        "nomeParaBusca": "samoa"
+    },
+    {
+        "codigo": "6912",
+        "nome": "SAMOA AMERICANA",
+        "nomeParaBusca": "samoaamericana"
+    },
+    {
+        "codigo": "6955",
+        "nome": "SAO CRISTOVAO E NEVES,ILHAS",
+        "nomeParaBusca": "saocristovaoenevesilhas"
+    },
+    {
+        "codigo": "6971",
+        "nome": "SAN MARINO",
+        "nomeParaBusca": "sanmarino"
+    },
+    {
+        "codigo": "7005",
+        "nome": "SAO PEDRO E MIQUELON",
+        "nomeParaBusca": "saopedroemiquelon"
+    },
+    {
+        "codigo": "7056",
+        "nome": "SAO VICENTE E GRANADINAS",
+        "nomeParaBusca": "saovicenteegranadinas"
+    },
+    {
+        "codigo": "7102",
+        "nome": "SANTA HELENA",
+        "nomeParaBusca": "santahelena"
+    },
+    {
+        "codigo": "7153",
+        "nome": "SANTA LUCIA",
+        "nomeParaBusca": "santalucia"
+    },
+    {
+        "codigo": "7200",
+        "nome": "SAO TOME E PRINCIPE, ILHAS",
+        "nomeParaBusca": "saotomeeprincipeilhas"
+    },
+    {
+        "codigo": "7285",
+        "nome": "SENEGAL",
+        "nomeParaBusca": "senegal"
+    },
+    {
+        "codigo": "7315",
+        "nome": "SEYCHELLES",
+        "nomeParaBusca": "seychelles"
+    },
+    {
+        "codigo": "7358",
+        "nome": "SERRA LEOA",
+        "nomeParaBusca": "serraleoa"
+    },
+    {
+        "codigo": "7370",
+        "nome": "SERVIA",
+        "nomeParaBusca": "servia"
+    },
+    {
+        "codigo": "7412",
+        "nome": "CINGAPURA",
+        "nomeParaBusca": "cingapura"
+    },
+    {
+        "codigo": "7447",
+        "nome": "SIRIA, REPUBLICA ARABE DA",
+        "nomeParaBusca": "siriarepublicaarabeda"
+    },
+    {
+        "codigo": "7480",
+        "nome": "SOMALIA",
+        "nomeParaBusca": "somalia"
+    },
+    {
+        "codigo": "7501",
+        "nome": "SRI LANKA",
+        "nomeParaBusca": "srilanka"
+    },
+    {
+        "codigo": "7544",
+        "nome": "SUAZILANDIA",
+        "nomeParaBusca": "suazilandia"
+    },
+    {
+        "codigo": "7560",
+        "nome": "AFRICA DO SUL",
+        "nomeParaBusca": "africadosul"
+    },
+    {
+        "codigo": "7595",
+        "nome": "SUDAO",
+        "nomeParaBusca": "sudao"
+    },
+    {
+        "codigo": "7600",
+        "nome": "SUDÃO DO SUL",
+        "nomeParaBusca": "sudaodosul"
+    },
+    {
+        "codigo": "7641",
+        "nome": "SUECIA",
+        "nomeParaBusca": "suecia"
+    },
+    {
+        "codigo": "7676",
+        "nome": "SUICA",
+        "nomeParaBusca": "suica"
+    },
+    {
+        "codigo": "7706",
+        "nome": "SURINAME",
+        "nomeParaBusca": "suriname"
+    },
+    {
+        "codigo": "7722",
+        "nome": "TADJIQUISTAO, REPUBLICA DO",
+        "nomeParaBusca": "tadjiquistaorepublicado"
+    },
+    {
+        "codigo": "7765",
+        "nome": "TAILANDIA",
+        "nomeParaBusca": "tailandia"
+    },
+    {
+        "codigo": "7803",
+        "nome": "TANZANIA, REP.UNIDA DA",
+        "nomeParaBusca": "tanzaniarepunidada"
+    },
+    {
+        "codigo": "7820",
+        "nome": "TERRITORIO BRIT.OC.INDICO",
+        "nomeParaBusca": "territoriobritocindico"
+    },
+    {
+        "codigo": "7838",
+        "nome": "DJIBUTI",
+        "nomeParaBusca": "djibuti"
+    },
+    {
+        "codigo": "7889",
+        "nome": "CHADE",
+        "nomeParaBusca": "chade"
+    },
+    {
+        "codigo": "7919",
+        "nome": "TCHECA, REPUBLICA",
+        "nomeParaBusca": "tchecarepublica"
+    },
+    {
+        "codigo": "7951",
+        "nome": "TIMOR LESTE",
+        "nomeParaBusca": "timorleste"
+    },
+    {
+        "codigo": "8001",
+        "nome": "TOGO",
+        "nomeParaBusca": "togo"
+    },
+    {
+        "codigo": "8052",
+        "nome": "TOQUELAU,ILHAS",
+        "nomeParaBusca": "toquelauilhas"
+    },
+    {
+        "codigo": "8109",
+        "nome": "TONGA",
+        "nomeParaBusca": "tonga"
+    },
+    {
+        "codigo": "8150",
+        "nome": "TRINIDAD E TOBAGO",
+        "nomeParaBusca": "trinidadetobago"
+    },
+    {
+        "codigo": "8206",
+        "nome": "TUNISIA",
+        "nomeParaBusca": "tunisia"
+    },
+    {
+        "codigo": "8230",
+        "nome": "TURCAS E CAICOS,ILHAS",
+        "nomeParaBusca": "turcasecaicosilhas"
+    },
+    {
+        "codigo": "8249",
+        "nome": "TURCOMENISTAO, REPUBLICA DO",
+        "nomeParaBusca": "turcomenistaorepublicado"
+    },
+    {
+        "codigo": "8273",
+        "nome": "TURQUIA",
+        "nomeParaBusca": "turquia"
+    },
+    {
+        "codigo": "8281",
+        "nome": "TUVALU",
+        "nomeParaBusca": "tuvalu"
+    },
+    {
+        "codigo": "8311",
+        "nome": "UCRANIA",
+        "nomeParaBusca": "ucrania"
+    },
+    {
+        "codigo": "8338",
+        "nome": "UGANDA",
+        "nomeParaBusca": "uganda"
+    },
+    {
+        "codigo": "8451",
+        "nome": "URUGUAI",
+        "nomeParaBusca": "uruguai"
+    },
+    {
+        "codigo": "8478",
+        "nome": "UZBEQUISTAO, REPUBLICA DO",
+        "nomeParaBusca": "uzbequistaorepublicado"
+    },
+    {
+        "codigo": "8486",
+        "nome": "VATICANO, EST.DA CIDADE DO",
+        "nomeParaBusca": "vaticanoestdacidadedo"
+    },
+    {
+        "codigo": "8508",
+        "nome": "VENEZUELA",
+        "nomeParaBusca": "venezuela"
+    },
+    {
+        "codigo": "8583",
+        "nome": "VIETNA",
+        "nomeParaBusca": "vietna"
+    },
+    {
+        "codigo": "8630",
+        "nome": "VIRGENS,ILHAS (BRITANICAS)",
+        "nomeParaBusca": "virgensilhasbritanicas"
+    },
+    {
+        "codigo": "8664",
+        "nome": "VIRGENS,ILHAS (E.U.A.)",
+        "nomeParaBusca": "virgensilhaseua"
+    },
+    {
+        "codigo": "8702",
+        "nome": "FIJI",
+        "nomeParaBusca": "fiji"
+    },
+    {
+        "codigo": "8737",
+        "nome": "WAKE, ILHA",
+        "nomeParaBusca": "wakeilha"
+    },
+    {
+        "codigo": "8885",
+        "nome": "CONGO, REPUBLICA DEMOCRATICA DO",
+        "nomeParaBusca": "congorepublicademocraticado"
+    },
+    {
+        "codigo": "8907",
+        "nome": "ZAMBIA",
+        "nomeParaBusca": "zambia"
+    },
+    {
+        "codigo": "8958",
+        "nome": "ZONA DO CANAL DO PANAMA",
+        "nomeParaBusca": "zonadocanaldopanama"
+    },
+    {
+        "codigo": "9903",
+        "nome": "PROVISAO DE NAVIOS E AERONAVES",
+        "nomeParaBusca": "provisaodenavioseaeronaves"
+    },
+    {
+        "codigo": "9946",
+        "nome": "A DESIGNAR",
+        "nomeParaBusca": "adesignar"
+    },
+    {
+        "codigo": "9950",
+        "nome": "BANCOS CENTRAIS",
+        "nomeParaBusca": "bancoscentrais"
+    },
+    {
+        "codigo": "9970",
+        "nome": "ORGANIZACOES INTERNACIONAIS",
+        "nomeParaBusca": "organizacoesinternacionais"
+    }
+]

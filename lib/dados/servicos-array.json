@@ -1,0 +1,967 @@
+[
+    {
+        "codigo": "01.01",
+        "descricao": "Análise e desenvolvimento de sistemas.",
+        "descricaoParaBusca": "analiseedesenvolvimentodesistemas"
+    },
+    {
+        "codigo": "01.02",
+        "descricao": "Programação.",
+        "descricaoParaBusca": "programacao"
+    },
+    {
+        "codigo": "01.03",
+        "descricao": "Processamento de dados e congêneres.",
+        "descricaoParaBusca": "processamentodedadosecongeneres"
+    },
+    {
+        "codigo": "01.04",
+        "descricao": "Elaboração de programas de computadores, inclusive de jogos eletrônicos.",
+        "descricaoParaBusca": "elaboracaodeprogramasdecomputadoresinclusivedejogoseletronicos"
+    },
+    {
+        "codigo": "01.05",
+        "descricao": "Licenciamento ou cessão de direito de uso de programas de computação.",
+        "descricaoParaBusca": "licenciamentooucessaodedireitodeusodeprogramasdecomputacao"
+    },
+    {
+        "codigo": "01.06",
+        "descricao": "Assessoria e consultoria em informática.",
+        "descricaoParaBusca": "assessoriaeconsultoriaeminformatica"
+    },
+    {
+        "codigo": "01.07",
+        "descricao": "Suporte técnico em informática, inclusive instalação, configuração e manutenção de programas de computação e bancos de dados.",
+        "descricaoParaBusca": "suportetecnicoeminformaticainclusiveinstalacaoconfiguracaoemanutencaodeprogramasdecomputacaoebancosdedados"
+    },
+    {
+        "codigo": "01.08",
+        "descricao": "Planejamento, confecção, manutenção e atualização de páginas eletrônicas.",
+        "descricaoParaBusca": "planejamentoconfeccaomanutencaoeatualizacaodepaginaseletronicas"
+    },
+    {
+        "codigo": "02.01",
+        "descricao": "Serviços de pesquisas e desenvolvimento de qualquer natureza.",
+        "descricaoParaBusca": "servicosdepesquisasedesenvolvimentodequalquernatureza"
+    },
+    {
+        "codigo": "03.02",
+        "descricao": "Cessão de direito de uso de marcas e de sinais de propaganda.",
+        "descricaoParaBusca": "cessaodedireitodeusodemarcasedesinaisdepropaganda"
+    },
+    {
+        "codigo": "03.03",
+        "descricao": "Exploração de salões de festas, centro de convenções, escritórios virtuais, stands, quadras esportivas, estádios, ginásios, auditórios, casas de espetáculos, parques de diversões, canchas e congêneres, para realização de eventos ou negócios de qualquer natureza.",
+        "descricaoParaBusca": "exploracaodesaloesdefestascentrodeconvencoesescritoriosvirtuaisstandsquadrasesportivasestadiosginasiosauditorioscasasdeespetaculosparquesdediversoescanchasecongenerespararealizacaodeeventosounegociosdequalquernatureza"
+    },
+    {
+        "codigo": "03.04",
+        "descricao": "Locação, sublocação, arrendamento, direito de passagem ou permissão de uso, compartilhado ou não, de ferrovia, rodovia, postes, cabos, dutos e condutos de qualquer natureza.",
+        "descricaoParaBusca": "locacaosublocacaoarrendamentodireitodepassagemoupermissaodeusocompartilhadoounaodeferroviarodoviapostescabosdutosecondutosdequalquernatureza"
+    },
+    {
+        "codigo": "03.05",
+        "descricao": "Cessão de andaimes, palcos, coberturas e outras estruturas de uso temporário.",
+        "descricaoParaBusca": "cessaodeandaimespalcoscoberturaseoutrasestruturasdeusotemporario"
+    },
+    {
+        "codigo": "04.01",
+        "descricao": "Medicina e biomedicina.",
+        "descricaoParaBusca": "medicinaebiomedicina"
+    },
+    {
+        "codigo": "04.02",
+        "descricao": "Análises clínicas, patologia, eletricidade médica, radioterapia, quimioterapia, ultra-sonografia, ressonância magnética, radiologia, tomografia e congêneres.",
+        "descricaoParaBusca": "analisesclinicaspatologiaeletricidademedicaradioterapiaquimioterapiaultrasonografiaressonanciamagneticaradiologiatomografiaecongeneres"
+    },
+    {
+        "codigo": "04.03",
+        "descricao": "Hospitais, clínicas, laboratórios, sanatórios, manicômios, casas de saúde, prontos-socorros, ambulatórios e congêneres.",
+        "descricaoParaBusca": "hospitaisclinicaslaboratoriossanatoriosmanicomioscasasdesaudeprontossocorrosambulatoriosecongeneres"
+    },
+    {
+        "codigo": "04.04",
+        "descricao": "Instrumentação cirúrgica.",
+        "descricaoParaBusca": "instrumentacaocirurgica"
+    },
+    {
+        "codigo": "04.05",
+        "descricao": "Acupuntura.",
+        "descricaoParaBusca": "acupuntura"
+    },
+    {
+        "codigo": "04.06",
+        "descricao": "Enfermagem, inclusive serviços auxiliares.",
+        "descricaoParaBusca": "enfermageminclusiveservicosauxiliares"
+    },
+    {
+        "codigo": "04.07",
+        "descricao": "Serviços farmacêuticos.",
+        "descricaoParaBusca": "servicosfarmaceuticos"
+    },
+    {
+        "codigo": "04.08",
+        "descricao": "Terapia ocupacional, fisioterapia e fonoaudiologia.",
+        "descricaoParaBusca": "terapiaocupacionalfisioterapiaefonoaudiologia"
+    },
+    {
+        "codigo": "04.09",
+        "descricao": "Terapias de qualquer espécie destinadas ao tratamento físico, orgânico e mental.",
+        "descricaoParaBusca": "terapiasdequalquerespeciedestinadasaotratamentofisicoorganicoemental"
+    },
+    {
+        "codigo": "04.10",
+        "descricao": "Nutrição.",
+        "descricaoParaBusca": "nutricao"
+    },
+    {
+        "codigo": "04.11",
+        "descricao": "Obstetrícia.",
+        "descricaoParaBusca": "obstetricia"
+    },
+    {
+        "codigo": "04.12",
+        "descricao": "Odontologia.",
+        "descricaoParaBusca": "odontologia"
+    },
+    {
+        "codigo": "04.13",
+        "descricao": "Ortóptica.",
+        "descricaoParaBusca": "ortoptica"
+    },
+    {
+        "codigo": "04.14",
+        "descricao": "Próteses sob encomenda.",
+        "descricaoParaBusca": "protesessobencomenda"
+    },
+    {
+        "codigo": "04.15",
+        "descricao": "Psicanálise.",
+        "descricaoParaBusca": "psicanalise"
+    },
+    {
+        "codigo": "04.16",
+        "descricao": "Psicologia.",
+        "descricaoParaBusca": "psicologia"
+    },
+    {
+        "codigo": "04.17",
+        "descricao": "Casas de repouso e de recuperação, creches, asilos e congêneres.",
+        "descricaoParaBusca": "casasderepousoederecuperacaocrechesasilosecongeneres"
+    },
+    {
+        "codigo": "04.18",
+        "descricao": "Inseminação artificial, fertilização in vitro e congêneres.",
+        "descricaoParaBusca": "inseminacaoartificialfertilizacaoinvitroecongeneres"
+    },
+    {
+        "codigo": "04.19",
+        "descricao": "Bancos de sangue, leite, pele, olhos, óvulos, sêmen e congêneres.",
+        "descricaoParaBusca": "bancosdesangueleitepeleolhosovulossemenecongeneres"
+    },
+    {
+        "codigo": "04.20",
+        "descricao": "Coleta de sangue, leite, tecidos, sêmen, órgãos e materiais biológicos de qualquer espécie.",
+        "descricaoParaBusca": "coletadesangueleitetecidossemenorgaosemateriaisbiologicosdequalquerespecie"
+    },
+    {
+        "codigo": "04.21",
+        "descricao": "Unidade de atendimento, assistência ou tratamento móvel e congêneres.",
+        "descricaoParaBusca": "unidadedeatendimentoassistenciaoutratamentomovelecongeneres"
+    },
+    {
+        "codigo": "04.22",
+        "descricao": "Planos de medicina de grupo ou individual e convênios para prestação de assistência médica, hospitalar, odontológica e congêneres.",
+        "descricaoParaBusca": "planosdemedicinadegrupoouindividualeconveniosparaprestacaodeassistenciamedicahospitalarodontologicaecongeneres"
+    },
+    {
+        "codigo": "04.23",
+        "descricao": "Outros planos de saúde que se cumpram através de serviços de terceiros contratados, credenciados, cooperados ou apenas pagos pelo operador do plano mediante indicação do beneficiário.",
+        "descricaoParaBusca": "outrosplanosdesaudequesecumpramatravesdeservicosdeterceiroscontratadoscredenciadoscooperadosouapenaspagospelooperadordoplanomedianteindicacaodobeneficiario"
+    },
+    {
+        "codigo": "05.01",
+        "descricao": "Medicina veterinária e zootecnia.",
+        "descricaoParaBusca": "medicinaveterinariaezootecnia"
+    },
+    {
+        "codigo": "05.02",
+        "descricao": "Hospitais, clínicas, ambulatórios, prontos-socorros e congêneres, na área veterinária.",
+        "descricaoParaBusca": "hospitaisclinicasambulatoriosprontossocorrosecongeneresnaareaveterinaria"
+    },
+    {
+        "codigo": "05.03",
+        "descricao": "Laboratórios de análise na área veterinária.",
+        "descricaoParaBusca": "laboratoriosdeanalisenaareaveterinaria"
+    },
+    {
+        "codigo": "05.04",
+        "descricao": "Inseminação artificial, fertilização in vitro e congêneres.",
+        "descricaoParaBusca": "inseminacaoartificialfertilizacaoinvitroecongeneres"
+    },
+    {
+        "codigo": "05.05",
+        "descricao": "Bancos de sangue e de órgãos e congêneres.",
+        "descricaoParaBusca": "bancosdesangueedeorgaosecongeneres"
+    },
+    {
+        "codigo": "05.06",
+        "descricao": "Coleta de sangue, leite, tecidos, sêmen, órgãos e materiais biológicos de qualquer espécie.",
+        "descricaoParaBusca": "coletadesangueleitetecidossemenorgaosemateriaisbiologicosdequalquerespecie"
+    },
+    {
+        "codigo": "05.07",
+        "descricao": "Unidade de atendimento, assistência ou tratamento móvel e congêneres.",
+        "descricaoParaBusca": "unidadedeatendimentoassistenciaoutratamentomovelecongeneres"
+    },
+    {
+        "codigo": "05.08",
+        "descricao": "Guarda, tratamento, amestramento, embelezamento, alojamento e congêneres.",
+        "descricaoParaBusca": "guardatratamentoamestramentoembelezamentoalojamentoecongeneres"
+    },
+    {
+        "codigo": "05.09",
+        "descricao": "Planos de atendimento e assistência médico-veterinária.",
+        "descricaoParaBusca": "planosdeatendimentoeassistenciamedicoveterinaria"
+    },
+    {
+        "codigo": "06.01",
+        "descricao": "Barbearia, cabeleireiros, manicuros, pedicuros e congêneres.",
+        "descricaoParaBusca": "barbeariacabeleireirosmanicurospedicurosecongeneres"
+    },
+    {
+        "codigo": "06.02",
+        "descricao": "Esteticistas, tratamento de pele, depilação e congêneres.",
+        "descricaoParaBusca": "esteticistastratamentodepeledepilacaoecongeneres"
+    },
+    {
+        "codigo": "06.03",
+        "descricao": "Banhos, duchas, sauna, massagens e congêneres.",
+        "descricaoParaBusca": "banhosduchassaunamassagensecongeneres"
+    },
+    {
+        "codigo": "06.04",
+        "descricao": "Ginástica, dança, esportes, natação, artes marciais e demais atividades físicas.",
+        "descricaoParaBusca": "ginasticadancaesportesnatacaoartesmarciaisedemaisatividadesfisicas"
+    },
+    {
+        "codigo": "06.05",
+        "descricao": "Centros de emagrecimento, spa e congêneres.",
+        "descricaoParaBusca": "centrosdeemagrecimentospaecongeneres"
+    },
+    {
+        "codigo": "07.01",
+        "descricao": "Engenharia, agronomia, agrimensura, arquitetura, geologia, urbanismo, paisagismo e congêneres.",
+        "descricaoParaBusca": "engenhariaagronomiaagrimensuraarquiteturageologiaurbanismopaisagismoecongeneres"
+    },
+    {
+        "codigo": "07.02",
+        "descricao": "Execução, por administração, empreitada ou subempreitada, de obras de construção civil, hidráulica ou elétrica e de outras obras semelhantes, inclusive sondagem, perfuração de poços, escavação, drenagem e irrigação, terraplanagem, pavimentação, concretagem e a instalação e montagem de produtos, peças e equipamentos (exceto o fornecimento de mercadorias produzidas pelo prestador de serviços fora do local da prestação dos serviços, que fica sujeito ao ICMS).",
+        "descricaoParaBusca": "execucaoporadministracaoempreitadaousubempreitadadeobrasdeconstrucaocivilhidraulicaoueletricaedeoutrasobrassemelhantesinclusivesondagemperfuracaodepocosescavacaodrenagemeirrigacaoterraplanagempavimentacaoconcretagemeainstalacaoemontagemdeprodutospecaseequipamentosexcetoofornecimentodemercadoriasproduzidaspeloprestadordeservicosforadolocaldaprestacaodosservicosqueficasujeitoaoicms"
+    },
+    {
+        "codigo": "07.03",
+        "descricao": "Elaboração de planos diretores, estudos de viabilidade, estudos organizacionais e outros, relacionados com obras e serviços de engenharia; elaboração de anteprojetos, projetos básicos e projetos executivos para trabalhos de engenharia.",
+        "descricaoParaBusca": "elaboracaodeplanosdiretoresestudosdeviabilidadeestudosorganizacionaiseoutrosrelacionadoscomobraseservicosdeengenhariaelaboracaodeanteprojetosprojetosbasicoseprojetosexecutivosparatrabalhosdeengenharia"
+    },
+    {
+        "codigo": "07.04",
+        "descricao": "Demolição.",
+        "descricaoParaBusca": "demolicao"
+    },
+    {
+        "codigo": "07.05",
+        "descricao": "Reparação, conservação e reforma de edifícios, estradas, pontes, portos e congêneres (exceto o fornecimento de mercadorias produzidas pelo prestador dos serviços, fora do local da prestação dos serviços, que fica sujeito ao ICMS).",
+        "descricaoParaBusca": "reparacaoconservacaoereformadeedificiosestradaspontesportosecongeneresexcetoofornecimentodemercadoriasproduzidaspeloprestadordosservicosforadolocaldaprestacaodosservicosqueficasujeitoaoicms"
+    },
+    {
+        "codigo": "07.06",
+        "descricao": "Colocação e instalação de tapetes, carpetes, assoalhos, cortinas, revestimentos de parede, vidros, divisórias, placas de gesso e congêneres, com material fornecido pelo tomador do serviço.",
+        "descricaoParaBusca": "colocacaoeinstalacaodetapetescarpetesassoalhoscortinasrevestimentosdeparedevidrosdivisoriasplacasdegessoecongenerescommaterialfornecidopelotomadordoservico"
+    },
+    {
+        "codigo": "07.07",
+        "descricao": "Recuperação, raspagem, polimento e lustração de pisos e congêneres.",
+        "descricaoParaBusca": "recuperacaoraspagempolimentoelustracaodepisosecongeneres"
+    },
+    {
+        "codigo": "07.08",
+        "descricao": "Calafetação.",
+        "descricaoParaBusca": "calafetacao"
+    },
+    {
+        "codigo": "07.09",
+        "descricao": "Varrição, coleta, remoção, incineração, tratamento, reciclagem, separação e destinação final de lixo, rejeitos e outros resíduos quaisquer.",
+        "descricaoParaBusca": "varricaocoletaremocaoincineracaotratamentoreciclagemseparacaoedestinacaofinaldelixorejeitoseoutrosresiduosquaisquer"
+    },
+    {
+        "codigo": "07.10",
+        "descricao": "Limpeza, manutenção e conservação de vias e logradouros públicos, imóveis, chaminés, piscinas, parques, jardins e congêneres.",
+        "descricaoParaBusca": "limpezamanutencaoeconservacaodeviaselogradourospublicosimoveischaminespiscinasparquesjardinsecongeneres"
+    },
+    {
+        "codigo": "07.11",
+        "descricao": "Decoração e jardinagem, inclusive corte e poda de árvores.",
+        "descricaoParaBusca": "decoracaoejardinageminclusivecorteepodadearvores"
+    },
+    {
+        "codigo": "07.12",
+        "descricao": "Controle e tratamento de efluentes de qualquer natureza e de agentes físicos, químicos e biológicos.",
+        "descricaoParaBusca": "controleetratamentodeefluentesdequalquernaturezaedeagentesfisicosquimicosebiologicos"
+    },
+    {
+        "codigo": "07.13",
+        "descricao": "Dedetização, desinfecção, desinsetização, imunização, higienização, desratização, pulverização e congêneres.",
+        "descricaoParaBusca": "dedetizacaodesinfeccaodesinsetizacaoimunizacaohigienizacaodesratizacaopulverizacaoecongeneres"
+    },
+    {
+        "codigo": "07.16",
+        "descricao": "Florestamento, reflorestamento, semeadura, adubação e congêneres.",
+        "descricaoParaBusca": "florestamentoreflorestamentosemeaduraadubacaoecongeneres"
+    },
+    {
+        "codigo": "07.17",
+        "descricao": "Escoramento, contenção de encostas e serviços congêneres.",
+        "descricaoParaBusca": "escoramentocontencaodeencostaseservicoscongeneres"
+    },
+    {
+        "codigo": "07.18",
+        "descricao": "Limpeza e dragagem de rios, portos, canais, baías, lagos, lagoas, represas, açudes e congêneres.",
+        "descricaoParaBusca": "limpezaedragagemderiosportoscanaisbaiaslagoslagoasrepresasacudesecongeneres"
+    },
+    {
+        "codigo": "07.19",
+        "descricao": "Acompanhamento e fiscalização da execução de obras de engenharia, arquitetura e urbanismo.",
+        "descricaoParaBusca": "acompanhamentoefiscalizacaodaexecucaodeobrasdeengenhariaarquiteturaeurbanismo"
+    },
+    {
+        "codigo": "07.20",
+        "descricao": "Aerofotogrametria (inclusive interpretação), cartografia, mapeamento, levantamentos topográficos, batimétricos, geográficos, geodésicos, geológicos, geofísicos e congêneres.",
+        "descricaoParaBusca": "aerofotogrametriainclusiveinterpretacaocartografiamapeamentolevantamentostopograficosbatimetricosgeograficosgeodesicosgeologicosgeofisicosecongeneres"
+    },
+    {
+        "codigo": "07.21",
+        "descricao": "Pesquisa, perfuração, cimentação, mergulho, perfilagem, concretação, testemunhagem, pescaria, estimulação e outros serviços relacionados com a exploração e explotação de petróleo, gás natural e de outros recursos minerais.",
+        "descricaoParaBusca": "pesquisaperfuracaocimentacaomergulhoperfilagemconcretacaotestemunhagempescariaestimulacaoeoutrosservicosrelacionadoscomaexploracaoeexplotacaodepetroleogasnaturaledeoutrosrecursosminerais"
+    },
+    {
+        "codigo": "07.22",
+        "descricao": "Nucleação e bombardeamento de nuvens e congêneres.",
+        "descricaoParaBusca": "nucleacaoebombardeamentodenuvensecongeneres"
+    },
+    {
+        "codigo": "08.01",
+        "descricao": "Ensino regular pré-escolar, fundamental, médio e superior.",
+        "descricaoParaBusca": "ensinoregularpreescolarfundamentalmedioesuperior"
+    },
+    {
+        "codigo": "08.02",
+        "descricao": "Instrução, treinamento, orientação pedagógica e educacional, avaliação de conhecimentos de qualquer natureza.",
+        "descricaoParaBusca": "instrucaotreinamentoorientacaopedagogicaeeducacionalavaliacaodeconhecimentosdequalquernatureza"
+    },
+    {
+        "codigo": "09.01",
+        "descricao": "Hospedagem de qualquer natureza em hotéis, apart-service condominiais, flat, apart-hotéis, hotéis residência, residence-service, suite service, hotelaria marítima, motéis, pensões e congêneres; ocupação por temporada com fornecimento de serviço (o valor da alimentação e gorjeta, quando incluído no preço da diária, fica sujeito ao Imposto Sobre Serviços).",
+        "descricaoParaBusca": "hospedagemdequalquernaturezaemhoteisapartservicecondominiaisflataparthoteishoteisresidenciaresidenceservicesuiteservicehotelariamaritimamoteispensoesecongeneresocupacaoportemporadacomfornecimentodeservicoovalordaalimentacaoegorjetaquandoincluidonoprecodadiariaficasujeitoaoimpostosobreservicos"
+    },
+    {
+        "codigo": "09.02",
+        "descricao": "Agenciamento, organização, promoção, intermediação e execução de programas de turismo, passeios, viagens, excursões, hospedagens e congêneres.",
+        "descricaoParaBusca": "agenciamentoorganizacaopromocaointermediacaoeexecucaodeprogramasdeturismopasseiosviagensexcursoeshospedagensecongeneres"
+    },
+    {
+        "codigo": "09.03",
+        "descricao": "Guias de turismo.",
+        "descricaoParaBusca": "guiasdeturismo"
+    },
+    {
+        "codigo": "10.01",
+        "descricao": "Agenciamento, corretagem ou intermediação de câmbio, de seguros, de cartões de crédito, de planos de saúde e de planos de previdência privada.",
+        "descricaoParaBusca": "agenciamentocorretagemouintermediacaodecambiodesegurosdecartoesdecreditodeplanosdesaudeedeplanosdeprevidenciaprivada"
+    },
+    {
+        "codigo": "10.02",
+        "descricao": "Agenciamento, corretagem ou intermediação de títulos em geral, valores mobiliários e contratos quaisquer.",
+        "descricaoParaBusca": "agenciamentocorretagemouintermediacaodetitulosemgeralvaloresmobiliariosecontratosquaisquer"
+    },
+    {
+        "codigo": "10.03",
+        "descricao": "Agenciamento, corretagem ou intermediação de direitos de propriedade industrial, artística ou literária.",
+        "descricaoParaBusca": "agenciamentocorretagemouintermediacaodedireitosdepropriedadeindustrialartisticaouliteraria"
+    },
+    {
+        "codigo": "10.04",
+        "descricao": "Agenciamento, corretagem ou intermediação de contratos de arrendamento mercantil (leasing), de franquia (franchising) e de faturização (factoring).",
+        "descricaoParaBusca": "agenciamentocorretagemouintermediacaodecontratosdearrendamentomercantilleasingdefranquiafranchisingedefaturizacaofactoring"
+    },
+    {
+        "codigo": "10.05",
+        "descricao": "Agenciamento, corretagem ou intermediação de bens móveis ou imóveis, não abrangidos em outros itens ou subitens, inclusive aqueles realizados no âmbito de Bolsas de Mercadorias e Futuros, por quaisquer meios.",
+        "descricaoParaBusca": "agenciamentocorretagemouintermediacaodebensmoveisouimoveisnaoabrangidosemoutrositensousubitensinclusiveaquelesrealizadosnoambitodebolsasdemercadoriasefuturosporquaisquermeios"
+    },
+    {
+        "codigo": "10.06",
+        "descricao": "Agenciamento marítimo.",
+        "descricaoParaBusca": "agenciamentomaritimo"
+    },
+    {
+        "codigo": "10.07",
+        "descricao": "Agenciamento de notícias.",
+        "descricaoParaBusca": "agenciamentodenoticias"
+    },
+    {
+        "codigo": "10.08",
+        "descricao": "Agenciamento de publicidade e propaganda, inclusive o agenciamento de veiculação por quaisquer meios.",
+        "descricaoParaBusca": "agenciamentodepublicidadeepropagandainclusiveoagenciamentodeveiculacaoporquaisquermeios"
+    },
+    {
+        "codigo": "10.09",
+        "descricao": "Representação de qualquer natureza, inclusive comercial.",
+        "descricaoParaBusca": "representacaodequalquernaturezainclusivecomercial"
+    },
+    {
+        "codigo": "10.10",
+        "descricao": "Distribuição de bens de terceiros.",
+        "descricaoParaBusca": "distribuicaodebensdeterceiros"
+    },
+    {
+        "codigo": "11.01",
+        "descricao": "Guarda e estacionamento de veículos terrestres automotores, de aeronaves e de embarcações.",
+        "descricaoParaBusca": "guardaeestacionamentodeveiculosterrestresautomotoresdeaeronavesedeembarcacoes"
+    },
+    {
+        "codigo": "11.02",
+        "descricao": "Vigilância, segurança ou monitoramento de bens e pessoas.",
+        "descricaoParaBusca": "vigilanciasegurancaoumonitoramentodebensepessoas"
+    },
+    {
+        "codigo": "11.03",
+        "descricao": "Escolta, inclusive de veículos e cargas.",
+        "descricaoParaBusca": "escoltainclusivedeveiculosecargas"
+    },
+    {
+        "codigo": "11.04",
+        "descricao": "Armazenamento, depósito, carga, descarga, arrumação e guarda de bens de qualquer espécie.",
+        "descricaoParaBusca": "armazenamentodepositocargadescargaarrumacaoeguardadebensdequalquerespecie"
+    },
+    {
+        "codigo": "12.01",
+        "descricao": "Espetáculos teatrais.",
+        "descricaoParaBusca": "espetaculosteatrais"
+    },
+    {
+        "codigo": "12.02",
+        "descricao": "Exibições cinematográficas.",
+        "descricaoParaBusca": "exibicoescinematograficas"
+    },
+    {
+        "codigo": "12.03",
+        "descricao": "Espetáculos circenses.",
+        "descricaoParaBusca": "espetaculoscircenses"
+    },
+    {
+        "codigo": "12.04",
+        "descricao": "Programas de auditório.",
+        "descricaoParaBusca": "programasdeauditorio"
+    },
+    {
+        "codigo": "12.05",
+        "descricao": "Parques de diversões, centros de lazer e congêneres.",
+        "descricaoParaBusca": "parquesdediversoescentrosdelazerecongeneres"
+    },
+    {
+        "codigo": "12.06",
+        "descricao": "Boates, taxi-dancing e congêneres.",
+        "descricaoParaBusca": "boatestaxidancingecongeneres"
+    },
+    {
+        "codigo": "12.07",
+        "descricao": "Shows, ballet, danças, desfiles, bailes, óperas, concertos, recitais, festivais e congêneres.",
+        "descricaoParaBusca": "showsballetdancasdesfilesbailesoperasconcertosrecitaisfestivaisecongeneres"
+    },
+    {
+        "codigo": "12.08",
+        "descricao": "Feiras, exposições, congressos e congêneres.",
+        "descricaoParaBusca": "feirasexposicoescongressosecongeneres"
+    },
+    {
+        "codigo": "12.09",
+        "descricao": "Bilhares, boliches e diversões eletrônicas ou não.",
+        "descricaoParaBusca": "bilharesbolichesediversoeseletronicasounao"
+    },
+    {
+        "codigo": "12.10",
+        "descricao": "Corridas e competições de animais.",
+        "descricaoParaBusca": "corridasecompeticoesdeanimais"
+    },
+    {
+        "codigo": "12.11",
+        "descricao": "Competições esportivas ou de destreza física ou intelectual, com ou sem a participação do espectador.",
+        "descricaoParaBusca": "competicoesesportivasoudedestrezafisicaouintelectualcomousemaparticipacaodoespectador"
+    },
+    {
+        "codigo": "12.12",
+        "descricao": "Execução de música.",
+        "descricaoParaBusca": "execucaodemusica"
+    },
+    {
+        "codigo": "12.13",
+        "descricao": "Produção, mediante ou sem encomenda prévia, de eventos, espetáculos, entrevistas, shows, ballet, danças, desfiles, bailes, teatros, óperas, concertos, recitais, festivais e congêneres.",
+        "descricaoParaBusca": "producaomedianteousemencomendapreviadeeventosespetaculosentrevistasshowsballetdancasdesfilesbailesteatrosoperasconcertosrecitaisfestivaisecongeneres"
+    },
+    {
+        "codigo": "12.14",
+        "descricao": "Fornecimento de música para ambientes fechados ou não, mediante transmissão por qualquer processo.",
+        "descricaoParaBusca": "fornecimentodemusicaparaambientesfechadosounaomediantetransmissaoporqualquerprocesso"
+    },
+    {
+        "codigo": "12.15",
+        "descricao": "Desfiles de blocos carnavalescos ou folclóricos, trios elétricos e congêneres.",
+        "descricaoParaBusca": "desfilesdeblocoscarnavalescosoufolcloricostrioseletricosecongeneres"
+    },
+    {
+        "codigo": "12.16",
+        "descricao": "Exibição de filmes, entrevistas, musicais, espetáculos, shows, concertos, desfiles, óperas, competições esportivas, de destreza intelectual ou congêneres.",
+        "descricaoParaBusca": "exibicaodefilmesentrevistasmusicaisespetaculosshowsconcertosdesfilesoperascompeticoesesportivasdedestrezaintelectualoucongeneres"
+    },
+    {
+        "codigo": "12.17",
+        "descricao": "Recreação e animação, inclusive em festas e eventos de qualquer natureza.",
+        "descricaoParaBusca": "recreacaoeanimacaoinclusiveemfestaseeventosdequalquernatureza"
+    },
+    {
+        "codigo": "13.02",
+        "descricao": "Fonografia ou gravação de sons, inclusive trucagem, dublagem, mixagem e congêneres.",
+        "descricaoParaBusca": "fonografiaougravacaodesonsinclusivetrucagemdublagemmixagemecongeneres"
+    },
+    {
+        "codigo": "13.03",
+        "descricao": "Fotografia e cinematografia, inclusive revelação, ampliação, cópia, reprodução, trucagem e congêneres.",
+        "descricaoParaBusca": "fotografiaecinematografiainclusiverevelacaoampliacaocopiareproducaotrucagemecongeneres"
+    },
+    {
+        "codigo": "13.04",
+        "descricao": "Reprografia, microfilmagem e digitalização.",
+        "descricaoParaBusca": "reprografiamicrofilmagemedigitalizacao"
+    },
+    {
+        "codigo": "13.05",
+        "descricao": "Composição gráfica, fotocomposição, clicheria, zincografia, litografia, fotolitografia.",
+        "descricaoParaBusca": "composicaograficafotocomposicaoclicheriazincografialitografiafotolitografia"
+    },
+    {
+        "codigo": "14.01",
+        "descricao": "Lubrificação, limpeza, lustração, revisão, carga e recarga, conserto, restauração, blindagem, manutenção e conservação de máquinas, veículos, aparelhos, equipamentos, motores, elevadores ou de qualquer objeto (exceto peças e partes empregadas, que ficam sujeitas ao ICMS).",
+        "descricaoParaBusca": "lubrificacaolimpezalustracaorevisaocargaerecargaconsertorestauracaoblindagemmanutencaoeconservacaodemaquinasveiculosaparelhosequipamentosmotoreselevadoresoudequalquerobjetoexcetopecasepartesempregadasqueficamsujeitasaoicms"
+    },
+    {
+        "codigo": "14.02",
+        "descricao": "Assistência técnica.",
+        "descricaoParaBusca": "assistenciatecnica"
+    },
+    {
+        "codigo": "14.03",
+        "descricao": "Recondicionamento de motores (exceto peças e partes empregadas, que ficam sujeitas ao ICMS).",
+        "descricaoParaBusca": "recondicionamentodemotoresexcetopecasepartesempregadasqueficamsujeitasaoicms"
+    },
+    {
+        "codigo": "14.04",
+        "descricao": "Recauchutagem ou regeneração de pneus.",
+        "descricaoParaBusca": "recauchutagemouregeneracaodepneus"
+    },
+    {
+        "codigo": "14.05",
+        "descricao": "Restauração, recondicionamento, acondicionamento, pintura, beneficiamento, lavagem, secagem, tingimento, galvanoplastia, anodização, corte, recorte, polimento, plastificação e congêneres, de objetos quaisquer.",
+        "descricaoParaBusca": "restauracaorecondicionamentoacondicionamentopinturabeneficiamentolavagemsecagemtingimentogalvanoplastiaanodizacaocorterecortepolimentoplastificacaoecongeneresdeobjetosquaisquer"
+    },
+    {
+        "codigo": "14.06",
+        "descricao": "Instalação e montagem de aparelhos, máquinas e equipamentos, inclusive montagem industrial, prestados ao usuário final, exclusivamente com material por ele fornecido.",
+        "descricaoParaBusca": "instalacaoemontagemdeaparelhosmaquinaseequipamentosinclusivemontagemindustrialprestadosaousuariofinalexclusivamentecommaterialporelefornecido"
+    },
+    {
+        "codigo": "14.07",
+        "descricao": "Colocação de molduras e congêneres.",
+        "descricaoParaBusca": "colocacaodemoldurasecongeneres"
+    },
+    {
+        "codigo": "14.08",
+        "descricao": "Encadernação, gravação e douração de livros, revistas e congêneres.",
+        "descricaoParaBusca": "encadernacaogravacaoedouracaodelivrosrevistasecongeneres"
+    },
+    {
+        "codigo": "14.09",
+        "descricao": "Alfaiataria e costura, quando o material for fornecido pelo usuário final, exceto aviamento.",
+        "descricaoParaBusca": "alfaiatariaecosturaquandoomaterialforfornecidopelousuariofinalexcetoaviamento"
+    },
+    {
+        "codigo": "14.10",
+        "descricao": "Tinturaria e lavanderia.",
+        "descricaoParaBusca": "tinturariaelavanderia"
+    },
+    {
+        "codigo": "14.11",
+        "descricao": "Tapeçaria e reforma de estofamentos em geral.",
+        "descricaoParaBusca": "tapecariaereformadeestofamentosemgeral"
+    },
+    {
+        "codigo": "14.12",
+        "descricao": "Funilaria e lanternagem.",
+        "descricaoParaBusca": "funilariaelanternagem"
+    },
+    {
+        "codigo": "14.13",
+        "descricao": "Carpintaria e serralheria.",
+        "descricaoParaBusca": "carpintariaeserralheria"
+    },
+    {
+        "codigo": "15.01",
+        "descricao": "Administração de fundos quaisquer, de consórcio, de cartão de crédito ou débito e congêneres, de carteira de clientes, de cheques pré-datados e congêneres.",
+        "descricaoParaBusca": "administracaodefundosquaisquerdeconsorciodecartaodecreditooudebitoecongeneresdecarteiradeclientesdechequespredatadosecongeneres"
+    },
+    {
+        "codigo": "15.02",
+        "descricao": "Abertura de contas em geral, inclusive conta-corrente, conta de investimentos e aplicação e caderneta de poupança, no País e no exterior, bem como a manutenção das referidas contas ativas e inativas.",
+        "descricaoParaBusca": "aberturadecontasemgeralinclusivecontacorrentecontadeinvestimentoseaplicacaoecadernetadepoupancanopaisenoexteriorbemcomoamanutencaodasreferidascontasativaseinativas"
+    },
+    {
+        "codigo": "15.03",
+        "descricao": "Locação e manutenção de cofres particulares, de terminais eletrônicos, de terminais de atendimento e de bens e equipamentos em geral.",
+        "descricaoParaBusca": "locacaoemanutencaodecofresparticularesdeterminaiseletronicosdeterminaisdeatendimentoedebenseequipamentosemgeral"
+    },
+    {
+        "codigo": "15.04",
+        "descricao": "Fornecimento ou emissão de atestados em geral, inclusive atestado de idoneidade, atestado de capacidade financeira e congêneres.",
+        "descricaoParaBusca": "fornecimentoouemissaodeatestadosemgeralinclusiveatestadodeidoneidadeatestadodecapacidadefinanceiraecongeneres"
+    },
+    {
+        "codigo": "15.05 - Cadastro, elaboração de ficha cadastral, renovação cadastral e congêneres, inclusão ou exclusão no Cadastro de Emitentes de Cheques sem Fundos",
+        "descricao": "CCF ou em quaisquer outros bancos cadastrais.",
+        "descricaoParaBusca": "ccfouemquaisqueroutrosbancoscadastrais"
+    },
+    {
+        "codigo": "15.06",
+        "descricao": "Emissão, reemissão e fornecimento de avisos, comprovantes e documentos em geral; abono de firmas; coleta e entrega de documentos, bens e valores; comunicação com outra agência ou com a administração central; licenciamento eletrônico de veículos; transferência de veículos; agenciamento fiduciário ou depositário; devolução de bens em custódia.",
+        "descricaoParaBusca": "emissaoreemissaoefornecimentodeavisoscomprovantesedocumentosemgeralabonodefirmascoletaeentregadedocumentosbensevalorescomunicacaocomoutraagenciaoucomaadministracaocentrallicenciamentoeletronicodeveiculostransferenciadeveiculosagenciamentofiduciariooudepositariodevolucaodebensemcustodia"
+    },
+    {
+        "codigo": "15.07",
+        "descricao": "Acesso, movimentação, atendimento e consulta a contas em geral, por qualquer meio ou processo, inclusive por telefone, fac-símile, internet e telex, acesso a terminais de atendimento, inclusive vinte e quatro horas; acesso a outro banco e a rede compartilhada; fornecimento de saldo, extrato e demais informações relativas a contas em geral, por qualquer meio ou processo.",
+        "descricaoParaBusca": "acessomovimentacaoatendimentoeconsultaacontasemgeralporqualquermeioouprocessoinclusiveportelefonefacsimileinternetetelexacessoaterminaisdeatendimentoinclusivevinteequatrohorasacessoaoutrobancoearedecompartilhadafornecimentodesaldoextratoedemaisinformacoesrelativasacontasemgeralporqualquermeioouprocesso"
+    },
+    {
+        "codigo": "15.08",
+        "descricao": "Emissão, reemissão, alteração, cessão, substituição, cancelamento e registro de contrato de crédito; estudo, análise e avaliação de operações de crédito; emissão, concessão, alteração ou contratação de aval, fiança, anuência e congêneres; serviços relativos a abertura de crédito, para quaisquer fins.",
+        "descricaoParaBusca": "emissaoreemissaoalteracaocessaosubstituicaocancelamentoeregistrodecontratodecreditoestudoanaliseeavaliacaodeoperacoesdecreditoemissaoconcessaoalteracaooucontratacaodeavalfiancaanuenciaecongeneresservicosrelativosaaberturadecreditoparaquaisquerfins"
+    },
+    {
+        "codigo": "15.09",
+        "descricao": "Arrendamento mercantil (leasing) de quaisquer bens, inclusive cessão de direitos e obrigações, substituição de garantia, alteração, cancelamento e registro de contrato, e demais serviços relacionados ao arrendamento mercantil (leasing).",
+        "descricaoParaBusca": "arrendamentomercantilleasingdequaisquerbensinclusivecessaodedireitoseobrigacoessubstituicaodegarantiaalteracaocancelamentoeregistrodecontratoedemaisservicosrelacionadosaoarrendamentomercantilleasing"
+    },
+    {
+        "codigo": "15.10",
+        "descricao": "Serviços relacionados a cobranças, recebimentos ou pagamentos em geral, de títulos quaisquer, de contas ou carnês, de câmbio, de tributos e por conta de terceiros, inclusive os efetuados por meio eletrônico, automático ou por máquinas de atendimento; fornecimento de posição de cobrança, recebimento ou pagamento; emissão de carnês, fichas de compensação, impressos e documentos em geral.",
+        "descricaoParaBusca": "servicosrelacionadosacobrancasrecebimentosoupagamentosemgeraldetitulosquaisquerdecontasoucarnesdecambiodetributoseporcontadeterceirosinclusiveosefetuadospormeioeletronicoautomaticooupormaquinasdeatendimentofornecimentodeposicaodecobrancarecebimentooupagamentoemissaodecarnesfichasdecompensacaoimpressosedocumentosemgeral"
+    },
+    {
+        "codigo": "15.11",
+        "descricao": "Devolução de títulos, protesto de títulos, sustação de protesto, manutenção de títulos, reapresentação de títulos, e demais serviços a eles relacionados.",
+        "descricaoParaBusca": "devolucaodetitulosprotestodetitulossustacaodeprotestomanutencaodetitulosreapresentacaodetitulosedemaisservicosaelesrelacionados"
+    },
+    {
+        "codigo": "15.12",
+        "descricao": "Custódia em geral, inclusive de títulos e valores mobiliários.",
+        "descricaoParaBusca": "custodiaemgeralinclusivedetitulosevaloresmobiliarios"
+    },
+    {
+        "codigo": "15.13",
+        "descricao": "Serviços relacionados a operações de câmbio em geral, edição, alteração, prorrogação, cancelamento e baixa de contrato de câmbio; emissão de registro de exportação ou de crédito; cobrança ou depósito no exterior; emissão, fornecimento e cancelamento de cheques de viagem; fornecimento, transferência, cancelamento e demais serviços relativos a carta de crédito de importação, exportação e garantias recebidas; envio e recebimento de mensagens em geral relacionadas a operações de câmbio.",
+        "descricaoParaBusca": "servicosrelacionadosaoperacoesdecambioemgeraledicaoalteracaoprorrogacaocancelamentoebaixadecontratodecambioemissaoderegistrodeexportacaooudecreditocobrancaoudepositonoexterioremissaofornecimentoecancelamentodechequesdeviagemfornecimentotransferenciacancelamentoedemaisservicosrelativosacartadecreditodeimportacaoexportacaoegarantiasrecebidasenvioerecebimentodemensagensemgeralrelacionadasaoperacoesdecambio"
+    },
+    {
+        "codigo": "15.14",
+        "descricao": "Fornecimento, emissão, reemissão, renovação e manutenção de cartão magnético, cartão de crédito, cartão de débito, cartão salário e congêneres.",
+        "descricaoParaBusca": "fornecimentoemissaoreemissaorenovacaoemanutencaodecartaomagneticocartaodecreditocartaodedebitocartaosalarioecongeneres"
+    },
+    {
+        "codigo": "15.15",
+        "descricao": "Compensação de cheques e títulos quaisquer; serviços relacionados a depósito, inclusive depósito identificado, a saque de contas quaisquer, por qualquer meio ou processo, inclusive em terminais eletrônicos e de atendimento.",
+        "descricaoParaBusca": "compensacaodechequesetitulosquaisquerservicosrelacionadosadepositoinclusivedepositoidentificadoasaquedecontasquaisquerporqualquermeioouprocessoinclusiveemterminaiseletronicosedeatendimento"
+    },
+    {
+        "codigo": "15.16",
+        "descricao": "Emissão, reemissão, liquidação, alteração, cancelamento e baixa de ordens de pagamento, ordens de crédito e similares, por qualquer meio ou processo; serviços relacionados à transferência de valores, dados, fundos, pagamentos e similares, inclusive entre contas em geral.",
+        "descricaoParaBusca": "emissaoreemissaoliquidacaoalteracaocancelamentoebaixadeordensdepagamentoordensdecreditoesimilaresporqualquermeioouprocessoservicosrelacionadosatransferenciadevaloresdadosfundospagamentosesimilaresinclusiveentrecontasemgeral"
+    },
+    {
+        "codigo": "15.17",
+        "descricao": "Emissão, fornecimento, devolução, sustação, cancelamento e oposição de cheques quaisquer, avulso ou por talão.",
+        "descricaoParaBusca": "emissaofornecimentodevolucaosustacaocancelamentoeoposicaodechequesquaisqueravulsoouportalao"
+    },
+    {
+        "codigo": "15.18",
+        "descricao": "Serviços relacionados a crédito imobiliário, avaliação e vistoria de imóvel ou obra, análise técnica e jurídica, emissão, reemissão, alteração, transferência e renegociação de contrato, emissão e reemissão do termo de quitação e demais serviços relacionados a crédito imobiliário.",
+        "descricaoParaBusca": "servicosrelacionadosacreditoimobiliarioavaliacaoevistoriadeimovelouobraanalisetecnicaejuridicaemissaoreemissaoalteracaotransferenciaerenegociacaodecontratoemissaoereemissaodotermodequitacaoedemaisservicosrelacionadosacreditoimobiliario"
+    },
+    {
+        "codigo": "16.01",
+        "descricao": "Serviços de transporte de natureza municipal.",
+        "descricaoParaBusca": "servicosdetransportedenaturezamunicipal"
+    },
+    {
+        "codigo": "17.01",
+        "descricao": "Assessoria ou consultoria de qualquer natureza, não contida em outros itens desta lista; análise, exame, pesquisa, coleta, compilação e fornecimento de dados e informações de qualquer natureza, inclusive cadastro e similares.",
+        "descricaoParaBusca": "assessoriaouconsultoriadequalquernaturezanaocontidaemoutrositensdestalistaanaliseexamepesquisacoletacompilacaoefornecimentodedadoseinformacoesdequalquernaturezainclusivecadastroesimilares"
+    },
+    {
+        "codigo": "17.02",
+        "descricao": "Datilografia, digitação, estenografia, expediente, secretaria em geral, resposta audível, redação, edição, interpretação, revisão, tradução, apoio e infra-estrutura administrativa e congêneres.",
+        "descricaoParaBusca": "datilografiadigitacaoestenografiaexpedientesecretariaemgeralrespostaaudivelredacaoedicaointerpretacaorevisaotraducaoapoioeinfraestruturaadministrativaecongeneres"
+    },
+    {
+        "codigo": "17.03",
+        "descricao": "Planejamento, coordenação, programação ou organização técnica, financeira ou administrativa.",
+        "descricaoParaBusca": "planejamentocoordenacaoprogramacaoouorganizacaotecnicafinanceiraouadministrativa"
+    },
+    {
+        "codigo": "17.04",
+        "descricao": "Recrutamento, agenciamento, seleção e colocação de mão-de-obra.",
+        "descricaoParaBusca": "recrutamentoagenciamentoselecaoecolocacaodemaodeobra"
+    },
+    {
+        "codigo": "17.05",
+        "descricao": "Fornecimento de mão-de-obra, mesmo em caráter temporário, inclusive de empregados ou trabalhadores, avulsos ou temporários, contratados pelo prestador de serviço.",
+        "descricaoParaBusca": "fornecimentodemaodeobramesmoemcaratertemporarioinclusivedeempregadosoutrabalhadoresavulsosoutemporarioscontratadospeloprestadordeservico"
+    },
+    {
+        "codigo": "17.06",
+        "descricao": "Propaganda e publicidade, inclusive promoção de vendas, planejamento de campanhas ou sistemas de publicidade, elaboração de desenhos, textos e demais materiais publicitários.",
+        "descricaoParaBusca": "propagandaepublicidadeinclusivepromocaodevendasplanejamentodecampanhasousistemasdepublicidadeelaboracaodedesenhostextosedemaismateriaispublicitarios"
+    },
+    {
+        "codigo": "17.08",
+        "descricao": "Franquia (franchising).",
+        "descricaoParaBusca": "franquiafranchising"
+    },
+    {
+        "codigo": "17.09",
+        "descricao": "Perícias, laudos, exames técnicos e análises técnicas.",
+        "descricaoParaBusca": "periciaslaudosexamestecnicoseanalisestecnicas"
+    },
+    {
+        "codigo": "17.10",
+        "descricao": "Planejamento, organização e administração de feiras, exposições, congressos e congêneres.",
+        "descricaoParaBusca": "planejamentoorganizacaoeadministracaodefeirasexposicoescongressosecongeneres"
+    },
+    {
+        "codigo": "17.11",
+        "descricao": "Organização de festas e recepções; bufê (exceto o fornecimento de alimentação e bebidas, que fica sujeito ao ICMS).",
+        "descricaoParaBusca": "organizacaodefestaserecepcoesbufeexcetoofornecimentodealimentacaoebebidasqueficasujeitoaoicms"
+    },
+    {
+        "codigo": "17.12",
+        "descricao": "Administração em geral, inclusive de bens e negócios de terceiros.",
+        "descricaoParaBusca": "administracaoemgeralinclusivedebensenegociosdeterceiros"
+    },
+    {
+        "codigo": "17.13",
+        "descricao": "Leilão e congêneres.",
+        "descricaoParaBusca": "leilaoecongeneres"
+    },
+    {
+        "codigo": "17.14",
+        "descricao": "Advocacia.",
+        "descricaoParaBusca": "advocacia"
+    },
+    {
+        "codigo": "17.15",
+        "descricao": "Arbitragem de qualquer espécie, inclusive jurídica.",
+        "descricaoParaBusca": "arbitragemdequalquerespecieinclusivejuridica"
+    },
+    {
+        "codigo": "17.16",
+        "descricao": "Auditoria.",
+        "descricaoParaBusca": "auditoria"
+    },
+    {
+        "codigo": "17.17",
+        "descricao": "Análise de Organização e Métodos.",
+        "descricaoParaBusca": "analisedeorganizacaoemetodos"
+    },
+    {
+        "codigo": "17.18",
+        "descricao": "Atuária e cálculos técnicos de qualquer natureza.",
+        "descricaoParaBusca": "atuariaecalculostecnicosdequalquernatureza"
+    },
+    {
+        "codigo": "17.19",
+        "descricao": "Contabilidade, inclusive serviços técnicos e auxiliares.",
+        "descricaoParaBusca": "contabilidadeinclusiveservicostecnicoseauxiliares"
+    },
+    {
+        "codigo": "17.20",
+        "descricao": "Consultoria e assessoria econômica ou financeira.",
+        "descricaoParaBusca": "consultoriaeassessoriaeconomicaoufinanceira"
+    },
+    {
+        "codigo": "17.21",
+        "descricao": "Estatística.",
+        "descricaoParaBusca": "estatistica"
+    },
+    {
+        "codigo": "17.22",
+        "descricao": "Cobrança em geral.",
+        "descricaoParaBusca": "cobrancaemgeral"
+    },
+    {
+        "codigo": "17.23",
+        "descricao": "Assessoria, análise, avaliação, atendimento, consulta, cadastro, seleção, gerenciamento de informações, administração de contas a receber ou a pagar e em geral, relacionados a operações de faturização (factoring).",
+        "descricaoParaBusca": "assessoriaanaliseavaliacaoatendimentoconsultacadastroselecaogerenciamentodeinformacoesadministracaodecontasareceberouapagareemgeralrelacionadosaoperacoesdefaturizacaofactoring"
+    },
+    {
+        "codigo": "17.24",
+        "descricao": "Apresentação de palestras, conferências, seminários e congêneres.",
+        "descricaoParaBusca": "apresentacaodepalestrasconferenciasseminariosecongeneres"
+    },
+    {
+        "codigo": "18.01",
+        "descricao": "Serviços de regulação de sinistros vinculados a contratos de seguros; inspeção e avaliação de riscos para cobertura de contratos de seguros; prevenção e gerência de riscos seguráveis e congêneres.",
+        "descricaoParaBusca": "servicosderegulacaodesinistrosvinculadosacontratosdesegurosinspecaoeavaliacaoderiscosparacoberturadecontratosdesegurosprevencaoegerenciaderiscosseguraveisecongeneres"
+    },
+    {
+        "codigo": "19.01",
+        "descricao": "Serviços de distribuição e venda de bilhetes e demais produtos de loteria, bingos, cartões, pules ou cupons de apostas, sorteios, prêmios, inclusive os decorrentes de títulos de capitalização e congêneres.",
+        "descricaoParaBusca": "servicosdedistribuicaoevendadebilhetesedemaisprodutosdeloteriabingoscartoespulesoucuponsdeapostassorteiospremiosinclusiveosdecorrentesdetitulosdecapitalizacaoecongeneres"
+    },
+    {
+        "codigo": "20.01",
+        "descricao": "Serviços portuários, ferroportuários, utilização de porto, movimentação de passageiros, reboque de embarcações, rebocador escoteiro, atracação, desatracação, serviços de praticagem, capatazia, armazenagem de qualquer natureza, serviços acessórios, movimentação de mercadorias, serviços de apoio marítimo, de movimentação ao largo, serviços de armadores, estiva, conferência, logística e congêneres.",
+        "descricaoParaBusca": "servicosportuariosferroportuariosutilizacaodeportomovimentacaodepassageirosreboquedeembarcacoesrebocadorescoteiroatracacaodesatracacaoservicosdepraticagemcapataziaarmazenagemdequalquernaturezaservicosacessoriosmovimentacaodemercadoriasservicosdeapoiomaritimodemovimentacaoaolargoservicosdearmadoresestivaconferencialogisticaecongeneres"
+    },
+    {
+        "codigo": "20.02",
+        "descricao": "Serviços aeroportuários, utilização de aeroporto, movimentação de passageiros, armazenagem de qualquer natureza, capatazia, movimentação de aeronaves, serviços de apoio aeroportuários, serviços acessórios, movimentação de mercadorias, logística e congêneres.",
+        "descricaoParaBusca": "servicosaeroportuariosutilizacaodeaeroportomovimentacaodepassageirosarmazenagemdequalquernaturezacapataziamovimentacaodeaeronavesservicosdeapoioaeroportuariosservicosacessoriosmovimentacaodemercadoriaslogisticaecongeneres"
+    },
+    {
+        "codigo": "20.03",
+        "descricao": "Serviços de terminais rodoviários, ferroviários, metroviários, movimentação de passageiros, mercadorias, inclusive     suas operações, logística e congêneres.",
+        "descricaoParaBusca": "servicosdeterminaisrodoviariosferroviariosmetroviariosmovimentacaodepassageirosmercadoriasinclusivesuasoperacoeslogisticaecongeneres"
+    },
+    {
+        "codigo": "21.01",
+        "descricao": "Serviços de registros públicos, cartorários e notariais.",
+        "descricaoParaBusca": "servicosderegistrospublicoscartorariosenotariais"
+    },
+    {
+        "codigo": "22.01",
+        "descricao": "Serviços de exploração de rodovia mediante cobrança de preço ou pedágio dos usuários, envolvendo execução de serviços de conservação, manutenção, melhoramentos para adequação de capacidade e segurança de trânsito, operação, monitoração, assistência aos usuários e outros serviços definidos em contratos, atos de concessão ou de permissão ou em      normas oficiais.",
+        "descricaoParaBusca": "servicosdeexploracaoderodoviamediantecobrancadeprecooupedagiodosusuariosenvolvendoexecucaodeservicosdeconservacaomanutencaomelhoramentosparaadequacaodecapacidadeesegurancadetransitooperacaomonitoracaoassistenciaaosusuarioseoutrosservicosdefinidosemcontratosatosdeconcessaooudepermissaoouemnormasoficiais"
+    },
+    {
+        "codigo": "23.01",
+        "descricao": "Serviços de programação e comunicação visual, desenho industrial e congêneres.",
+        "descricaoParaBusca": "servicosdeprogramacaoecomunicacaovisualdesenhoindustrialecongeneres"
+    },
+    {
+        "codigo": "24.01",
+        "descricao": "Serviços de chaveiros, confecção de carimbos, placas, sinalização visual, banners, adesivos e congêneres.",
+        "descricaoParaBusca": "servicosdechaveirosconfeccaodecarimbosplacassinalizacaovisualbannersadesivosecongeneres"
+    },
+    {
+        "codigo": "25.01",
+        "descricao": "Funerais, inclusive fornecimento de caixão, urna ou esquifes; aluguel de capela; transporte do corpo cadavérico; fornecimento de flores, coroas e outros paramentos; desembaraço de certidão de óbito; fornecimento de véu, essa e outros adornos; embalsamento, embelezamento, conservação ou restauração de cadáveres.",
+        "descricaoParaBusca": "funeraisinclusivefornecimentodecaixaournaouesquifesalugueldecapelatransportedocorpocadavericofornecimentodeflorescoroaseoutrosparamentosdesembaracodecertidaodeobitofornecimentodeveuessaeoutrosadornosembalsamentoembelezamentoconservacaoourestauracaodecadaveres"
+    },
+    {
+        "codigo": "25.02",
+        "descricao": "Cremação de corpos e partes de corpos cadavéricos.",
+        "descricaoParaBusca": "cremacaodecorposepartesdecorposcadavericos"
+    },
+    {
+        "codigo": "25.03",
+        "descricao": "Planos ou convênio funerários.",
+        "descricaoParaBusca": "planosouconveniofunerarios"
+    },
+    {
+        "codigo": "25.04",
+        "descricao": "Manutenção e conservação de jazigos e cemitérios.",
+        "descricaoParaBusca": "manutencaoeconservacaodejazigosecemiterios"
+    },
+    {
+        "codigo": "26.01",
+        "descricao": "Serviços de coleta, remessa ou entrega de correspondências, documentos, objetos, bens ou valores, inclusive pelos correios e suas agências franqueadas; courrier e congêneres.",
+        "descricaoParaBusca": "servicosdecoletaremessaouentregadecorrespondenciasdocumentosobjetosbensouvaloresinclusivepeloscorreiosesuasagenciasfranqueadascourrierecongeneres"
+    },
+    {
+        "codigo": "27.01",
+        "descricao": "Serviços de assistência social.",
+        "descricaoParaBusca": "servicosdeassistenciasocial"
+    },
+    {
+        "codigo": "28.01",
+        "descricao": "Serviços de avaliação de bens e serviços de qualquer natureza.",
+        "descricaoParaBusca": "servicosdeavaliacaodebenseservicosdequalquernatureza"
+    },
+    {
+        "codigo": "29.01",
+        "descricao": "Serviços de biblioteconomia.",
+        "descricaoParaBusca": "servicosdebiblioteconomia"
+    },
+    {
+        "codigo": "30.01",
+        "descricao": "Serviços de biologia, biotecnologia e química.",
+        "descricaoParaBusca": "servicosdebiologiabiotecnologiaequimica"
+    },
+    {
+        "codigo": "31.01",
+        "descricao": "Serviços técnicos em edificações, eletrônica, eletrotécnica, mecânica, telecomunicações e congêneres.",
+        "descricaoParaBusca": "servicostecnicosemedificacoeseletronicaeletrotecnicamecanicatelecomunicacoesecongeneres"
+    },
+    {
+        "codigo": "32.01",
+        "descricao": "Serviços de desenhos técnicos.",
+        "descricaoParaBusca": "servicosdedesenhostecnicos"
+    },
+    {
+        "codigo": "33.01",
+        "descricao": "Serviços de desembaraço aduaneiro, comissários, despachantes e congêneres.",
+        "descricaoParaBusca": "servicosdedesembaracoaduaneirocomissariosdespachantesecongeneres"
+    },
+    {
+        "codigo": "34.01",
+        "descricao": "Serviços de investigações particulares, detetives e congêneres.",
+        "descricaoParaBusca": "servicosdeinvestigacoesparticularesdetetivesecongeneres"
+    },
+    {
+        "codigo": "35.01",
+        "descricao": "Serviços de reportagem, assessoria de imprensa, jornalismo e relações públicas.",
+        "descricaoParaBusca": "servicosdereportagemassessoriadeimprensajornalismoerelacoespublicas"
+    },
+    {
+        "codigo": "36.01",
+        "descricao": "Serviços de meteorologia.",
+        "descricaoParaBusca": "servicosdemeteorologia"
+    },
+    {
+        "codigo": "37.01",
+        "descricao": "Serviços de artistas, atletas, modelos e manequins.",
+        "descricaoParaBusca": "servicosdeartistasatletasmodelosemanequins"
+    },
+    {
+        "codigo": "38.01",
+        "descricao": "Serviços de museologia.",
+        "descricaoParaBusca": "servicosdemuseologia"
+    },
+    {
+        "codigo": "39.01",
+        "descricao": "Serviços de ourivesaria e lapidação (quando o material for fornecido pelo tomador do serviço).",
+        "descricaoParaBusca": "servicosdeourivesariaelapidacaoquandoomaterialforfornecidopelotomadordoservico"
+    },
+    {
+        "codigo": "40.01",
+        "descricao": "Obras de arte sob encomenda.",
+        "descricaoParaBusca": "obrasdeartesobencomenda"
+    }
+]
