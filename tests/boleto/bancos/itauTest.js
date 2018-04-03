@@ -27,8 +27,8 @@ module.exports = {
 		pagador.comRegistroNacional('00132781000178');
 
 		beneficiario = Beneficiario.novoBeneficiario();
-		beneficiario.comNome('Gammasoft Desenvolvimento de Software Ltda');
-		beneficiario.comRegistroNacional('19950366000150');
+		beneficiario.comNome('Hifuzion Fábrica de Softwares LTDA');
+		beneficiario.comRegistroNacional('15691929000181');
 		beneficiario.comAgencia('167');
 		beneficiario.comCarteira('157');
 		beneficiario.comCodigoBeneficiario('45145');
