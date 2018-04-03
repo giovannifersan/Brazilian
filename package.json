@@ -1,5 +1,5 @@
 {
-  "name": "braziliahelp",
+  "name": "brazilian",
   "version": "0.0.1",
   "description": "Ferramentas utilitárias para desenvolvedores brasileiros",
   "main": "brazilian.js",
@@ -46,7 +46,7 @@
   "license": "MIT",
   "readmeFilename": "README.md",
   "dependencies": {
-    "brazilianutils": "0.0.67",
+    "brazilianutils": "0.0.1",
     "pdfkit": "^0.7.0"
   },
   "devDependencies": {
