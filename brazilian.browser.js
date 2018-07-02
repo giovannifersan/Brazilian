@@ -1,4 +1,4 @@
-//browserify brasil.js -s brasil | uglifyjs > ./dist/brasil.browser.js
+//browserify brazilian.js -s brazilian | uglifyjs > ./dist/brazilian.browser.js
 
 module.exports = {
     nfe: require('./lib/nfeUtils'),
