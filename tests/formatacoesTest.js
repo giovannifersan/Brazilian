@@ -1,4 +1,4 @@
-var formatacoes = require('../brasil').formatacoes;
+var formatacoes = require('../brazilian').formatacoes;
 
 module.exports = {
 
