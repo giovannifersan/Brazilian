@@ -1,4 +1,4 @@
-var bancos = require('../brasil').bancos;
+var bancos = require('../brazilian').bancos;
 
 module.exports = {
 	itau: {
