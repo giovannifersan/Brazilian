@@ -1,4 +1,4 @@
-var boleto = require('../brasil').boleto,
+var boleto = require('../brazilian').boleto,
     bancos = boleto.bancos,
     Endereco = boleto.Endereco,
 	Gerador = boleto.Gerador,
