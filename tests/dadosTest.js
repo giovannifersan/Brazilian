@@ -1,6 +1,6 @@
-var gammautils = require('gammautils'),
-    groupBySync = gammautils.array.groupBySync,
-    values = gammautils.object.values,
+var brazilianutils = require('brazilianutils'),
+    groupBySync = brazilianutils.array.groupBySync,
+    values = brazilianutils.object.values,
     dados = require('../brazilian').dados;
 
 var existsSync = (process.version.indexOf('v0.6') !== -1 ? require('path').existsSync : existsSync = require('fs').existsSync);
