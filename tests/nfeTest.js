@@ -1,4 +1,4 @@
-var nfe = require("../brasil").nfe;
+var nfe = require("../brazilian").nfe;
 
 module.exports = {
     obterAutorizadorPorUf: {
