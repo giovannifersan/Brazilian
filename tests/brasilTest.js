@@ -1,7 +1,7 @@
 var
 	fs = require("fs"),
 	path = require('path'),
-	utils = require("../brasil");
+	utils = require("../brazilian");
 
 var existsSync = (process.version.indexOf("v0.6") !== -1 ? require("path").existsSync : existsSync = fs.existsSync);
 
