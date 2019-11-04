@@ -1,4 +1,4 @@
-var validacoes = require("../brasil").validacoes;
+var validacoes = require("../brazilian").validacoes;
 
 module.exports = {
 
