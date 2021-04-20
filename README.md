@@ -1,4 +1,7 @@
 Brazilian
+[![Build Status](https://img.shields.io/github/stars/brazilian.svg)](https://github.com/brazilian)
+[![Latest Stable Version](https://img.shields.io/npm/v/brazilian.svg)](https://www.npmjs.com/package/brazilian)
+[![NPM Downloads](https://img.shields.io/npm/dt/brazilian.svg)](https://www.npmjs.com/package/brazilian)
 ======
 
 
