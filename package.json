@@ -43,7 +43,6 @@
     "DDD"
   ],
   "author": "Giovanni Fersan <giovannifersan@icloud.com>",
-  "license": "MIT",
   "readmeFilename": "README.md",
   "dependencies": {
     "brazilianutils": "0.0.1",
