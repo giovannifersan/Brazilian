@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/thefersan/brazilian.git"
+    "url": "https://github.com/giovannifersan/brazilian.git"
   },
   "keywords": [
     "brasil",
@@ -42,7 +42,7 @@
     "ncm",
     "DDD"
   ],
-  "author": "Giovanni Fersan <thefersan@gmail.com>",
+  "author": "Giovanni Fersan <giovannifersan@icloud.com>",
   "license": "MIT",
   "readmeFilename": "README.md",
   "dependencies": {
@@ -55,8 +55,8 @@
   "contributors": [
     {
       "name": "Giovanni Fersan",
-      "email": "thefersan@gmail.com",
-      "url": "https://github.com/thefersan",
+      "email": "giovannifersan@icloud.com",
+      "url": "https://github.com/giovannifersan",
       "contributions": 112,
       "hireable": false
     }
