@@ -1,6 +1,6 @@
 {
   "name": "brazilian",
-  "version": "0.0.4",
+  "version": "0.0.3",
   "description": "Ferramentas utilitárias para desenvolvedores brasileiros",
   "main": "brazilian.js",
   "browser": "brazilian.browser.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/giovannifersan/brazilian.git"
+    "url": "git://github.com/giovannifersan/brazilian.git"
   },
   "keywords": [
     "brasil",
@@ -53,7 +53,7 @@
     "nodeunit": "~0.8.1"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/giovannifersan"
   },
   "license": "MIT",
   "contributors": [
