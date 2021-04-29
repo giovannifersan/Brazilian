@@ -1,6 +1,6 @@
 {
   "name": "brazilian",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Ferramentas utilitárias para desenvolvedores brasileiros",
   "main": "brazilian.js",
   "browser": "brazilian.browser.js",
@@ -45,6 +45,7 @@
   "author": "Giovanni Fersan <giovannifersan@icloud.com>",
   "readmeFilename": "README.md",
   "dependencies": {
+    "@windix/npm-tiny": "^1.3.0",
     "brazilianutils": "0.0.1",
     "pdfkit": "^0.7.0"
   },
