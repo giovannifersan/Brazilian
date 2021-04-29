@@ -1,6 +1,6 @@
 {
   "name": "brazilian",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Ferramentas utilitárias para desenvolvedores brasileiros",
   "main": "brazilian.js",
   "browser": "brazilian.browser.js",
