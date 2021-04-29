@@ -1,9 +1,8 @@
-[![Version][version-shield]][npm-version-url]
+[![Version][version-shield]][version-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 [![Downloads][download-url]][download-url]
 
 
@@ -160,7 +159,7 @@ Project Link: [https://github.com/giovannifersan/brazilian](https://github.com/g
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [version-shield]: https://img.shields.io/github/package-json/v/giovannifersan/brazilian?style=for-the-badge
-[npm-version-url]: https://github.com/giovannifersan/brazilian/graphs/contributors
+[version-url]: https://github.com/giovannifersan/brazilian/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/giovannifersan/brazilian.svg?style=for-the-badge
 [forks-url]: https://github.com/giovannifersan/brazilian/network/members
 [stars-shield]: https://img.shields.io/github/stars/giovannifersan/brazilian.svg?style=for-the-badge
@@ -169,6 +168,4 @@ Project Link: [https://github.com/giovannifersan/brazilian](https://github.com/g
 [issues-url]: https://github.com/giovannifersan/brazilian/issues
 [license-shield]: https://img.shields.io/github/license/giovannifersan/brazilian.svg?style=for-the-badge
 [license-url]: https://github.com/giovannifersan/brazilian/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/giovannifersan
 [download-url]: https://img.shields.io/github/downloads/giovannifersan/brazilian/total?style=for-the-badge
