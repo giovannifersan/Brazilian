@@ -51,13 +51,15 @@
   "devDependencies": {
     "nodeunit": "~0.8.1"
   },
-  "license": "ISC",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "license": "MIT",
   "contributors": [
     {
       "name": "Giovanni Fersan",
       "email": "giovannifersan@icloud.com",
       "url": "https://github.com/giovannifersan",
-      "contributions": 112,
       "hireable": false
     }
   ]
