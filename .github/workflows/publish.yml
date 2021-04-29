@@ -13,8 +13,8 @@ jobs:
       - uses: actions/setup-node@v1
         with:
           node-version: 14
-      - run: yarn install
-      - run: yarn test
+      - run: npm install
+      - run: npm test
 
   publish-gpr:
     needs: build
@@ -26,10 +26,10 @@ jobs:
           node-version: 14
           registry-url: https://npm.pkg.github.com/
           scope: '@giovannifersan'
-      - run: yarn install
+      - run: npm install
       - run: git config --global user.email "$GITHUB_ACTOR@users.noreply.github.com" && git config --global user.name "$GITHUB_ACTOR"
-      - run: yarn version --minor
+      - run: npm version --minor
       - run: git push --tags && git push
-      - run: yarn publish
+      - run: npm publish
         env:
           NODE_AUTH_TOKEN: ${{secrets.NPMTOKEN}}
