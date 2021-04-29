@@ -45,7 +45,6 @@
   "author": "Giovanni Fersan <giovannifersan@icloud.com>",
   "readmeFilename": "README.md",
   "dependencies": {
-    "@windix/npm-tiny": "^1.3.0",
     "brazilianutils": "0.0.1",
     "pdfkit": "^0.7.0"
   },
