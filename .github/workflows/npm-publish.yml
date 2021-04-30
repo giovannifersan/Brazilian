@@ -42,10 +42,16 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v2
-        with: 
+        with:
+          node-version: 14
           username: ${{ github.actor }}
           password: ${{ secrets.GITHUB_TOKEN }}
           registry: npm.pkg.github.com
           repository: ${{ github.repository }}
           tag_with_sha: true
           tag_with_ref: true 
+      - run: npm ci
+      - run: npm i
+      - run: npm publish
+        env:
+          NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
