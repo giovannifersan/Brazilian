@@ -1,9 +1,9 @@
 [![Version][version-shield]][version-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 [![Downloads][download-url]][download-url]
+[![Issues][issues-shield]][issues-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Forks][forks-shield]][forks-url]
+[![MIT License][license-shield]][license-url]
 
 
 
@@ -158,14 +158,14 @@ Project Link: [https://github.com/giovannifersan/brazilian](https://github.com/g
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[version-shield]: https://img.shields.io/github/package-json/v/giovannifersan/brazilian?style=for-the-badge
+[version-shield]: https://img.shields.io/github/package-json/v/giovannifersan/brazilian?color=white&style=for-the-badge
 [version-url]: https://github.com/giovannifersan/brazilian/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/giovannifersan/brazilian.svg?style=for-the-badge
 [forks-url]: https://github.com/giovannifersan/brazilian/network/members
-[stars-shield]: https://img.shields.io/github/stars/giovannifersan/brazilian.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/giovannifersan/brazilian.svg?color=yellow&style=for-the-badge
 [stars-url]: https://github.com/giovannifersan/brazilian/stargazers
 [issues-shield]: https://img.shields.io/github/issues/giovannifersan/brazilian.svg?style=for-the-badge
 [issues-url]: https://github.com/giovannifersan/brazilian/issues
-[license-shield]: https://img.shields.io/github/license/giovannifersan/brazilian.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/giovannifersan/brazilian.svg?color=black&style=for-the-badge
 [license-url]: https://github.com/giovannifersan/brazilian/blob/master/LICENSE.txt
-[download-url]: https://img.shields.io/github/downloads/giovannifersan/brazilian/total?style=for-the-badge
+[download-url]: https://img.shields.io/npm/dt/brazilian?color=purple&style=for-the-badge
